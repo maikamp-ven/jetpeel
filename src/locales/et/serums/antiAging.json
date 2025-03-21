@@ -1,0 +1,90 @@
+{
+  "slug": "anti-aging",
+  "name": "JetCare™ Vananemisvastane",
+  "description": [
+    "JetPeel™ Anti-Aging Care on eksklusiivne, uuendatud hooldussari, mis pakub täiustatud vananemisvastaseid valemeid spetsiaalselt küpsele nahale.",
+    "Anti-Aging Solution võitleb kortsude, naha lõtvumise ja tuhmi jume vastu.",
+    "See ainulaadne hoolduskogu kasutab hüaluroonhappe silendavaid ja pinguldavaid omadusi, kombineerituna peptiidide ja võimsate looduslike ekstraktidega, mis taastavad naha loomuliku sära.",
+    "Anti-Aging Care hoolduskomplekt sisaldab:",
+    "Wide Range Hyaluronic Acid – mitmemolekulaarne hüaluroonhappe segu, mis tungib erinevatesse nahakihtidesse ja hooldab kortse sügavuti kuni pinnani.",
+    "Witch Hazel & Peptides Solution – nõiapuu ja valke tugevdavate peptiididega hoolduslahus, mis pinguldab nahka ja annab sellele sära.",
+    "Peptide Complex Solution – ideaalne lahendus vananemise ja elastsuse kaotuse vastu, aidates taastada naha tugevust aminohapeterikaste peptiididega.",
+    "Kogege JetPeel™ Anti-Aging Care hoolduse tõhusust ja laske oma nahal tunduda nooruslik, elastne ja elujõuline!"
+  ],
+  "products": [
+    { "slug": "wide-range-hyaluronic-acid",
+      "name": "JetCare™ Wide Range Hyaluronic Acid",
+      "label": "Taastab ühtlase nahatooni ja loomuliku sära",
+      "title": "Peamised aktiivsed koostisosad",
+      "subtitle": "Hüaluroonhape – Viis erineva mõjuga molekulkaalu",
+      "subtitle1": "Regu-age® – Tõhus peptiidide ja valkude kombinatsioon",
+      "description": [
+        "Laiatoimeline hüaluroonhape – Siluv ja pinguldav toime. See ainulaadne multimolekulaarne hüaluroonhappe kompleks ühendab viis erinevat molekulkaalu, võimaldades samaaegset imendumist erinevatesse nahakihtidesse. Koos hoolikalt valitud peptiididega on see koostis väga mitmekülgne ja tõhus JetCare hooldussarja põhikomponent.",
+        "Laiatoimeline hüaluroonhappe koostis annab nähtavaid tulemusi. Hüaluroonhappe parimad eelised saavutatakse erinevate molekulkaalude ühendamisel, mis mõjutavad nahka mitmel tasandil:",
+        "✔ Madala ja keskmise molekulkaaluga HA imendub sügavamatesse nahakihtidesse, pakkudes pikaajalist niisutust.",
+        "✔ Kõrge molekulkaaluga HA jääb naha pinnale, niisutades koheselt ja parandades naha välimust.",
+        "See ainulaadne viie erineva molekulkaalu kombinatsioon tagab optimaalsed hooldustulemused."
+      ],
+      "list": [
+        "5–20 kDa HA: Sügavuti niisutav toime ja naha taastamine seestpoolt.",
+        "20–50 kDa HA: Tungib nahakihtidesse, mis parandavad biomehaanilisi omadusi ja elastsust.",
+        "100–300 kDa HA: Toetab naha loomulikke kaitsemehhanisme ja kiirendab taastumisprotsesse.",
+        "150–600 kDa HA: Pakub naha pinnale kohese vananemisvastase toime ja taastava tunde.",
+        "1500–1800 kDa HA: Moodustab naha pinnale niisutava ja toitva kihi, mis silub ja pehmendab naha struktuuri."
+      ],
+      "text1": [
+        "See patenteeritud peptiidi- ja valgu kompleks pakub kiiret ja tõhusat vananemisvastast toimet. Puhastatud soja- ja riisipeptiidid ning biotehnoloogiliselt toodetud pärmivalk aitavad parandada naha tooni ja sära."
+      ]
+    },
+    { "slug": "witch-hazel-peptides",
+      "name": "Nõiapuu & Peptiidid",
+      "label": "Taastav toime pinguldab ja uuendab nahka",
+      "title": "Peamised aktiivsed koostisosad",
+      "subtitle": "Nõiapuuekstrakt",
+      "subtitle1": "Regu-age®",
+      "subtitle2": "Replexium®",
+      "subtitle3": "Betaiin",
+      "description": [
+        "Nõiapuu & Peptiidid – Ühtlane nahatoon ja särav jume. See tõhus koostis puhastab nahka, silub pindmisi ebatasasusi ja loob ühtlase, noorusliku sära. See sisaldab rikkalikult nõiapuuekstrakti, mis on tuntud oma tugeva ahendava ja rahustava toime poolest, ning valke tugevdavaid peptiide, mis pakuvad pinguldavat ja vananemisvastast efekti.",
+        "Anti-Aging Care sarja kuuluv Nõiapuu & Peptiidid on ideaalne lahendus naha puhastamiseks ja heledamaks muutmiseks. Selle hoolikalt valitud peptiidid tugevdavad naha tugevust ja elastsust, muutes selle suurepäraseks valikuks vananemisvastaste hoolduste jaoks."
+      ],
+      "text": [
+        "Tuntud kui tõhus ahendav aine, mis sobib kõikidele nahatüüpidele. Aitab vähendada sügelust ja punetust, luues ühtlase ja särava nahatooni. See vananemisvastane koostis sisaldab suures kontsentratsioonis nõiapuuekstrakti, mis pakub tugevat rahustavat toimet ja täiendab ainulaadset peptiidikompleksi."
+      ],
+      "text1": [
+        "See patenteeritud peptiidide ja valkude kombinatsioon pakub kiiret ja tõhusat vananemisvastast toimet. Puhastatud soja- ja riisipeptiidid koos biotehnoloogiliselt toodetud pärmivalguga aitavad parandada naha tooni ja sära."
+      ],
+      "text2": [
+        "Innovatiivne segu kahest patenteeritud bioaktiivsest peptiidist, mis kiirendavad nähtavalt peente joonte vähenemist ja parandavad naha struktuuri. See toimeaine töötab kiiremini kui tavalised peptiidid, pakkudes kiiret ja tõhusat vananemisvastast toimet."
+      ],
+      "text3": [
+        "Tuntud oma niisutavate ja rahustavate omaduste poolest, betaiin on looduslik niiskusesäilitaja, mis aitab hoida niiskust ja parandada naha struktuuri. Lisaks tugevdab betaiin naha kaitsebarjääri, aidates nahal püsida pingul, niisutatud ja siledana."
+      ]
+    },
+    { "slug": "peptide-complex",
+      "name": "Peptiidikompleks",
+      "label": "Annab nahale nooruslikku elujõudu ja elastsust",
+      "title": "Peamised aktiivsed koostisosad",
+      "subtitle": "Replexium™",
+      "subtitle1": "Juveleven™",
+      "subtitle2": "Pentavitin®",
+      "subtitle3": "Regu-age®",
+      "description": [
+        "Peptiidikompleks – Nahka pinguldav ja elustav toime. Anti-Aging Care hooldussarja kuuluv peptiidikompleks on spetsiaalselt loodud vananevale nahale, mis on kaotanud oma elastsuse. See tõhus peptiidisegu aitab taastada naha tugevust ja nooruslikkust.",
+        "Tõhus peptiidisegu. Uuringud näitavad, et peptiidid on naha valkude – nagu kollageeni, elastiini ja keratiini – ehitusplokid, mis moodustavad tugeva, elastse ja sileda naha aluse. Kui nahk kaotab need elutähtsad valgud, võib tulemuseks olla lõtv ja elastsuse kaotanud nahk. See ainulaadne peptiidi koostis aitab taastada naha tugevust ja struktuuri, toetades naha loomulikku uuenemisprotsessi."
+      ],
+      "text": [
+        "See patenteeritud peptiidide ja valkude kombinatsioon pakub kiiret ja tõhusat vananemisvastast toimet. See sisaldab puhastatud soja- ja riisipeptiide ning biotehnoloogiliselt toodetud pärmivalku, mis parandavad naha tooni ja sära."
+      ],
+      "text1": [
+        "See heksapeptiid toimib tõhusa nahakaitsena, võideldes päikesekiirguse, õhusaaste ja stressi mõjude vastu. See on loodud naha vastupidavuse tugevdamiseks ja loomuliku elujõu edendamiseks."
+      ],
+      "text2": [
+        "100% looduslik, taimepõhine süsivesikukompleks, mis meenutab nahas looduslikult esinevaid süsivesikuid. Selle ainulaadne sidumismehhanism tagab kiire ja pikaajalise niisutuse, aidates nahal säilitada optimaalset niiskustasakaalu."
+      ],
+      "text3": [
+        "See patenteeritud peptiidikompleks sisaldab puhastatud soja- ja riisipeptiide ning biotehnoloogiliselt toodetud pärmivalku, mis tugevdavad naha tooni ja sära, pakkudes kiiret vananemisvastast toimet."
+      ]
+    }
+  ]
+}

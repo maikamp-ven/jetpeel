@@ -1,0 +1,166 @@
+{
+  "slug": "selective-care",
+  "name": "JetCare™ Selective Care",
+  "description": [
+    "Selective Care is JetPeel™'s high-tech and exclusive treatment line designed to meet specific skin and scalp needs.",
+    "This unique treatment series utilizes patented and biotechnologically advanced ingredients, offering effective solutions for clients and patients.",
+    "Enriched with antioxidant-rich active ingredients and biopeptides, the JetCare Select treatment line enables: Brightening the skin with a stabilized Vitamin C formula for enhanced radiance and evenness. Reducing acne marks with powerful purifying actives. Soothing redness for sensitive and irritated skin. Revitalizing the scalp and hair with specially formulated treatment solutions."
+  ],
+  "description1": [
+    "Growth Factor – A cutting-edge anti-aging treatment that harnesses: Epidermal Growth Factor (EGF) – a next-generation solution for restoring youthful and revitalized skin.",
+    "A high-concentration Argireline complex that reduces fine lines and wrinkles. Selective Care offers tailored solutions for individual client needs – experience the advanced treatment effects of JetPeel™ technology!"
+  ],
+  "products": [
+    {"slug": "growth-factor",
+      "name": "Growth Factor",
+      "label": "Anti-aging treatment powered by nature",
+      "title": "Main Active Ingredients",
+      "subtitle": "BioPlacenta",
+      "subtitle1": "Betaine",
+      "description": [
+        "Growth Factor – Next-generation anti-aging treatment. Developed with advanced skin rejuvenation technology, JetCare’s anti-aging treatment harnesses the power of growth factors to combat signs of aging and restore skin elasticity and youthfulness.",
+        "Next-generation skin renewal. Selective Care – Growth Factor is a top-tier treatment complex containing Epidermal Growth Factor (EGF) – a well-known and powerful anti-aging ingredient. EGF boosts hydration, enhances skin elasticity, and reduces wrinkles. This advanced cosmetic compound combines with other anti-aging active ingredients to deliver exceptional results."
+      ],
+      "text": [
+        "Modern technology has made Epidermal Growth Factor (EGF) a key component in skincare, offering ultra-advanced skin rejuvenation benefits.",
+        "BioPlacenta is an anti-aging and skin-regenerating complex that contains five different growth factors: EGF (Epidermal Growth Factor), IGF-1 (Insulin-like Growth Factor-1), Acidic FGF (Fibroblast Growth Factor), Basic FGF, and VEGF (Vascular Endothelial Growth Factor).",
+        "Additionally, BioPlacenta contains Acetyl Glutamine amino acid and Vitamin B9, which enhance skin regeneration, hydration, and elasticity while reducing wrinkles."
+      ],
+      "text1": [
+        "Known for its moisturizing and soothing effects, Betaine is a natural humectant that helps retain moisture, improves skin texture, and supports anti-aging benefits. Betaine strengthens the skin’s protective barrier, keeping it firm, hydrated, and smooth."
+      ]
+    },
+    {"slug": "argireline-complex",
+      "name": "Argireline® Complex",
+      "label": "Purifying and balancing solution for smooth, even skin",
+      "title": "Main Active Ingredients",
+      "subtitle": "Argireline®",
+      "subtitle1": "Primalhyal-3K™",
+      "subtitle2": "Betaine",
+      "subtitle3": "Pro-Vitamin B5 – Panthenol",
+      "description": [
+        "Argireline® Complex – A natural anti-aging treatment. A safe alternative to traditional anti-aging injections, Selective Care – Argireline® Complex helps reduce fine lines and expression wrinkles, leaving the skin smoother and more youthful.",
+        "High-concentration Argireline® for maximum effect. This treatment formula contains a significantly higher concentration of the Argireline® peptide, which helps reduce wrinkle depth and expression lines. Combined with Vitamin B5 and a three-molecular-weight hyaluronic acid complex, it is a highly effective anti-aging solution."
+      ],
+      "text": [
+        "This treatment formula contains 5% Argireline® peptide, known as an advanced natural hexapeptide. It helps relax facial muscles, reducing the depth of fine lines and creating a smoother, more youthful appearance."
+      ],
+      "text1": [
+        "This three-phase HA blend provides multi-level anti-aging effects:",
+        "✔ 100–300 kDa HA – Strengthens the skin’s natural repair mechanisms and protective functions.",
+        "✔ 20–50 kDa HA – Enhances the skin’s biomechanical properties and firmness, making it tighter.",
+        "✔ 5–20 kDa HA – Penetrates deep into the epidermal layers, supporting skin renewal from within."
+      ],
+      "text2": [
+        "Known for its moisturizing and soothing properties, Betaine is a natural humectant that binds moisture to the skin and improves its texture. Betaine also strengthens the skin’s natural barrier, helping it remain firm, hydrated, and smooth."
+      ],
+      "text3": [
+        "D-Panthenol nourishes and hydrates the skin, locks in moisture, strengthens the skin’s protective barrier, and promotes cell renewal, contributing to an overall anti-aging effect."
+      ]
+    },
+    {"slug": "clear",
+      "name": "JetCare™ Clear",
+      "label": "Brighter and More Radiant Complexion",
+      "title": "Main Active Ingredients",
+      "subtitle": "Salicylic Acid",
+      "subtitle1": "Acnacidol™- 10-HDA",
+      "subtitle2": "Neutrazen™",
+      "subtitle3": "Niacinamide",
+      "description": [
+        "Clear – A purifying and balancing solution for smooth, even skin. Specially designed to achieve a clear and even complexion, this formula is rich in Omega-hydroxy acids and salicylic acid, which cleanse clogged pores and refine the skin’s surface.",
+        "Selected ingredients for pure skin. Selective Care – Clear is a unique formula that combines well-known purifying and smoothing active ingredients. Its blend of Omega-hydroxy acids and Beta-hydroxy acid (BHA), along with a B-vitamin derivative and an advanced lipopeptide component, creates a fresh, clear, and clean-looking skin."
+      ],
+      "text": [
+        "This BHA acid is known for its soothing and anti-inflammatory properties. It reduces redness, calms stressed skin, and helps combat impurities and clogged pores. Additionally, salicylic acid acts as a keratolytic agent, meaning it effectively exfoliates the skin, removes excess sebum, and leaves the skin feeling soft and smooth."
+      ],
+      "text1": [
+        "This Omega-hydroxy acid is naturally derived from royal jelly, known for its nutrient-rich and skin-renewing properties. A gentle yet effective brightening active ingredient that functions as a skin balancer, promoting a clear and even complexion."
+      ],
+      "text2": [
+        "A biomimetic lipopeptide based on three amino acids, designed to soothe irritated skin and maintain the skin’s normal sensitivity threshold. Its powerful calming effect enhances skin well-being and helps achieve a beautifully clear complexion."
+      ],
+      "text3": [
+        "One of the two forms of Vitamin B3, niacinamide contains antioxidants that fight free radicals and absorb quickly into the skin. It is known for its moisturizing and protective properties, which reduce signs of aging, firm the skin, and help shield it from external stressors."
+      ]
+    },
+    {"slug": "scalp-hair",
+      "name": "JetCare™ Scalp & Hair",
+      "label": "Revitalizes the scalp and hair, making them fuller and stronger",
+      "title": "Main Active Ingredients",
+      "subtitle": "Redensyl™",
+      "subtitle1": "Biomimetic Peptide – Capixyl™",
+      "subtitle2": "RootBioTec™",
+      "subtitle3": "Combination of B-Vitamin Derivatives",
+      "description": [
+        "Scalp and hair revitalizing treatment – For fuller and healthier hair. JetCare's premium product for men and women, developed with innovative, targeted active ingredients to rejuvenate the scalp and create the ideal conditions for thicker, stronger hair.",
+        "Revitalizes the scalp and promotes hair density. Selective Care – Scalp & Hair complex combines nourishing and regenerative ingredients chosen for their advanced scalp and hair-revitalizing properties. Combined with JetPeel’s pressurized jet technology, the scalp and hair receive a powerful activation, creating a youthful and vibrant appearance."
+      ],
+      "text": [
+        "An anti-aging ingredient containing amino acids and antioxidants that supports scalp nourishment and regeneration, creating better conditions for healthy hair growth."
+      ],
+      "text1": [
+        "An advanced combination of peptides and red clover extract, rich in Biochanin A, a clinically proven active ingredient that enhances hair thickness, density, and overall health. This powerful blend provides an effective anti-aging effect for both the scalp and hair, suitable for both men and women."
+      ],
+      "text2": [
+        "An innovative biotechnological active ingredient derived from basil, developed using a special technique to produce high-quality plant-based compounds that nourish and strengthen the scalp and hair."
+      ],
+      "text3": [
+        "Selective Care – Scalp & Hair is enriched with an antioxidant-rich blend of B vitamins, including:",
+        "✔ Niacinamide (Vitamin B3) – Promotes scalp health.",
+        "✔ Panthenol (Pro-Vitamin B5) – Soothes and strengthens the scalp.",
+        "✔ Biotin (Vitamin B7) – Known for its hair-strengthening and revitalizing effects."
+      ]
+    },
+    {"slug": "soothing",
+      "name": "JetCare™ Soothing",
+      "label": "Soothes redness and promotes an even, healthy skin tone",
+      "title": "Main Active Ingredients",
+      "subtitle": "Azeloglicina®",
+      "subtitle1": "Ronacare® Troxerutin",
+      "subtitle2": "Pro-Vitamin B5 – Panthenol",
+      "subtitle3": "Crodarom Nordic Cotton",
+      "subtitle4": "Organic Aloe Vera",
+      "description": [
+        "Redness-soothing treatment – For smooth and healthy skin. Specially formulated to relieve redness and impurities, this treatment is based on an innovative combination of soothing active ingredients. This composition hydrates, nourishes, and evens out uneven skin, creating a balanced and healthy-looking complexion.",
+        "Soothes redness and evens out skin tone. Selective Care – Soothing is an effective calming infusion composed of advanced active ingredients that reduce redness and promote an even, healthy skin tone. A combination of patented biotechnologically developed ingredients and Crodarom Nordic Cotton extract, sourced from Nordic nature, makes Selective Care – Soothing an excellent solution for uneven and irritated skin."
+      ],
+      "text": [
+        "This patented ingredient is a combination of azelaic acid and glycine, enhancing the purifying effect and helping to reduce dark spots and skin irregularities. It is also known for its soothing effect on irritated skin, helping to create an even and radiant complexion."
+      ],
+      "text1": [
+        "This advanced ingredient supports blood and lymphatic microcirculation by strengthening capillary walls and reducing their fragility. Ronacare® Troxerutin helps combat oxidative stress and protects epithelial cells, promoting overall skin health."
+      ],
+      "text2": [
+        "A deeply hydrating and nourishing active ingredient derived from wild Nordic cotton plant extract. It has astringent and softening properties, making it an ideal ingredient for soothing and strengthening sensitive, irritated skin."
+      ],
+      "text3": [
+        "This antioxidant and antibacterial ingredient is known for its calming and moisturizing effects. Aloe vera helps to soften and instantly soothe the skin while providing protection against external irritants."
+      ]
+    },
+    {"slug": "lightening",
+      "name": "JetCare™ Lightening",
+      "label": "Renews and refreshes the skin, giving it a youthful glow",
+      "title": "Main Active Ingredients",
+      "subtitle": "Alpha-Arbutin (α-Arbutin)",
+      "subtitle1": "Beta-White (β-White)",
+      "subtitle2": "Alpaflor® Gigawhite",
+      "subtitle3": "Stay-C®",
+      "description": [
+        "Lightening – A brighter, more radiant skin tone. The Selective Care – Lightening treatment, enriched with advanced brightening ingredients, helps achieve a more luminous, even, and radiant complexion.",
+        "The perfect solution for a clear and bright skin tone. This advanced brightening formula is packed with natural and active ingredients that help fade pigmentation changes over time, restoring a natural, radiant, and glowing look."
+      ],
+      "text": [
+        "A natural plant-based brightening ingredient extracted from bearberry, blueberries, and lingonberries. Alpha-Arbutin helps fade pigmentation caused by acne and sun exposure. It inhibits tyrosinase activity and melanosome maturation, reducing pigmentation irregularities and brightening the skin. It works through the same mechanism as hydroquinone but causes less irritation, making it gentler on the skin."
+      ],
+      "text1": [
+        "An advanced biomimetic peptide complex that balances skin tone and reduces unevenness. This powerful active ingredient helps lighten pigmentation and create a brighter, more even complexion."
+      ],
+      "text2": [
+        "A combination of seven plant extracts grown in the Swiss Alps, selected for their natural brightening and illuminating properties. Cultivated at high altitudes, these plant extracts help create a natural, even, and lighter skin tone. This effective and eco-friendly plant extract blend is gentle on both the skin and the environment."
+      ],
+      "text3": [
+        "An advanced, stabilized (phosphorylated) sodium salt of L-ascorbic acid (Vitamin C), which absorbs more efficiently into the skin than traditional Vitamin C compounds. Stay-C quickly converts into ascorbic acid, penetrating the skin and enhancing its natural glow. With its powerful antioxidant effects, it improves skin tone and smooths its overall appearance."
+      ]
+    }
+  ]
+}

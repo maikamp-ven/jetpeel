@@ -1,0 +1,101 @@
+{
+  "slug": "boost",
+  "name": "JetCare™ Boost",
+  "description": [
+    "Suurenda JetPeel-hoolduste mõju Boost-lahendustega. Maksimeeri JetCare-hoolduste eelised intensiivse ja toitva Boost-sarjaga. Booster-seerumid täiendavad JetPeel-hooldusi ja kiirendavad tulemusi, pakkudes tugevamaid ja kauakestvamaid efekte."
+  ],
+  "description1": [
+    "JetCare Boost – Neli võimsat booster-seerumit: Hydrate – Hüaluroonhappega volüümi lisav niisutus, Regenerate – A- ja E-vitamiinidega rikastatud taastav hooldus, Glow – C-vitamiiniga võimendatud säraefekt, Tight – Kolmest B-vitamiini derivaadist koosnev pinguldav ja naha tooni parandav hooldus.",
+    "Vali õige Booster-hooldus vastavalt nahatüübile ja vajadustele: paranda naha tooni ja välimust, suurenda kliendirahulolu.",
+    "Nauti Boost Set’ist, mis ühendab erinevad booster-seerumid, pakkudes täielikku JetCare-lahendust, andes nahale noorusliku, särava ja elujõulise ilme."
+  ],
+  "products": [
+    { "slug": "hydrate",
+      "name": "Hydrate",
+      "label": "Tippkvaliteediga hüaluroonhape täitesarnase efektiga ja täiesti sile nahk",
+      "title": "Peamised aktiivsed koostisosad",
+      "subtitle": "PrimalHyal™ Ultrafiller",
+      "subtitle1": "Niacinamide (B3-vitamiin)",
+      "subtitle2": "Betaine",
+      "description": [
+        "Hydrate – Tipptasemel HA täidlase ja sileda naha jaoks. Suurenda JetPeel-hoolduse mõju JetCare Boost sarja Hydrate-hooldusega. See hooldus sisaldab PrimalHyal™ Ultrafiller koostisosa, mis on arenenud hüaluroonhappe tehnoloogia, loodud kortsude kiireks ja tõhusaks täitmiseks. Üks JetCare sarja populaarsemaid tooteid, mis pakub nähtavalt siledamat nahka ja pikaajalist nooruslikkust."
+      ],
+      "text": [
+        "Täidlust andev vananemisvastane toime ilma nõelteta. JetCare Boost – Hydrate HA pakub valutut ja tõhusat kortsude täitmist ilma taastumisajata. Selle ainulaadne patenteeritud HA-koostis tagab kauakestva noorusliku ja täidlase naha."
+      ],
+      "text1": [
+        "Hüaluroonhape (HA) on naha loomulik molekul, mis on tuntud oma suurepäraste niiskust siduvate omaduste poolest. See tipptasemel ja patenteeritud HA-derivaat viib vananemisvastased hooldused uuele tasemele, soodustades HA imendumist sügavamatesse nahakihtidesse, parandades peente joonte ja kortsude välimust."
+      ],
+      "text2": [
+        "See võimas antioksüdant, mis võitleb vabade radikaalidega, on tuntud oma kiiresti imenduvate ja kaitsvate niisutavate omaduste poolest. Niatsiinamiid aitab pinguldada nahatooni, võidelda vananemise märkidega ja ennetada väliste tegurite põhjustatud kahjustusi."
+      ],
+      "text3": [
+        "Betaiin on tuntud oma niisutavate ja rahustavate omaduste poolest. See looduslik niisutaja aitab lukustada niiskust nahas, parandada naha tekstuuri ja pakkuda vananemisvastast toimet. Betaiin tugevdab naha loomulikku kaitsebarjääri, hoides seda niisutatuna, pehmena ja siledana."
+      ]
+    },
+    { "slug": "regenerate",
+      "name": "JetCare™ Regenerate",
+      "label": "Tee noorusliku ja kauni naha poole",
+      "title": "Peamised aktiivsed koostisosad",
+      "subtitle": "A-vitamiin (Retinüülpalmitaat)",
+      "subtitle1": "E-vitamiin",
+      "subtitle2": "Pentavitin®",
+      "subtitle3": "Regu-age®",
+      "subtitle4": "Rooma kummeli ekstrakt"
+    },
+    { "slug": "glow",
+      "name": "Glow",
+      "label": "C-vitamiini säravat mõju otse nahale",
+      "title": "Peamised aktiivsed koostisosad",
+      "subtitle": "Stay-C®",
+      "subtitle1": "AHA-happed puuviljaekstraktidest",
+      "description": [
+        "Glow – Naha säravaks muutmine C-vitamiini jõul. Tõhus sära andev booster, mis sisaldab kõrge kontsentratsiooniga C-vitamiini. See innovatiivne hoolduslahendus põhineb stabiilsel C-vitamiini derivaatil, mis on vastupidavam ja tõhusam kui traditsiooniline askorbiinhape, tagades tugevama helendava efekti.",
+        "Valitud koostisosad puhta naha jaoks. Selective Care – Täiustatud koostisosad taastavad naha loomuliku sära. C-vitamiiniga rikastatud JetCare Boost seerum on spetsiaalselt välja töötatud naha säravaks muutmiseks ja noorendamiseks. See sisaldab looduslikke puuviljaekstrakte, mis toetavad naha ühtlust ja kiirgust, muutes selle ideaalseks valikuks kõikidele nahatüüpidele – nii noorele kui ka vananevale nahale."
+      ],
+      "text": [
+        "See täiustatud stabiliseeritud naatriumasetaat on askorbiinhappe (C-vitamiini) tõhus derivaat, mis muundub kiiresti aktiivseks askorbiinhappeks, tungides sügavale nahka ja andes tugeva helendava efekti. Stay-C® aitab parandada naha tooni ja siluda ebaühtlusi, samal ajal kui selle tugev antioksüdantne toime kaitseb nahka väliste kahjulike tegurite eest."
+      ],
+      "text1": [
+        "See looduslik puuviljapõhine AHA segu suurendab C-vitamiini imendumist JetCare Glow seerumis, aidates eemaldada tuhmust ja taastada naha värskust. Tulemuseks on sile, ühtlane ja särav nahk."
+      ]
+    },
+    { "slug": "tight",
+      "name": "Tight",
+      "label": "B-vitamiinide pinguldav jõud",
+      "title": "Peamised aktiivsed koostisosad",
+      "subtitle": "Pro-vitamiin B5 – Pantenool",
+      "subtitle1": "Niatsiinamiid (B3-vitamiin)",
+      "subtitle2": "Biotiin (B7-vitamiin)",
+      "description": [
+        "B-vitamiinide pinguldav jõud. Kolme B-vitamiini derivaadi kombinatsioon, mis pakub tugevat pinguldavat ja niisutavat toimet.",
+        "Kolmekordne B-vitamiini toime. B-vitamiinid on ühed kõige tõhusamad koostisosad nahahoolduses, tuntud oma võime poolest toita ja rahustada nahka. See JetCare lahendus sisaldab hoolikalt uuritud ja testitud B-vitamiinide kombinatsiooni, mis tagab sügavniisutuse ja niiskuse säilitamise nahas, aidates kaasa pinguldavale ja tõstvatele omadustele."
+      ],
+      "text": [
+        "D-Pantenool aitab nahka toita ja niisutada, lukustades niiskuse ja tugevdades naha kaitsebarjääri. Samuti uuendab ja värskendab see naharakke, edendades nooruslikku ja elastset nahka."
+      ],
+      "text1": [
+        "B3-vitamiini üks vorm, niatsiinamiid, on tuntud oma antioksüdantsete ja kaitsvate niisutavate omaduste poolest. See aitab võidelda vananemise märkidega, parandada naha tooni ja ennetada väliste tegurite põhjustatud kahjustusi."
+      ],
+      "text2": [
+        "Biotiin on tuntud oma niisutavate ja nahka pehmendavate omaduste poolest. Selle toitev mõju tugevneb koos B5- ja B3-vitamiini sünergilise toimega, edendades naha tervist ja elastsust."
+      ]
+    },
+    { "slug": "boost-set",
+      "name": "Boost Set",
+      "label": "Soovitatav JetPeel-hoolduse lõpetamiseks Boost-raviga",
+      "title": "JetCare Boost sari",
+      "subtitle": "4 erinevat booster-seerumit",
+      "description": [
+        "JetPeel-hoolduse lõpetamiseks on soovitatav kasutada Boost-ravi. JetPeel-hoolduse mõju suurendamiseks on soovitatav täiendada protseduuri Boost-seerumiga, mis maksimeerib tulemusi ja pikendab hoolduse mõju.",
+        "JetCare Boost sari pakub nelja spetsiaalselt välja töötatud boosterit, mis vastavad erinevatele nahavajadustele."
+      ],
+      "text": [
+        "✔ JetCare Boost Hydrate (HA) – Täiustatud hüaluroonhape, mis pakub täidlust andvat ja niisutavat toimet.",
+        "✔ JetCare Boost Regenerate (Vit A + E) – A- ja E-vitamiinide antioksüdantne jõud, mis annab tugeva vananemisvastase toime.",
+        "✔ JetCare Boost Glow (Vit C) – C-vitamiini helendav toime, mis annab nahale sära ja ühtlustab tooni.",
+        "✔ JetCare Boost Tight (Vit B kompleks) – B3-, B5- ja B7-vitamiinide pinguldav jõud, mis parandab naha elastsust ja vastupidavust."
+      ]
+    }
+  ]
+}

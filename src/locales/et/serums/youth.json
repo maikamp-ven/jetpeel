@@ -1,0 +1,86 @@
+{
+  "slug": "youth",
+  "name": "JetCare™ Youth",
+  "description":[ 
+    "Kaitse oma nahka tulevikuks JetCare Youth'iga. JetCare Youth on tõhus nahahooldussari, mis kasutab Surnumere mineraale ning on spetsiaalselt loodud noore naha 'prejuvenatsiooni' – ennetava nooruslikkuse säilitamise jaoks. 'Prejuvenatsioon' on kasvav trend esteetilises nahahoolduses, kuna üha rohkem 20–30-aastaseid püüab säilitada naha loomulikku nooruslikkust. JetCare Youth tooted sisaldavad kaitsefunktsiooniga Surnumere mineraale ja looduslikke nahka tugevdavaid koostisosi, mis aitavad ennetada vananemise esimesi märke: peente joonte teket, naha lõtvumist ja tuhmust."
+  ],
+  "description1":[
+    "JetCare Youth hooldusprotokoll viiakse läbi JetPeel’i survepihustustehnoloogiaga, mis suurendab Surnumere mineraalide kasulikke omadusi. JetCare Youth pakub uut lähenemisviisi naha kaitsmiseks ja nooruse säilitamiseks, aidates ennetada nahakahjustusi juba enne nende tekkimist ning hoides naha sileda, särava ja noorusliku välimusega. Koostöös JetPeel’i ekspertidega välja töötatud ravimeetod põhineb TavTechi JetPeel survepihustustehnoloogial ning on mõeldud kasutamiseks koos JetPeel käsiseadmete, JetPro seadme ja JetCare hooldusjuhistega. JetCare Youth – ennetav nahahooldus, mis tagab sinu naha sära ja nooruslikkuse aastateks!"
+  ],
+  "products": [
+    {"slug": "dead-sea-hydro",
+      "name": "Dead Sea Hydro",
+      "title": "Peamised aktiivsed koostisosad",
+      "subtitle": "Dunaliella® HGL",
+      "subtitle1": "Orgaaniline Aloe Vera",
+      "description": [
+        "Dead Sea Hydro – Valmistav lümfimassaaž naha hoolduseks. Dead Sea Hydro on eelhooldusena tehtav lümfimassaaž, mis valmistab naha ette, et see saaks hilisemates hooldusfaasides omastada toitained. See mineraalirikas lahus sisaldab Surnumere mineraale, mis puhastavad ja aitavad eemaldada naha ebapuhtusi."
+      ],
+      "text": [
+        "✔ Aitab aeglustada naharakkude vananemist.",
+        "✔ Kaitseb nahka päikese kahjustuste eest."
+      ],
+      "text1": [
+        "✔ Võimas antioksüdantne pehmendav aine, mis silub ja rahustab nahka kiiresti.",
+        "✔ Pakub antimikroobset kaitset, mis aitab hoida naha tervena ja tasakaalus."
+      ]
+    },
+    {"slug": "dead-sea-exfoliation",
+      "name": "Dead Sea Exfoliation",
+      "title": "Peamised aktiivsed koostisosad",
+      "subtitle": "Dunaliella® HGL",
+      "subtitle1": "Allantoiin",
+      "subtitle2": "Piimhape (Lactic Acid)",
+      "subtitle3": "Orgaaniline Aloe Vera",
+      "subtitle4": "D-Panthenol 75% (B5-vitamiin)",
+      "description": [
+        "Dead Sea Exfoliation – Õrn koorimine ja niisutav toime. Dead Sea Exfoliation pakub tõhusat, kuid õrna koorimist, mis eemaldab ebapuhtused ja surnud naharakud, samal ajal niisutades nahka. Lisaks koorivale toimele aitab see ainulaadne koostis parandada naha struktuuri ja valmistada seda ette järgmisteks hooldusetappideks."
+      ],
+      "text": [
+        "Aitab aeglustada naharakkude vananemist.",
+        "Kaitseb nahka päikese kahjustuste eest."
+      ],
+      "text1": [
+        "Niisutab, koorib ja silub naha pinda, aidates saavutada pehmema ja siledama naha."
+      ],
+      "text2": [
+        "Õrn AHA-hape, mis eemaldab surnud naharakud, stimuleerib rakkude uuenemist ja toetab naha loomulikku niiskustasakaalu."
+      ],
+      "text3": [
+        "Võimas antioksüdantne pehmendaja, mis kiiresti rahustab ja pehmendab nahka.",
+        "Pakub antimikroobset kaitset, mis aitab hoida naha tervena."
+      ],
+      "text4": [
+        "Lukustab niiskuse nahas ja tugevdab naha loomulikku kaitsebarjääri.",
+        "Kaitseb nahka keskkonnamõjude ja vananemismärkide eest."
+      ]
+    },
+    {"slug": "dead-sea-nourishment",
+      "name": "Dead Sea Nourishment",
+      "title": "Peamised aktiivsed koostisosad",
+      "subtitle": "Magneesiumsulfaat",
+      "subtitle1": "Dunaliella® HGL",
+      "subtitle2": "Sepitonic™ M3",
+      "subtitle3": "Akoactive Queen",
+      "description": [
+        "JetCare Youth – Viimane etapp: Toitev infusioon. JetCare Youth hooldusprotokolli viimane samm on intensiivne toitaineterikas infusioon, mis sisaldab Surnumere mineraale ja vananemisvastaseid toimeaineid. See ainulaadne koostis tagab sügava niisutuse ja naha uuenemise, aidates ennetada tulevasi nahakahjustusi ning tugevdades naha loomulikku kaitsebarjääri ja nooruslikku struktuuri."
+      ],
+      "text": [
+        "Tugeva põletikuvastase toimega mineraal, mis aitab eemaldada liigset rasu ja toksiine, mis võivad nahka kahjustada."
+      ],
+      "text1": [
+        "Aitab aeglustada naharakkude vananemist.",
+        "Kaitseb nahka päikese põhjustatud kahjustuste eest."
+      ],
+      "text2": [
+        "Patenteeritud toimeaine, mis aitab võidelda rakuväsimuse vastu ja suurendab hapniku kättesaadavust nahas.",
+        "Kaitseb nahka glükatsiooni eest – protsess, mis võib kiirendada vananemise nähtavaid märke.",
+        "Toimib aktiivsete ainete kandjana, tugevdades teiste vananemisvastaste koostisosade mõju ning parandades naha vastupanuvõimet keskkonna kahjulike mõjude suhtes."
+      ],
+      "text3": [
+        "Värsketest roosi kroonlehtedest saadud niisutav toimeaine.",
+        "Vähendab väsimusmärke nahal, elavdab üldist välimust ja parandab naha tooni."
+      ]
+    }
+  ]
+}

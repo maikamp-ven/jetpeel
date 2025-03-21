@@ -1,0 +1,128 @@
+{
+  "nav": {
+    "language": "Kieli",
+    "technology": "Teknologia",
+    "devices": "Laiteet",
+    "handpieces": "Käsikappaleet",
+    "treatments": "Hoitotuotteet",
+    "contact": "Yhteystiedot"
+  },
+  "mobileNav": {
+    "technology": "Teknologia",
+    "devices": "Laiteet",
+    "handpieces": "Käsikappaleet",
+    "serums": "Hoitotuotteet",
+    "contacts": "Yhteystiedot"
+  },
+  "helmet": {
+    "title": "JetPeel – Hoitoa, jonka iho ymmärtää!",
+    "description": "JetPeel by TavTech mullistaa ihonhoidon suihkupaineratkaisulla, joka on saanut inspiraationsa ilmailuteknologiasta.",
+    "keywords": "JetPeel, ihohoito, esteettinen hoito, kauneus, ihonhoito, TavTech"
+  },
+  "header": {
+    "title": "JetPeel – Hoitoa, jonka iho ymmärtää!",
+    "subtitle": "Ole paras versio itsestäsi",
+    "text1": "Tervetuloa JetPeelin maailmaan! JetPeel™ by TavTech mullistaa ihonhoidon patentoimallaan suihkupaineratkaisulla, joka on saanut inspiraationsa ilmailuteknologiasta. Tämä ei-invasiivinen, neulaton hoito käyttää nopeita mikro-tippoja ihon puhdistamiseen, kuorintaan ja ravinteiden imeyttämiseen, tarjoten välittömiä ja kivuttomia tuloksia.",
+    "text2": "JetPeel-laitteet sisältävät erikoiskäsikappaleet ja ainutlaatuisen JetCare-ihonhoitosarjan, joka on kehitetty optimaaliseen hoitotehokkuuteen ja yhteensopivuuteen.",
+    "contact": "Ota yhteyttä"
+  },
+  "video": {
+    "title": "JetPeel - teknologian taustalla",
+    "fallback": "Selaimesi ei tue videota."
+  },
+  "technology": {
+    "title": "Suihkuteknologia - näe tulokset",
+    "text": {
+      "text1": "Vain TavTechille kehitetty JetPeel-suihkupaineenergiaan perustuva esteettinen hoitoteknologia on maailmanlaajuinen läpimurto transdermaaliseen vaikuttavien aineiden imeyttämiseen. Tämä teknologia tarjoaa innovatiivisen ratkaisun yleisiin iho-ongelmiin ja esteettisiin hoitotarpeisiin.",
+      "text2": "Lentoteknologiasta inspiroitunut JetPeel vie ei-invasiiviset, mutta tehokkaat ihonhoitomenetelmät uudelle tasolle – yhdistäen huipputason kliiniset tulokset ja maksimaalisen asiakasmukavuuden.",
+      "text3": "<0>JetPeel™ - laite</0> tuottaa paineistettua ilmaa, joka kiihdytetään ja muutetaan hienojakoiseksi suihkuksi. Nämä mikrosuihkut, joiden nopeus ylittää 200 m/s, kohdistetaan iholle patentoidulla JetPeel-käsikappaleella. Tämä sauvamainen instrumentti on saatavilla eri kokoisina ja eri hoitoihin räätälöityinä versioina. Hoidon aikana käsikappaleen hienojakoiset nestevirrat tarjoavat hellävaraisen lymfahieronnan, jonka jälkeen seuraa kuorinta ja ihon pintakerroksen kevyt venytys, mahdollistaen vaikuttavien aineiden imeytymisen syvempiin ihokerroksiin.",
+      "text4": "Tämä sauvamainen instrumentti on saatavilla eri kokoisina ja eri hoitoihin räätälöityinä versioina. Hoidon aikana käsikappaleen hienojakoiset nestevirrat tarjoavat hellävaraisen lymfahieronnan, jonka jälkeen seuraa kuorinta ja ihon pintakerroksen kevyt venytys, mahdollistaen vaikuttavien aineiden imeytymisen syvempiin ihokerroksiin.",
+      "text5": "Ilman neuloja, kipua tai ihon vaurioitumista JetPeel luo mikroskooppisia kanavia, joiden kautta hoitoaineet pääsevät vaikuttamaan ihon syvemmissä kerroksissa. Yhdistettynä JetCare-erikoistuotteisiin, jotka on kehitetty erilaisiin iho-ongelmiin, JetPeel-hoito tarjoaa ravitsevia mikropisaroita, jotka imeytyvät ihon alle – tuoden näkyviä tuloksia ja pitkäkestoista vaikutusta."
+    },
+    "buttons": {
+      "contact": "Ota yhteyttä",
+      "readMore": "Lue lisää"
+    },
+    "gifs": {
+      "gif1Alt": "JetPeel infuusio",
+      "gif2Alt": "JetPeel exfoliaatio"
+    }
+  },
+  "steps": [
+  {
+    "number": "1",
+    "title_card": "IMUNESTIMULOIVA HIERONTA",
+    "capacity_1": "Rentouttava ja miellyttävä hieronta, joka edistää ihon luonnollista puhdistumista ja aktivoi mikroverenkiertoa, tukien ihon uusiutumista."
+  },
+
+  {
+    "number": "2",
+    "title_card": "HELLÄVARAINEN KUORINTA",
+    "capacity_1": "Tehokas mutta hellävarainen kuorinta poistaa kuolleet ihosolut, valmistaen ihon vastaanottamaan hoidon vaikuttavat aineet."
+  },
+
+  {
+    "number": "3",
+    "title_card": "SYVÄVAIKUTTEINEN INFUUSIO",
+    "capacity_1": "Innovatiivinen infuusioteknologia takaa aktiivisten ainesosien syvävaikutteisen imeytymisen, raviten ja kosteuttaen ihoa optimaalisesti."
+  },
+
+  {
+    "number": "4",
+    "title_card": "TEHOSTAVA BOOSTER-INFUUSIO",
+    "capacity_1": "Viimeistelevä vaihe, joka maksimoi hoidon tulokset ja pidentää sen vaikutusta iholla."
+  }
+],
+  "advantages": {
+    "title": "JetPeel - kauneutta ilman epämukavuutta",
+    "subtitle": "Kliinisesti todistettu hoito laajaan valikoimaan kosmeettisia ja dermatologisia ongelmia:",
+    "list": [
+      "Ei neuloja, ei kipua, ei invasiivisia toimenpiteitä",
+      "Nopea transdermaalinen imeytyminen ja välittömät tulokset",
+      "Ei arpia, ei toipumisaikaa",
+      "Ei potilaan toipumisaikaa",
+      "Miellyttävä ja rentouttava hoitokokemus"
+    ]
+  },
+  "footer": {
+    "description": "Ammattikosmetiikan maahantuoja, tukkumyymälä ja verkkokauppa Helsingin Katajanokalla.",
+    "contact_title": "Yhteystiedot",
+    "phone": "Puhelinnumero",
+    "company_id": "Y-tunnus",
+    "address": "Osoite",
+    "social_media": "Sosiaalinen media",
+    "privacy_policy": "Tietosuojaseloste"
+  },
+  "contact_form": {
+    "title": "Yhteydenottolomake",
+    "subtitle": "Otamme sinuun yhteyttä mahdollisimman pian.",
+    "name": "Nimi",
+    "name_placeholder": "Etunimi Sukunimi",
+    "phone": "Puhelinnumero",
+    "phone_placeholder": "+358 12 345 6789",
+    "email": "Sähköpostiosoite",
+    "email_placeholder": "esimerkki@sähköposti.com",
+    "topic": "Mitä asiasi koskee?",
+    "product_info": "Lisätietoja tuotteesta",
+    "price_info": "Selvitä hinta",
+    "other": "Muuta asiaa",
+    "help_text": "Kerro, miten voimme olla avuksi?",
+    "submit": "Lähetä",
+    "recaptcha_error": "Pahoittelut, vahvista reCAPTCHA.",
+    "sending": "Lähetetään...",
+    "error": "Virhe lähetyksessä. Yritä uudelleen.",
+    "server_error": "Palvelinvirhe. Yritä myöhemmin uudelleen.",
+    "subject": "Yhteydenottopyyntö verkkosivulta"
+  },
+  "thankYou": {
+    "title": "Kiitos!",
+    "message": "Viestisi on vastaanotettu. Otamme sinuun yhteyttä pian.",
+    "backToHome": "Takaisin etusivulle"
+  },
+  "notFound": {
+    "title": "404 - Sivua ei löytynyt | JetPeel",
+    "heading": "404 - Sivua ei löytynyt",
+    "message": "Valitettavasti etsimääsi sivua ei löydy. Voit palata etusivulle tai tutustua muihin palveluihimme.",
+    "backToHome": "Palaa etusivulle"
+  }
+}

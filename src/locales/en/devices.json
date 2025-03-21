@@ -1,0 +1,157 @@
+{
+    "title": "JetPeel™ - Device",
+    "description": "JetPeel technology is available in various devices and delivery systems for aesthetic, cosmetic, and dermatological treatments.",
+    "products": {
+      "jetPro": {
+        "title": "JetPro – A Revolution in Aesthetic Cosmetology",
+        "text": "JetPro is an advanced skin care technology designed for safe, non-invasive, and effective skin rejuvenation. The device uses high-pressure gas-liquid technology to deeply cleanse the skin, deliver active ingredients, and stimulate skin renewal without damaging the epidermis. This results in rapid and visible improvements. JetPro not only treats the skin – it helps people feel refreshed, healthy, and beautiful, instilling confidence in their skin and its care in an entirely new way. Developed based on over 20 years of scientific research, JetPro technology elevates aesthetic treatments to a new level.",
+        "heroTitle": "Innovative Skin Care Technology!",
+        "heroText": "JetPro combines skin health with confident beauty. This entirely new aesthetic treatment method penetrates deep into the skin while remaining completely non-invasive and clinically studied. JetPro delivers visible results immediately through its transdermal delivery system – without needles, skin damage, scars, downtime, or recovery. In fact, JetPro treatments are so comfortable and relaxing that beauty salon and spa clients can enjoy becoming their best selves in a peaceful and effective treatment process.",
+        "sections": [
+          {
+            "title": "How Does JetPro Work?",
+            "list": [
+              "JetPro utilizes advanced jet technology to provide deeply penetrating treatment in a compact and easy-to-use device.",
+              "JetPro generates high-pressure, fast-moving liquid streams directed onto the skin via a patented JetPeel handpiece.",
+              "When applied at a 45° angle, the jet delivers a gentle yet effective pressure on the skin, exfoliating the surface layer via microdermabrasion and preparing it for transdermal treatment.",
+              "When directed straight at the skin, the powerful jets stretch the skin to create microscopic channels that allow deeper penetration of active ingredients.",
+              "JetPro works in conjunction with JetCare treatment solutions to address various skin needs.",
+              "The nozzles deliver active and nourishing ingredients as micro-droplets deep into the skin – with no waiting time, as they absorb instantly, providing visible results on the same day.",
+              "The device does not use needles and does not break the skin, making the treatment completely painless, leaving no scars, and requiring no recovery time.",
+              "After the treatment, clients can immediately return to their daily activities without interruptions. Additionally, the clinically proven results of the treatment are immediately visible, and the relaxing and refreshing experience of JetPro treatment gives the client a new glow and confidence."
+            ]
+          },
+          {
+            "title": "Benefits for Aesthetic Professionals",
+            "list": [
+              "Scientifically proven. Clinically verified visible results from the first treatment, ensuring high client satisfaction.",
+              "Safe and effective. A non-invasive, needle-free treatment that does not leave marks on the skin. The patient enjoys a pleasant experience without damage or recovery time.",
+              "One device, multiple treatment possibilities. Combined with different JetPeel handpieces and JetCare solutions, a single device offers a wide range of treatment options.",
+              "Fast return on investment (ROI), business growth. Investing in cutting-edge technology guarantees excellent results, satisfied clients, and loyal returning customers."
+            ]
+          },
+          {
+            "title": "Benefits for Patients",
+            "list": [
+              "✔ No pain. Non-invasive jet pressure sprays penetrate the skin in a completely comfortable, relaxing, and enjoyable experience.",
+              "✔ No downtime. The skin remains intact, requiring no recovery period. Patients can leave the treatment feeling completely comfortable and immediately return to their normal daily routine.",
+              "✔ Fast and visible results. The immediate delivery of active ingredients deep into the skin ensures that results are instantly noticeable.",
+              "✔ Confidence and beauty. JetPro treatment is pleasant and relaxing, with clinically proven results that boost confidence in its effectiveness."
+            ]
+          },
+          {
+            "title": "JetPro Technical Specifications",
+            "list": [
+              { "label": "📌 Dimensions", "value": "510mm x 580mm x 720mm" },
+              { "label": "📌 Weight", "value": "31 kg" },
+              { "label": "📌 Operating Pressure", "value": "95 psi ± 10%" }
+            ]
+          }
+        ]
+      },
+      "jetProDuo": {
+        "title": "JetPro™ Duo",
+        "text": "The next generation of JetPeel™ – JetPro™ Duo combines hydroporation and photoporation. JetPeel™ sets a new milestone by developing the JetPro™ Duo technology, which integrates deep-acting LED light therapy (photoporation) and the cutting-edge JetPeel™ hydroporation technology. JetPro™ Duo LED light technology utilizes liquid hydroporation jets as light conductors, directing red and blue light waves deep into the skin up to the Stratum reticulare layer through special LED handpieces.",
+        "heroTitle": "More Powerful Performance!",
+        "heroText": "🔴🔵 The effect of red and blue Jet LED light provides a dual treatment solution that enhances the results of JetPeel™ treatments. This unique combination in the JetPro™ Duo system integrates hydroporation and photoporation, significantly expanding treatment possibilities. JetPro™ Duo offers an innovative, two-step transdermal treatment method that improves skin quality more effectively and optimizes its rejuvenating and regenerating effects. 5-in-1: Lymphatic massage, exfoliation, hydroporation, cold therapy, and LED therapy.",
+        "sections": [
+          {
+            "title": "How Does JetPro Duo Work?",
+            "list": [
+              "LED (Light Emitting Diode) is a small chip encapsulated in glass that emits light at different wavelengths.",
+              "The JetPro Duo basic LED series is based on NASA-developed technology and includes two skin-repairing and rejuvenating light wavelengths:",
+              "Red light (620-630 nm)",
+              "Blue light (460-470 nm)",
+              "Red light is clinically proven to penetrate deep into the skin layers, activating fibroblasts and promoting collagen production. This helps smooth fine lines and wrinkles, firm the skin, and give it a more youthful appearance. It is ideal for non-invasive facial treatments targeting signs of aging. It combats the acne-causing P. acnes bacteria. ",
+              "Blue light penetrates the upper layers of the skin, up to 1 mm deep, and is known for its antibacterial properties. The blue LED light helps reduce skin impurities, soothe irritated skin, and decrease inflammation."
+            ]
+          },
+          {
+            "title": "Advanced LED Series: Expanding Treatment Options",
+            "list": [
+              "The JetPro Duo advanced LED series includes additional components that expand Jet-LED treatment options with three new LED colors: Green, Yellow-Green, and Amber light",
+              "Green LED light penetrates the surface layers of the skin, targeting melanin-producing cells. Green LED therapy is ideal for treating pigmentation changes, such as liver spots and sun-induced discoloration. It also helps balance and brighten the skin tone.",
+              "Yellow-green LED light penetrates the middle layers of the skin, providing soothing and anti-inflammatory effects. This light helps reduce redness and irritation while calming an itchy, irritated scalp. It is especially suitable for sensitive skin and mild, non-invasive facial treatments.",
+              "Amber LED light penetrates deeper into the skin, where it has a calming, protective, anti-inflammatory, and antioxidant effect. Amber LED therapy reduces redness caused by sunburn and rosacea and helps soothe inflammatory skin conditions."
+            ]
+          },
+          {
+            "title": "Benefits of Dual Jet-LED Treatment",
+            "list": [
+              "Enhanced results – Dual Jet-LED treatment boosts effectiveness, improving non-invasive facial treatment outcomes.",
+              "Simultaneous treatment – Two treatment technologies in one session without extra time.",
+              "No additional accessories – JetPeel treatment is performed as before, but with double benefits at no extra cost.",
+              "Expanded treatment options – Add three new LED colors to your treatments with the JetPro Duo's advanced LED component set."
+            ]
+          },
+          {
+            "title": "JetPro Duo Technical Specifications",
+            "list": [
+              "📌 Dimensions: 510mm x 580mm x 720mm",
+              "📌 Weight: 31 kg",
+              "📌 Operating Pressure: 95 psi ± 10%",
+              "📌 Fluid Source: Disposable solution container"
+            ]
+          }
+        ]
+      },
+      
+      "jetProToGo": {
+        "title": "JetPro ToGo™",
+        "text": "JetPro ToGo is a compact, portable version of the JetPro Duo system that you can take anywhere. With JetPro ToGo, aestheticians can offer exclusive Jet-LED treatments in any environment – at home, in the office, in hotels, at events, and in other locations. JetPro ToGo is lighter, smaller, and easy to transport, yet it delivers the same high-performance results for smooth and beautiful skin as JetPro Duo. Expand your business beyond the clinic and offer a comfortable and painless JetPeel treatment wherever your client needs it.",
+        "heroTitle": "JetPro ToGo™ – Portable JetPro Duo™ System!",
+        "heroText": "JetPro ToGo™ is a compact and portable version of the JetPro Duo™ system, allowing exclusive Jet-LED treatments anywhere – at home, in the office, in hotels, at events, and in other locations.",
+        "sections": [
+            {
+            "title": "JetPro ToGo Features",
+            "list": [
+                "JetPro ToGo™ is lighter, smaller, and extremely easy to transport while delivering the same beautiful and smooth results as JetPro Duo™.",
+                "45% lighter than JetPro™ and JetPro Duo™",
+                "Fits into any car or trunk",
+                "Equipped with trolley wheels and a handle for easy transport",
+                "Protective cover and additional accessory bag included"
+              ]
+            },
+            {
+              "title": "Expanded Jet-LED Treatment Options",
+              "list": [
+                "Offer your clients more Jet-LED treatments with red and blue LED light, as well as an advanced LED component kit featuring three additional LED colors: Green, Yellow-Green, and Amber.",
+                "Blue LED (460-470 nm): For mild to moderate acne, rosacea, sensitive skin, and oily scalp.",
+                "Green LED (535-545 nm): For pigmentation issues and uneven skin tone.",
+                "Yellow-Green LED (565-575 nm): For skin redness and sensitive, itchy scalp.",
+                "Amber LED (585-595 nm): For inflammatory skin conditions and irritation.",
+                "Red LED (620-630 nm): For anti-aging, pigmentation, and skin tone improvement."
+              ]
+            },
+            {
+              "title": "Benefits for Patients",
+              "list": [
+                "✔ JetPeel Anywhere: Enjoy clinically proven JetPeel results anytime and anywhere – at home, in the office, or any preferred location.",
+                "✔ Painless and Pleasant Treatment: Non-invasive jet pressure sprays combined with the power of 5 different LED colors penetrate the skin in a completely comfortable, relaxing, and enjoyable experience.",
+                "✔ Fast and Visible Results: The immediate absorption of active ingredients into the skin ensures instant and noticeable treatment results."
+              ]
+            },
+            {
+              "title": "Benefits for Aesthetic Professionals",
+              "list": [
+                "Clinic on the Go: Offer JetPro Duo treatments anywhere, meeting client demands in various locations. The portable device allows a wide range of treatments in mobile practice.",
+                "Compact and Convenient: A lighter and smaller device with trolley wheels and a handle – easy to transport and fits into any car or trunk. Quick and effortless setup in any location.",
+                "Grow Your Success: Expand your clientele beyond the clinic and create new opportunities for increased customer satisfaction and business growth.",
+                "Safe and Effective: Non-invasive, needle-free treatment that leaves no marks on the skin. The simultaneous Jet-LED technology provides a pleasant experience with visible results on the same day."
+              ]
+            },
+            {
+              "title": "JetPro ToGo Technical Specifications",
+              "list": [
+                "📌 Dimensions: 460mm x 270mm x 500mm",
+                "📌 Weight: 17 kg",
+                "📌 Operating Pressure: 95 psi ± 10%",
+                "📌 Mobility: Integrated wheel system"
+              ]
+            }
+          ]
+      }
+      
+      
+    }
+}

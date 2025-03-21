@@ -1,0 +1,166 @@
+{
+  "slug": "selective-care",
+  "name": "JetCare™ Selective Care",
+  "description": [
+    "Selective Care on JetPeel™'i kõrgtehnoloogiline ja eksklusiivne hooldussari, mis on loodud vastama konkreetsetele naha ja peanaha vajadustele.",
+    "See ainulaadne hooldussari kasutab patenteeritud ja biotehnoloogiliselt arenenud koostisosi, pakkudes tõhusaid lahendusi klientidele ja patsientidele.",
+    "Rikastatud antioksüdantiderikaste toimeainete ja biopeptiididega, JetCare Select hooldussari võimaldab: Nahka helendada stabiliseeritud C-vitamiini koostisega, andes nahale sära ja ühtlase jume. Vähendada aknejälgi võimsate puhastavate toimeainetega. Rahustada punetust tundlikul ja ärritunud nahal. Taastada peanaha ja juuste elujõudu spetsiaalselt väljatöötatud hoolduslahendustega."
+  ],
+  "description1": [
+    "Kasvufaktor – Tipptasemel vananemisvastane hooldus, mis kasutab: Epidermise kasvufaktorit (EGF) – järgmise põlvkonna lahendust noorusliku ja elujõulise naha taastamiseks.",
+    "Kõrge kontsentratsiooniga Argireline kompleks, mis vähendab kortse ja peeneid jooni. Selective Care pakub kohandatud lahendusi vastavalt kliendi individuaalsetele vajadustele – koge JetPeel™ tehnoloogia edasijõudnud hooldusmõjusid!"
+  ],
+  "products": [
+    {"slug": "growth-factor",
+      "name": "Growth Factor",
+      "label": "Looduslik vananemisvastane hooldus",
+      "title": "Peamised aktiivsed koostisosad",
+      "subtitle": "BioPlacenta",
+      "subtitle1": "Betaiin",
+      "description": [
+        "Kasvufaktor – Järgmise põlvkonna vananemisvastane hooldus. Arenenud naha noorendamise tehnoloogia põhjal väljatöötatud JetCare vananemisvastane hooldus kasutab kasvufaktorite võimsust, et võidelda vananemise ilmingutega ning taastada naha elastsus ja nooruslikkus.",
+        "Järgmise põlvkonna naha uuenemine. Selective Care – Growth Factor on tipptasemel hoolduskompleks, mis sisaldab epidermise kasvufaktorit (EGF) – tuntud ja tõhusat vananemisvastast toimeainet. EGF suurendab niisutust, parandab naha elastsust ja vähendab kortse. See edasijõudnud kosmeetiline ühend ühendab endas ka teisi vananemisvastaseid toimeaineid, pakkudes erakordseid tulemusi."
+      ],
+      "text": [
+        "Kaasaegne tehnoloogia on muutnud epidermise kasvufaktori (EGF) nahahoolduse oluliseks komponendiks, pakkudes ultra-tõhusat naha noorendavat toimet.",
+        "BioPlacenta on vananemisvastane ja nahka uuendav kompleks, mis sisaldab viit erinevat kasvufaktorit: EGF (epidermise kasvufaktor), IGF-1 (insuliinitaoline kasvufaktor-1), Happeline FGF (fibroblastide kasvufaktor), Aluseline FGF ja VEGF (veresoonte endoteeli kasvufaktor).",
+        "Lisaks sisaldab BioPlacenta atsetüülglutamiini aminohapet ja B9-vitamiini, mis tugevdavad naha uuenemist, niisutust ja elastsust ning aitavad vähendada kortse."
+      ],
+      "text1": [
+        "Tuntud oma niisutavate ja rahustavate omaduste poolest, on betaiin looduslik niiskusesäilitaja, mis aitab hoida niiskust, parandab naha tekstuuri ning toetab vananemisvastaseid eeliseid. Betaiin tugevdab naha kaitsebarjääri, hoides selle pringi, niisutatud ja siledana."
+      ]
+    },
+    {"slug": "argireline-complex",
+      "name": "Argireline® Complex",
+      "label": "Puhastav ja tasakaalustav lahendus sileda ja ühtlase naha jaoks",
+      "title": "Peamised aktiivsed koostisosad",
+      "subtitle": "Argireline®",
+      "subtitle1": "Primalhyal-3K™",
+      "subtitle2": "Betaiin",
+      "subtitle3": "Pro-Vitamiin B5 – Pantenool",
+      "description": [
+        "Argireline® Complex – Looduslik vananemisvastane hooldus. Turvaline alternatiiv traditsioonilistele vananemisvastastele süstidele, Selective Care – Argireline® Complex aitab vähendada peeneid jooni ja miimikakortse, jättes naha siledamaks ja nooruslikumaks.",
+        "Kõrge Argireline® kontsentratsioon maksimaalse efektiivsuse saavutamiseks. See hooldusvalem sisaldab oluliselt suuremat Argireline® peptiidi kontsentratsiooni, mis aitab vähendada kortsude sügavust ja miimikajooni. Kombineerituna B5-vitamiini ja kolme molekulmassiga hüaluroonhappe kompleksiga on see väga tõhus vananemisvastane lahendus."
+      ],
+      "text": [
+        "See hooldusvalem sisaldab 5% Argireline® peptiidi, mida tuntakse kui arenenud looduslikku heksapeptiidi. See aitab lõõgastada näolihaseid, vähendades peente joonte sügavust ja luues siledama, nooruslikuma ilme."
+      ],
+      "text1": [
+        "See kolmeastmeline HA-kompleks pakub mitmetasandilist vananemisvastast toimet:",
+        "✔ 100–300 kDa HA – Tugevdab naha loomulikke taastemehhanisme ja kaitsefunktsioone.",
+        "✔ 20–50 kDa HA – Parandab naha biomehaanilisi omadusi ja elastsust, muutes selle pringimaks.",
+        "✔ 5–20 kDa HA – Tungib sügavale epidermise kihtidesse, toetades naha uuenemist seestpoolt."
+      ],
+      "text2": [
+        "Tuntud oma niisutavate ja rahustavate omaduste poolest, on betaiin looduslik niiskusesäilitaja, mis seob niiskust nahas ning parandab selle tekstuuri. Betaiin tugevdab ka naha loomulikku kaitsebarjääri, aidates hoida selle pringi, niisutatud ja siledana."
+      ],
+      "text3": [
+        "D-Pantenool toidab ja niisutab nahka, lukustab niiskuse, tugevdab naha kaitsebarjääri ning soodustab rakkude uuenemist, aidates kaasa terviklikule vananemisvastasele toimele."
+      ]
+    },
+    {"slug": "clear",
+      "name": "JetCare™ Clear",
+      "label": "Klaar ja särav jume",
+      "title": "Peamised aktiivsed koostisosad",
+      "subtitle": "Salisüülhape",
+      "subtitle1": "Acnacidol™- 10-HDA",
+      "subtitle2": "Neutrazen™",
+      "subtitle3": "Niatsiinamiid",
+      "description": [
+        "Clear – Puhastav ja tasakaalustav lahendus sileda ja ühtlase naha jaoks. Spetsiaalselt välja töötatud selge ja ühtlase jume saavutamiseks, sisaldab see valem rikkalikult Omega-hüdroksühappeid ja salitsüülhapet, mis puhastavad ummistunud poore ja siluvad naha pinda.",
+        "Valitud koostisosad puhta naha jaoks. Selective Care – Clear on ainulaadne valem, mis ühendab tuntud puhastavaid ja siluvaid toimeaineid. Selle Omega-hüdroksühapete ja Beta-hüdroksühappe (BHA) segu koos B-vitamiini derivaadi ja arenenud lipopeptiidkomponendiga loob värske, puhta ja klaari naha välimuse."
+      ],
+      "text": [
+        "See BHA-hape on tuntud oma rahustavate ja põletikuvastaste omaduste poolest. See vähendab punetust, rahustab stressis nahka ja aitab võidelda ebapuhtuste ja ummistunud pooride vastu. Lisaks toimib salitsüülhape keratolüütilise ainena, mis tähendab, et see koorib nahka tõhusalt, eemaldab liigse rasu ning jätab naha pehmeks ja siledaks."
+      ],
+      "text1": [
+        "See Omega-hüdroksühape on looduslikult saadud mesilaspiimast, mis on tuntud oma toitaineterikkuse ja nahka uuendavate omaduste poolest. Õrn, kuid tõhus kirgastav toimeaine, mis toimib naha tasakaalustajana, aidates saavutada selge ja ühtlase jume."
+      ],
+      "text2": [
+        "Kolmele aminohappele põhinev biomimeetiline lipopeptiid, mis on loodud ärritunud naha rahustamiseks ja naha normaalse tundlikkusläve säilitamiseks. Selle võimas rahustav toime parandab naha heaolu ja aitab saavutada kauni, klaari jume."
+      ],
+      "text3": [
+        "Üks kahest B3-vitamiini vormist, niatsiinamiid sisaldab antioksüdante, mis võitlevad vabade radikaalidega ja imenduvad kiiresti nahka. See on tuntud oma niisutavate ja kaitsvate omaduste poolest, mis vähendavad vananemisilminguid, pinguldavad nahka ja aitavad seda väliskeskkonna kahjulike mõjude eest kaitsta."
+      ]
+    },
+    {"slug": "scalp-hair",
+      "name": "JetCare™ Scalp & Hair",
+      "label": "Elavdab peanahka ja juukseid, muutes need paksemaks ja tugevamaks",
+      "title": "Peamised aktiivsed koostisosad",
+      "subtitle": "Redensyl™",
+      "subtitle1": "Biomimeetiline peptiid – Capixyl™",
+      "subtitle2": "RootBioTec™",
+      "subtitle3": "B-vitamiiniderivaatide kombinatsioon",
+      "description": [
+        "Peanaha ja juuste elavdav hooldus – Tihedamad ja tervemad juuksed. JetCare’i esmaklassiline toode meestele ja naistele, mis on loodud innovaatiliste ja sihipäraste toimeainete abil, et elavdada peanahka ja luua ideaalne keskkond paksemate ja tugevamate juuste kasvuks.",
+        "Elavdab peanahka ja soodustab juuste tihedust. Selective Care – Scalp & Hair kompleks ühendab toitevõimelisi ja taastavaid koostisosi, mis on valitud nende arenenud peanaha ja juukseid elavdavate omaduste põhjal. Koos JetPeel’i survepihustustehnoloogiaga saavad peanahk ja juuksed võimsa aktiveerimise, luues noorusliku ja elujõulise välimuse."
+      ],
+      "text": [
+        "Aminohappeid ja antioksüdante sisaldav vananemisvastane toimeaine, mis toetab peanaha toitmist ja taastumist, luues paremad tingimused tervislikuks juuste kasvuks."
+      ],
+      "text1": [
+        "Arenenud peptiidide ja punase ristikheina ekstrakti kombinatsioon, mis on rikkalik Biochanin A poolest – kliiniliselt tõestatud toimeaine, mis parandab juuste paksust, tihedust ja üldist tervist. See võimas segu pakub tõhusat vananemisvastast toimet nii peanahale kui ka juustele ning sobib nii meestele kui ka naistele."
+      ],
+      "text2": [
+        "Innovatiivne biotehnoloogiline toimeaine, mis on saadud basiilikust ja arendatud spetsiaalse tehnoloogia abil, et toota kõrgekvaliteedilisi taimseid ühendeid peanaha ja juuste toitmiseks ning tugevdamiseks."
+      ],
+      "text3": [
+        "Selective Care – Scalp & Hair on rikastatud antioksüdantiderikka B-vitamiinide kompleksiga, sealhulgas:",
+        "✔ Niatsiinamiid (B3-vitamiin) – Soodustab peanaha tervist.",
+        "✔ Pantenool (B5 provitamiin) – Rahustab ja tugevdab peanahka.",
+        "✔ Biotiin (B7-vitamiin) – Tuntud juukseid tugevdava ja elavdava toime poolest."
+      ]
+    },
+    {"slug": "soothing",
+      "name": "JetCare™ Soothing",
+      "label": "Rahustab punetust ja soodustab ühtlast, tervet nahatooni",
+      "title": "Peamised aktiivsed koostisosad",
+      "subtitle": "Azeloglicina®",
+      "subtitle1": "Ronacare® Troxerutin",
+      "subtitle2": "Pro-Vitamiin B5 – Pantenool",
+      "subtitle3": "Crodarom Nordic Cotton",
+      "subtitle4": "Orgaaniline Aloe Vera",
+      "description": [
+        "Punetust leevendav hooldus – Sile ja terve nahk. Spetsiaalselt välja töötatud punetuse ja ebapuhtuste leevendamiseks, see hooldus põhineb innovaatilisel rahustavate toimeainete kombinatsioonil. Selle koostis niisutab, toidab ja ühtlustab ebaühtlast nahka, luues tasakaalustatud ja terve välimuse.",
+        "Rahustab punetust ja ühtlustab nahatooni. Selective Care – Soothing on tõhus rahustav infusioon, mis koosneb edasijõudnud toimeainetest, mis vähendavad punetust ja soodustavad ühtlase, terve naha saavutamist. Patenteeritud biotehnoloogiliselt arendatud koostisosade ja Crodarom Nordic Cotton ekstrakti kombinatsioon, mis on saadud Põhjamaade loodusest, muudab Selective Care – Soothing hoolduse suurepäraseks lahenduseks ebaühtlase ja ärritunud naha jaoks."
+      ],
+      "text": [
+        "See patenteeritud koostisosa on aselaiinhappe ja glütsiini kombinatsioon, mis tugevdab puhastavat toimet ja aitab vähendada tumedaid laike ning nahapinna ebatasasusi. Samuti on see tuntud oma rahustava mõju poolest ärritunud nahale, aidates luua ühtlase ja särava jume."
+      ],
+      "text1": [
+        "See edasijõudnud toimeaine toetab vere- ja lümfiringe mikrotsirkulatsiooni, tugevdades kapillaaride seinu ja vähendades nende haprust. Ronacare® Troxerutin aitab võidelda oksüdatiivse stressiga ja kaitseb epiteelirakke, edendades naha tervist."
+      ],
+      "text2": [
+        "Sügavniisutav ja toitev toimeaine, mis on saadud loodusliku Põhjamaade puuvillataime ekstraktist. Sellel on ahendavad ja pehmendavad omadused, mistõttu on see ideaalne koostisosa tundliku ja ärritunud naha rahustamiseks ja tugevdamiseks."
+      ],
+      "text3": [
+        "See antioksüdantne ja antibakteriaalne koostisosa on tuntud oma rahustava ja niisutava toime poolest. Aloe vera aitab nahka pehmendada ja koheselt rahustada, pakkudes samal ajal kaitset väliste ärritajate vastu."
+      ]
+    },
+    {"slug": "lightening",
+      "name": "JetCare™ Lightening",
+      "label": "Uuendab ja värskendab nahka, andes sellele noorusliku sära",
+      "title": "Peamised aktiivsed koostisosad",
+      "subtitle": "Alpha-Arbutiin (α-Arbutiin)",
+      "subtitle1": "Beta-White (β-White)",
+      "subtitle2": "Alpaflor® Gigawhite",
+      "subtitle3": "Stay-C®",
+      "description": [
+        "Lightening – Helgem, säravam nahatoon. Selective Care – Lightening hooldus, mis on rikastatud edasijõudnud helendavate toimeainetega, aitab saavutada ühtlasema, säravama ja kirkama jume.",
+        "Täiuslik lahendus klaarile ja heledale nahatoonile. See edasijõudnud helendav valem sisaldab looduslikke ja aktiivseid koostisosi, mis aitavad ajapikku vähendada pigmendimuutusi ning taastada loomuliku, särava ja helendava välimuse."
+      ],
+      "text": [
+        "Looduslik taimne helendav toimeaine, mis on saadud karulaukast, mustikatest ja pohlades. Alpha-Arbutiin aitab tuhmistada akne ja päikesekiirguse põhjustatud pigmendimuutusi ja arme. See pärsib türosinaasi aktiivsust ja melanosoomide küpsemist, vähendades pigmendihäireid ja muutes naha säravamaks. See toimib samal mehhanismil nagu hüdrokinoon, kuid põhjustab vähem ärritust ning on nahale õrnem."
+      ],
+      "text1": [
+        "Edasijõudnud biomimeetiline peptiidikompleks, mis tasakaalustab nahatooni ja vähendab ebaühtlusi. See võimas toimeaine aitab helendada pigmendilaike ja luua säravama, ühtlasema jume."
+      ],
+      "text2": [
+        "Seitsmest Šveitsi Alpides kasvatatud taimeekstraktist koosnev segu, mis on valitud nende looduslike helendavate ja kirkust andvate omaduste tõttu. Kõrgel mägedes kasvatatud taimeekstraktid aitavad luua loomuliku, ühtlase ja heledama nahatooni. See tõhus ja keskkonnasõbralik taimne kompleks on õrn nii nahale kui ka keskkonnale."
+      ],
+      "text3": [
+        "Edasijõudnud stabiliseeritud (fosforüülitud) L-askorbiinhappe (C-vitamiini) naatriumsool, mis imendub nahka tõhusamalt kui traditsioonilised C-vitamiini ühendid. Stay-C muutub kiiresti askorbiinhappeks, mis tungib sügavale nahka ja toob esile selle loomuliku sära. Tänu tugevale antioksüdantsele toimele parandab see nahatooni ja ühtlustab selle välimust."
+      ]
+    }
+  ]
+}

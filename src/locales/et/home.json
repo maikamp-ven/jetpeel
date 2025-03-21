@@ -1,0 +1,128 @@
+{
+  "nav": {
+    "language": "Keel",
+    "technology": "Tehnoloogia",
+    "devices": "Seadmed",
+    "handpieces": "Käepidemed",
+    "treatments": "Seerumid",
+    "contact": "Kontakt"
+  },
+  "mobileNav": {
+    "technology": "Tehnoloogia",
+    "devices": "Seadmed",
+    "handpieces": "Käepidemed",
+    "serums": "Seerumid",
+    "contacts": "Kontaktid"
+  },
+  "helmet": {
+    "title": "JetPeel – Nahahooldus, mis mõistab sinu nahka!",
+    "description": "JetPeel by TavTech revolutsioneerib nahahooldust oma pritssurve lahendusega, mille inspiratsioon on ammutatud lennundustehnoloogiast.",
+    "keywords": "JetPeel, nahahooldus, esteetiline ravi, ilu, nahahooldus, TavTech"
+  },
+  "header": {
+    "title": "JetPeel – Nahahooldus, mis mõistab sinu nahka!",
+    "subtitle": "Ole parim versioon endast",
+    "text1": "Tere tulemast JetPeel’i maailma! JetPeel™ by TavTech revolutsioneerib nahahooldust oma patenteeritud pritssurve lahendusega, mille inspiratsioon on ammutatud lennundustehnoloogiast. See mitteinvasiivne, nõelavaba ravi kasutab kiireid mikrodroone naha puhastamiseks, koorimiseks ja toitainete imendumiseks, pakkudes viivitamatuid ja valutu tulemusi.",
+    "text2": "JetPeel seadmetele kuuluvad spetsiaalsed käsiotsad ja ainulaadne JetCare nahahooldussari, mis on välja töötatud optimaalse ravitõhususe ja ühilduvuse tagamiseks.",
+    "contact": "Võta ühendust"
+  },
+  "video": {
+    "title": "JetPeel’i tehnoloogia taustal",
+    "fallback": "Sinu brauser ei toeta videot."
+  },
+  "technology": {
+    "title": "Pritsutehnoloogia - näe tulemusi",
+    "text": {
+      "text1": "Ainult TavTechile välja töötatud JetPeel pritssurve energial põhinev esteetiline nahahooldus on ülemaailmne läbimurre transdermaalse aktiivainete imendumisel. See tehnoloogia pakub uuenduslikku lahendust tavalistele nahaprobleemidele ja esteetilistele ravivajadustele.",
+      "text2": "Lennundustehnoloogiast inspireeritult viib JetPeel mitteinvasiivsed, kuid tõhusad nahahooldusmeetodid uuele tasemele – ühendades tipptasemel kliinilised tulemused ja maksimaalse kliendimugavuse.",
+      "text3": "<0>JetPeel™ - seade</0> toodab suruõhku, mida kiirendatakse ja muudetakse peeneks pihustuseks. Need mikropihustid, mille kiirus ületab 200 m/s, suunatakse nahale patenteeritud JetPeel käsiotsaga. See pulgakujuline instrument on saadaval erinevates suurustes ja erinevate ravide jaoks kohandatud versioonidena. Ravi käigus pakuvad käsiotsa peeneks pihustatud vedeliku voolud õrna lümfahieronnaga, millele järgneb koorimine ja naha pinnekihi kerge venitamine, võimaldades aktiivainetel tungida sügavamatesse nahakihidesse.",
+      "text4": "See pulgakujuline instrument on saadaval erinevates suurustes ja erinevate ravide jaoks kohandatud versioonidena. Ravi käigus pakuvad käsiotsa peeneks pihustatud vedeliku voolud õrna lümfahieronnaga, millele järgneb koorimine ja naha pinnekihi kerge venitamine, võimaldades aktiivainetel tungida sügavamatesse nahakihidesse.",
+      "text5": "Nõeladeta, valuta ega naha kahjustamiseta loob JetPeel mikroskoopilisi kanaleid, mille kaudu ravivahendid saavad toimida naha sügavamates kihtides. Koos JetCare spetsiaaltoodetega, mis on välja töötatud erinevate nahaprobleemide jaoks, pakub JetPeel ravi toitvaid mikrodroone, mis tungivad naha alla – tuues nähtavaid tulemusi ja pikaajalist mõju."
+    },
+    "buttons": {
+      "contact": "Võta ühendust",
+      "readMore": "Loe rohkem"
+    },
+    "gifs": {
+      "gif1Alt": "JetPeel infusioon",
+      "gif2Alt": "JetPeel exfoliatsioon"
+    }
+  },
+  "steps": [
+  {
+    "number": "1",
+    "title_card": "IMMUUNSUST STIMULEERIV MASSAAŽ",
+    "capacity_1": "Lõõgastav ja meeldiv massaaž, mis soodustab naha loomulikku puhastumist ja aktiveerib mikrotsirkulatsiooni, toetades naha uuenemist."
+  },
+
+  {
+    "number": "2",
+    "title_card": "ÕRN KOORIMINE",
+    "capacity_1": "Tõhus, kuid õrn koorimine eemaldab surnud naharakud, valmistades naha ette toimeainete paremaks imendumiseks."
+  },
+
+  {
+    "number": "3",
+    "title_card": "SÜGAV INFUSIOON",
+    "capacity_1": "Innovatiivne infusioonitehnoloogia tagab toimeainete sügava imendumise, toites ja niisutades nahka optimaalselt."
+  },
+
+  {
+    "number": "4",
+    "title_card": "TÕHUSTAV BOOSTER-INFUSIOON",
+    "capacity_1": "Viimane etapp, mis maksimeerib ravi tulemusi ja pikendab selle mõju nahale."
+  }
+],
+  "advantages": {
+    "title": "JetPeel - ilu ilma ebamugavuseta",
+    "subtitle": "Kliiniliselt tõestatud ravi laiale kosmeetikate ja dermatoloogiliste probleemide valikule:",
+    "list": [
+      "Nõeladeta, valutu, mitteinvasiivne protseduur",
+      "Kiire transdermaalne imendumine ja viivitamatud tulemused",
+      "Ilma armideta, ilma taastumisajata",
+      "Ilma patsiendi taastumisajata",
+      "Mugav ja lõõgastav ravikogemus"
+    ]
+  },
+  "footer": {
+    "description": "Professionaalse kosmeetika importija, hulgimüük ja veebipood Helsingi Katajanokas.",
+    "contact_title": "Kontaktandmed",
+    "phone": "Telefoninumber",
+    "company_id": "Ettevõtte ID",
+    "address": "Aadress",
+    "social_media": "Sotsiaalmeedia",
+    "privacy_policy": "Privaatsuspoliitika"
+  },
+  "contact_form": {
+    "title": "Kontaktvorm",
+    "subtitle": "Võtame teiega ühendust niipea kui võimalik.",
+    "name": "Nimi",
+    "name_placeholder": "Eesnimi Perekonnanimi",
+    "phone": "Telefoninumber",
+    "phone_placeholder": "+358 12 345 6789",
+    "email": "E-posti aadress",
+    "email_placeholder": "näide@email.com",
+    "topic": "Millest teema on?",
+    "product_info": "Lisateavet toote kohta",
+    "price_info": "Hinna päring",
+    "other": "Muu päring",
+    "help_text": "Rääkige meile, kuidas saame teid aidata?",
+    "submit": "Saada",
+    "recaptcha_error": "Palun kinnitage reCAPTCHA.",
+    "sending": "Saatmine...",
+    "error": "Viga saatmisel. Palun proovige uuesti.",
+    "server_error": "Serveri viga. Palun proovige hiljem uuesti.",
+    "subject": "Veebisaidi kontaktipäring"
+  },
+  "thankYou": {
+    "title": "Aitäh!",
+    "message": "Teie sõnum on vastu võetud. Võtame teiega peagi ühendust.",
+    "backToHome": "Tagasi avalehele"
+  },
+  "notFound": {
+    "title": "404 - Lehte ei leitud | JetPeel",
+    "heading": "404 - Lehte ei leitud",
+    "message": "Kahjuks ei leitud otsitud lehte. Saate naasta avalehele või tutvuda meie teiste teenustega.",
+    "backToHome": "Naase avalehele"
+  }
+}

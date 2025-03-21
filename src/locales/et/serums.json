@@ -1,0 +1,40 @@
+{
+  "title": "JetCare™ - Aktiivseerumid",
+  "meta": {
+    "description": "Avasta JetCare™ aktiivseerumid, mis on spetsiaalselt loodud JetPeel™ hüdroporatsioonitehnoloogia jaoks. Kõrgekvaliteedilised nahahooldustooted optimaalse tulemusega.",
+    "keywords": "JetPeel, JetCare, aktiivseerumid, nahahooldus, ilu"
+  },
+  "banner_alt": "JetCare - Aktiivseerumid",
+  "header": {
+    "title": "JetCare™ - Aktiivseerumid",
+    "subtitle": "Originaalsed JetCare™ aktiivseerumid on loodud optimaalse tulemuse saavutamiseks JetPeel™ hüdroporatsiooni abil."
+  },
+  "hero": {
+    "description": "Originaalsed <a href='/jetPeel'>JetPeel™</a> aktiivseerumid TavTechilt.<br/> Spetsiaalselt JetPeel™ hüdroporatsioonitehnoloogia jaoks välja töötatud JetCare™ seerumid on täiuslikult kohandatud käsiotsikute ainulaadse manustamismehhanismiga.<br/><br/>JetCare™ seerumid on kohandatud täpse viskoossusega, et taluda kõrget rõhku ja kiirust kuni 720 km/h, kaotamata oma molekulaarset terviklikkust või efektiivsust.<br/><br/>Ainult patenditud <a href='/handpieces'>JetPeel™ käsiotsikute</a> ja JetCare™ aktiivsete koostisosade kombinatsioon võimaldab sügavat hüdroporatsiooni ja järjepidevalt optimaalseid ravitulemusi.<br/><br/>Tulemused on kohe nähtavad ja tuntavad ning seerumite mõju on pikaajaline.<br/><br/>Parimate tulemuste saavutamiseks on soovitatav läbi viia ravikuur ning tulemuste säilitamiseks tuleks hooldust korrata vastavalt vajadusele.",
+    "image_alt": "JetCare - kõik tooted"
+  },
+  "contact_button": "Võta meiega ühendust",
+  "indications": {
+    "title": "Näidustused:",
+    "image_alt": "Näidustused",
+    "list": [
+      "✔ Vananev, taastuv nahk, kortsud, naha elastsuse kadu",
+      "✔ Põletikud, ärritus, tundlikkus",
+      "✔ Ebapuhtused, nagu akne ja mustpead",
+      "✔ pH tasakaalu reguleerimine",
+      "✔ Pooride ahendamine",
+      "✔ Tumedad pigmendimuutused, põletikujärgne hüperpigmentatsioon",
+      "✔ Silmaaluste turse, silmade lifting, huulte volüümi suurendamine",
+      "✔ Laienenud veresooned, kuperoosa"
+    ]
+  },
+  "sequence": {
+    "title": "Parimad vananemisvastased lahendused JetPeeliga",
+    "subtitle": "JetPeel by TavTech – täielik kombinatsioon JetPro seadmesarjast, originaalsetest patenteeritud JetPeel käsiotsikutest ja uutest JetCare lahendustest.",
+    "image_alt": "Raviprotsessi etapid"
+  },
+  "serums_section": {
+    "title": "Täiuslikud lahendused vananemisvastaseks hoolduseks JetPeeliga",
+    "subtitle": "JetPeel by TavTech – ideaalne kombinatsioon JetPro seadmesarjast, originaalsetest patenteeritud JetPeel käsiotsikutest ja uutest JetCare lahendustest."
+  }
+}

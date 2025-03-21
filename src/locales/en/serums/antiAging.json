@@ -1,0 +1,90 @@
+{
+  "slug": "anti-aging",
+  "name": "JetCare™ Anti-Aging",
+  "description": [
+    "JetPeel™ Anti-Aging Care is an exclusive, updated treatment line offering advanced anti-aging formulas specifically for mature skin.",
+    "The Anti-Aging Solution combats signs of wrinkles, skin sagging, and dullness.",
+    "This unique treatment collection utilizes the smoothing and firming properties of hyaluronic acid, combined with peptides and powerful natural extracts that restore the skin's natural glow.",
+    "The Anti-Aging Care treatment set includes:",
+    "Wide Range Hyaluronic Acid – a multimolecular hyaluronic acid blend that penetrates different skin layers, treating wrinkles from deep within to the surface.",
+    "Witch Hazel & Peptides Solution – a treatment solution containing witch hazel and peptides that strengthen proteins, firming the skin and enhancing its radiance.",
+    "Peptide Complex Solution – the perfect solution against aging and loss of elasticity, helping to restore skin firmness with amino acid-rich peptides.",
+    "Experience the effectiveness of JetPeel™ Anti-Aging Care and let your skin appear youthful, resilient, and vibrant!"
+  ],
+  "products": [
+    { "slug": "wide-range-hyaluronic-acid", 
+      "name": "JetCare™ Wide Range Hyaluronic Acid",
+      "label": "Restores an even skin tone and natural glow",
+      "title": "Main Active Ingredients",
+      "subtitle": "Hyaluronic Acid – Five molecular weights with different effects",
+      "subtitle1": "Regu-age® – A powerful combination of peptides and proteins",
+      "description": [
+        "Wide Range Hyaluronic Acid – Smoothing and firming effect. This unique multimolecular hyaluronic acid complex combines five different molecular weights, enabling simultaneous absorption into different skin layers. When combined with selected peptides, this composition is an extremely versatile and effective base ingredient in the JetCare treatment series.",
+        "The wide-range hyaluronic acid composition delivers visible results. The best effects of hyaluronic acid are achieved by combining multiple molecular weights that act on different skin layers:",
+        "✔ Low and medium molecular weight HA penetrates deeper skin layers, providing long-lasting hydration.",
+        "✔ High molecular weight HA remains on the skin surface, instantly hydrating and improving skin appearance.",
+        "This unique combination of five different molecular weights ensures optimal treatment results."
+      ],
+      "list": [
+        "5–20 kDa HA: Deep hydration and skin renewal from within.",
+        "20–50 kDa HA: Penetrates layers that improve biomechanical properties and skin firmness.",
+        "100–300 kDa HA: Supports the skin's natural defense mechanisms and accelerates repair processes.",
+        "150–600 kDa HA: Provides an immediate anti-aging effect and a rejuvenating feel on the skin's surface.",
+        "1500–1800 kDa HA: Forms a moisturizing, nourishing film on the skin surface that smooths and softens the skin texture."
+      ],
+      "text1": [
+        "This patented peptide and protein complex provides a rapid and effective anti-aging effect. Purified soy and rice peptides, along with biotechnologically produced yeast protein, help improve skin tone and radiance."
+      ]
+    },
+    { "slug":"witch-hazel-peptides", 
+      "name": "Witch Hazel & Peptides",
+      "label": "Revitalizing effect firms and renews the skin",
+      "title": "Main Active Ingredients",
+      "subtitle": "Witch Hazel Extract",
+      "subtitle1": "Regu-age®",
+      "subtitle2": "Replexium®",
+      "subtitle3": "Betaine",
+      "description": [
+        "Witch Hazel & Peptides – Even skin tone and radiant glow. This powerful formula purifies the skin, smooths surface irregularities, and creates a unified, youthful glow. It is rich in witch hazel extract, known for its strong astringent and soothing properties, as well as peptides that strengthen proteins, providing a firming and anti-aging effect.",
+        "Part of the Anti-Aging Care series, Witch Hazel & Peptides is the perfect solution for cleansing and brightening the skin. Its selected peptides enhance skin firmness and elasticity, making it an excellent choice for anti-aging treatments."
+      ],
+      "text": [
+        "Known as an effective astringent suitable for all skin types. Helps reduce itching and redness, creating an even and radiant skin tone. This anti-aging formula contains a high concentration of witch hazel extract, which provides a strong soothing effect and complements the unique peptide complex."
+      ],
+      "text1": [
+        "This patented combination of peptides and proteins delivers a fast and effective anti-aging effect. Purified soy and rice peptides, along with biotechnologically produced yeast protein, help enhance skin tone and radiance."
+      ],
+      "text2": [
+        "An innovative blend of two patented bioactive peptides that visibly accelerate the reduction of fine lines and improve skin texture. This active ingredient works faster than conventional peptides, providing a rapid and effective anti-aging effect."
+      ],
+      "text3": [
+        "Known for its moisturizing and soothing properties, betaine is a natural humectant that helps retain moisture and improve skin texture. Additionally, betaine strengthens the skin’s protective barrier, helping it remain firm, hydrated, and smooth."
+      ]
+    },
+    { "slug": "peptide-complex", 
+      "name": "Peptide Complex",
+      "label": "Gives the skin youthful vitality and flexibility",
+      "title": "Main Active Ingredients",
+      "subtitle": "Replexium™",
+      "subtitle1": "Juveleven™",
+      "subtitle2": "Pentavitin®",
+      "subtitle3": "Regu-age®",
+      "description": [
+        "Peptide Complex – Firming and revitalizing effect on the skin. Part of the Anti-Aging Care treatment series, the Peptide Complex is specifically designed for aging skin that has lost its elasticity. This powerful peptide blend helps restore skin firmness and youthful appearance.",
+        "Effective peptide blend. Research shows that peptides are the building blocks of skin proteins such as collagen, elastin, and keratin, which form the foundation of firm, flexible, and smooth skin. When the skin loses these essential proteins, it can lead to sagging and loss of elasticity. This unique peptide formula helps restore firmness and structure, supporting the skin’s natural regeneration process."
+      ],
+      "text": [
+        "This patented combination of peptides and proteins provides a fast and effective anti-aging effect. It contains purified soy and rice peptides, as well as biotechnologically produced yeast protein, which enhance skin tone and radiance."
+      ],
+      "text1": [
+        "This hexapeptide acts as an effective skin protector, combating the effects of sun exposure, pollution, and stress. It is designed to strengthen the skin’s resistance and promote its natural vitality."
+      ],
+      "text2": [
+        "A 100% natural, plant-based carbohydrate complex that mimics the carbohydrates naturally found in the skin. Its unique binding mechanism ensures rapid and long-lasting hydration, helping the skin maintain optimal moisture balance."
+      ],
+      "text3": [
+        "This patented peptide complex contains purified soy and rice peptides, as well as biotechnologically produced yeast protein, which enhance skin tone and radiance, providing a fast anti-aging effect."
+      ]
+    }
+  ]
+}

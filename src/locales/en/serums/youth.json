@@ -1,0 +1,86 @@
+{
+  "slug": "youth",
+  "name": "JetCare™ Youth",
+  "description":[ 
+    "Protect your skin for the future with JetCare Youth. JetCare Youth is a powerful skincare series that harnesses the minerals of the Dead Sea and is specifically designed for the ‘prejuvenation’ of young skin – preventive maintenance of youthfulness. 'Prejuvenation' is a growing trend in aesthetic skincare, as more people in their 20s and 30s aim to preserve their skin’s natural youthfulness. JetCare Youth products contain protective Dead Sea minerals and natural skin-strengthening ingredients that help prevent the first signs of aging: the formation of fine lines, skin sagging, and dullness."
+  ],
+  "description1":[
+    "The JetCare Youth treatment protocol is performed using JetPeel’s pressurized jet technology, enhancing the beneficial effects of Dead Sea minerals. JetCare Youth offers a new approach to skin protection and youth preservation, helping to prevent skin damage before it appears and maintaining smooth, radiant, and youthful-looking skin. Developed in collaboration with JetPeel experts, the treatment method is based on TavTech’s JetPeel pressurized jet technology, designed for use with JetPeel handpieces, the JetPro device, and JetCare treatment guidelines. JetCare Youth – proactive skincare that ensures your skin remains glowing and youthful for years to come!"
+  ],
+  "products": [
+    {"slug": "dead-sea-hydro",
+      "name": "Dead Sea Hydro",
+      "title": "Main Active Ingredients",
+      "subtitle": "Dunaliella® HGL",
+      "subtitle1": "Organic Aloe Vera",
+      "description": [
+        "Dead Sea Hydro – Preparing lymphatic massage for skin treatment. Dead Sea Hydro is a pre-treatment lymphatic massage that prepares the skin to absorb nutrients used in later treatment phases. This mineral-rich solution contains Dead Sea minerals that cleanse and help remove impurities from the skin."
+      ],
+      "text": [
+        "✔ Helps slow down skin cell aging.",
+        "✔ Protects the skin from sun damage."
+      ],
+      "text1": [
+        "✔ A powerful antioxidant emollient that softens and soothes the skin quickly.",
+        "✔ Provides antimicrobial protection that helps keep the skin healthy and balanced."
+      ]
+    },
+    {"slug": "dead-sea-exfoliation",
+      "name": "Dead Sea Exfoliation",
+      "title": "Main Active Ingredients",
+      "subtitle": "Dunaliella® HGL",
+      "subtitle1": "Allantoin",
+      "subtitle2": "Lactic Acid",
+      "subtitle3": "Organic Aloe Vera",
+      "subtitle4": "D-Panthenol 75% (Vitamin B5)",
+      "description": [
+        "Dead Sea Exfoliation – Gentle exfoliation with a moisturizing effect. Dead Sea Exfoliation offers an effective yet gentle exfoliation that removes impurities and dead skin cells while hydrating the skin. In addition to its exfoliating properties, this unique formula helps improve skin texture and prepares it for the next treatment steps."
+      ],
+      "text": [
+        "Helps slow down skin cell aging.",
+        "Protects the skin from sun damage."
+      ],
+      "text1": [
+        "Moisturizes, exfoliates, and smoothens the skin’s surface, promoting softer and smoother skin."
+      ],
+      "text2": [
+        "A gentle AHA acid that removes dead skin cells, stimulates cell renewal, and supports the skin’s natural moisture balance."
+      ],
+      "text3": [
+        "A powerful antioxidant emollient that quickly soothes and softens the skin.",
+        "Provides antimicrobial protection that helps keep the skin healthy."
+      ],
+      "text4": [
+        "Locks in moisture and strengthens the skin’s natural protective barrier.",
+        "Protects the skin from environmental stressors and signs of aging."
+      ]
+    },
+    {"slug": "dead-sea-nourishment",
+      "name": "Dead Sea Nourishment",
+      "title": "Main Active Ingredients",
+      "subtitle": "Magnesium Sulfate",
+      "subtitle1": "Dunaliella® HGL",
+      "subtitle2": "Sepitonic™ M3",
+      "subtitle3": "Akoactive Queen",
+      "description": [
+        "JetCare Youth – Final Step: Nourishing Infusion. The last step in the JetCare Youth treatment protocol is an intensive nourishing infusion containing Dead Sea minerals and anti-aging ingredients. This unique formula provides deep hydration and rejuvenation, helping to prevent future skin damage while strengthening the skin’s natural protective barrier and youthful structure."
+      ],
+      "text": [
+        "A powerful anti-inflammatory mineral that helps remove excess sebum and toxins that may harm the skin."
+      ],
+      "text1": [
+        "Helps slow down skin cell aging.",
+        "Protects the skin from sun damage."
+      ],
+      "text2": [
+        "A patented ingredient that helps combat cellular fatigue and increases oxygen availability in the skin.",
+        "Protects the skin from glycation, a process that can accelerate the visible signs of aging.",
+        "Acts as a carrier for active ingredients, enhancing the effects of other anti-aging components and improving the skin’s resistance to environmental stressors."
+      ],
+      "text3": [
+        "A moisturizing active ingredient extracted from fresh rose petals.",
+        "Reduces signs of fatigue, refreshes the skin’s overall appearance, and improves skin tone."
+      ]
+    }
+  ]
+}

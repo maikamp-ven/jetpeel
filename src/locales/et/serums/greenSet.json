@@ -1,0 +1,137 @@
+{
+  "slug": "green",
+  "name": "JetCare™ Green",
+  "description": [
+    "JetCare Green tooted on valmistatud ainult looduslikest, orgaanilistest ja ökosertifitseeritud koostisosadest. Pakendid on valmistatud taaskasutatud või taaskasutatavatest materjalidest. JetCare Green pakub samu nähtavalt kauneid JetPeel tulemusi, vähendades samas ökoloogilist jalajälge."
+  ],
+  "description1": [
+    "JetCare Green – Naha- ja keskkonnasõbralikud hooldustooted. JetCare Green sari sisaldab nelja keskkonnasõbralikku hoolduslahendust, mis on loodud JetPeel hooldusprotokolli põhietappideks: lümfimassaaž, koorimine ja infusioon. JetCare Green – ilu, mis austab keskkonda!"
+  ],
+  "products": [
+    { "slug": "jetCare-green-hydro",
+      "name": "JetCare Green Hydro",
+      "title": "Peamised aktiivsed koostisosad",
+      "subtitle": "Allantoiin",
+      "subtitle1": "Propanediool",
+      "subtitle2": "Orgaaniline Aloe Vera",
+      "subtitle3": "Cosphagard® Elbe",
+      "description": [
+        "JetCare Green Hydro – Looduslik algus JetPeel hooldusele. JetPeel hooldus algab lõõgastava lümfimassaažiga, mis stimuleerib mikrotsirkulatsiooni ja aitab puhastada nahka toksiinidest.",
+        "JetCare Green Hydro on välja töötatud looduslikest ja ökosertifitseeritud koostisosadest, pakkudes õrna, kuid tõhusat puhastust, mis valmistab naha ette JetPeel koorimiseks ja infusiooniks."
+      ],
+      "text": [
+        "Aktiivne koostisosa, mis on saadud varemerohu juurest, niisutab, koorib ja silub nahka.",
+        "Aitab taastada naha loomulikku sära ja parandada selle struktuuri."
+      ],
+      "text1": [
+        "Jätkusuutlikult maisisuhkrust toodetud niisutaja, mis aitab rahustada ja niisutada nahka.",
+        "Maailma esimene 100% biopõhine glükoolialternatiiv, millel on Natural Products Association (NPA) sertifikaat."
+      ],
+      "text2": [
+        "Võimas antioksüdantne pehmendaja, mis kiiresti rahustab ja pehmendab nahka.",
+        "Antimikroobne toime aitab kaitsta nahka ebapuhtuste eest.",
+        "Peamine koostisosa JetCare Green hoolduse esimeses etapis, valmistades naha ette järgnevateks hooldusprotseduurideks."
+      ],
+      "text3": [
+        "Looduslikult saadud antimikroobne segu, mis sisaldab naatriumlevulinaati ja naatriumbensoati.",
+        "Säilitab mikrobioloogilise tasakaalu ja kaitseb bakterite, pärmseente ja hallituse eest.",
+        "Asendab sünteetilisi säilitusaineid, nagu parabeenid, MIT ja triklosaan, muutes toote nahasõbralikumaks ja keskkonnasõbralikumaks."
+      ]
+    },
+    { "slug": "jetCare-green-exfoliation",
+      "name": "JetCare Green Exfoliation",
+      "title": "Peamised aktiivsed koostisosad",
+      "subtitle": "ACB Fruit Mix",
+      "subtitle1": "Niatsiinamiid (B3-vitamiin)",
+      "subtitle2": "Tõhustatud AHA- ja BHA-happed",
+      "subtitle3": "Campo Plantservative",
+      "description": [
+        "JetCare Green Exfoliation – Looduslik ja tõhus koorimine. Õrn, kuid põhjalik koorimine, mis eemaldab surnud naharakud, uuendab naha pinda ja valmistab naha ette JetPeel-infusiooniks.",
+        "JetCare Green Exfoliation kasutab looduslike AHA- ja BHA-hapete võimsat mõju. Selle ideaalne pH-tase (3.5) tagab tõhusa koorimise ilma kipituse, ärrituse või nahakahjustusteta."
+      ],
+      "text": [
+        "Vegan, GMO-vaba segu viiest taimepõhisest koorimisainest, mis on looduslikult rikkad AHA-hapete poolest.",
+        "Stimuleerib kollageeni tootmist ja toetab naha uuenemist, jättes selle siledaks ja säravaks."
+      ],
+      "text1": [
+        "Võimas antioksüdant, mis kaitseb nahka vabade radikaalide kahjustuste eest.",
+        "Aitab tugevdada naha valke, parandades selle elastsust.",
+        "Rahustab punetust ja põletikke, samal ajal lukustades niiskuse nahka ja ennetades vananemisilminguid."
+      ],
+      "text2": [
+        "Piimhape ja glükoolhape (AHA-happed) – soodustavad naha helendumist ja uuenemist.",
+        "Salisüülhape (BHA) – tagab sügavpuhastava ja poore ahendava toime."
+      ],
+      "text3": [
+        "100% taimne säilitusaine, mis on saadud kahest Jaapani kuslapuuliigist.",
+        "Pakub antimikroobset ja antibakteriaalset kaitset, aidates säilitada toote looduslikku ja nahasõbralikku koostist."
+      ]
+    },
+    { "slug": "jetCare-green-glow",
+      "name": "JetCare Green Glow",
+      "title": "Peamised aktiivsed koostisosad",
+      "subtitle": "Tego® Turmerone",
+      "subtitle1": "Primalhyal 3K™",
+      "subtitle2": "Niatsiinamiid (B3-vitamiin)",
+      "subtitle3": "Campo Plantservative",
+      "description": [
+        "JetCare Green Glow – Looduslik särav infusioon. JetPeel-hoolduse infusioonifaasis toimetab JetPeel-seade toitained otse nahka.",
+        "JetCare Green Glow koostis sisaldab looduslikku päritolu aktiivseid koostisosi, mis on loodud leevendama vananemise märke ja tugevdama naha loomulikku sära."
+      ],
+      "text": [
+        "Orgaaniliselt kasvatatud *Curcuma longa* taimest puhastatud looduslik kurkumi ekstrakt.",
+        "Võimas antioksüdant, mis kaitseb nahka oksüdatiivse stressi eest.",
+        "Silub peeneid jooni, ühtlustab nahatooni ja suurendab naha loomulikku sära."
+      ],
+      "text1": [
+        "Kolme molekulmassiga hüaluroonhappe kompleks, mis pakub vananemisvastaseid eeliseid erinevatel nahatasanditel:",
+        "-- 100-300 kDa – Toetab naha loomulikku paranemisprotsessi ja kaitsemehhanisme naha pealmistes kihtides.",
+        "-- 20-50 kDa – Ideaalne molekulmass naha funktsioonide parandamiseks ja tugevuse suurendamiseks.",
+        "-- 5-20 kDa – Sügavale tungiv HA-komponent, mis noorendab nahka seestpoolt."
+      ],
+      "text2": [
+        "Vitamiin, mis on rikas antioksüdantide poolest, võitleb vabade radikaalide vastu ja toetab naha valkude tootmist.",
+        "Rahustab punetust ja põletikku ning säilitab niiskuse, aidates kaitsta nahka kahjustuste ja vananemisilmingute eest."
+      ],
+      "text3": [
+        "100% taimne säilitusaine, mis on saadud kahest Jaapani kuslapuu liigist.",
+        "Pakub antimikroobset ja antibakteriaalset kaitset, aidates säilitada toote looduslikku ja nahasõbralikku koostist."
+      ]
+    },
+    { "slug": "jetCare-green-peptide-complex",
+      "name": "JetCare Green Peptide Complex",
+      "title": "Peamised aktiivsed koostisosad",
+      "subtitle": "Argireline® Amplified Peptide Solution",
+      "subtitle1": "Primalhyal 3K™",
+      "subtitle2": "Niatsiinamiid (B3-vitamiin)",
+      "subtitle3": "Natura-tec Plantsil™",
+      "subtitle4": "Campo Plantservative",
+      "description": [
+        "JetCare Green Peptide Complex – Looduslik peptiidide infusioon. JetCare Green Peptide Complex infusioon põhineb ainulaadsel keskkonnasõbralikul valemil, mis silub peeneid jooni ja lõdvestab näolihaseid, andes noorusliku välimuse.",
+        "Peptide Complex ühendab JetPeel vananemisvastased eelised jätkusuutliku ja keskkonnateadliku JetCare Green lähenemisviisiga."
+      ],
+      "text": [
+        "Järgmise põlvkonna multifunktsionaalne peptiid, mis on välja töötatud 'rohelise keemia' põhimõtete järgi.",
+        "Aeglustab naha loomulikku vananemisprotsessi ja lõdvestab näolihaseid, aidates siluda kortse ja ühtlustada nahka."
+      ],
+      "text1": [
+        "Kolme molekulmassiga hüaluroonhappe kompleks, mis pakub vananemisvastaseid toimeid erinevates nahakihtides:",
+        "-- 100-300 kDa – Toetab naha loomulikku paranemisprotsessi ja tugevdab selle kaitsemehhanisme.",
+        "-- 20-50 kDa – Parandab naha funktsionaalsust ja tugevust, andes pinguldatud ilme.",
+        "-- 5-20 kDa – Tungib sügavamale nahka, soodustades uuenemist seestpoolt."
+      ],
+      "text2": [
+        "Vitamiin, mis on rikas antioksüdantide poolest, võitleb vabade radikaalide vastu ja toetab naha valkude sünteesi.",
+        "Rahustab punetust ja põletikke ning säilitab niiskuse, kaitstes nahka keskkonnakahjustuste ja vananemisilmingute eest."
+      ],
+      "text3": [
+        "Oliividest saadud hüdrogeenitud ester, mis annab nahale siidise ja pehme tunde.",
+        "Jätab meeldiva, pikaajalise satiinise viimistluse."
+      ],
+      "text4": [
+        "100% taimne säilitusaine, mis on saadud kahest Jaapani kuslapuu liigist.",
+        "Pakub antimikroobset ja antibakteriaalset kaitset, aidates säilitada toote looduslikku ja nahasõbralikku koostist."
+      ]
+    }
+  ]
+}

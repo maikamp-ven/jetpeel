@@ -1,0 +1,73 @@
+.serum__product-page {
+  margin-block: 8rem 5rem;
+
+}
+
+.serum__product-wrapper {
+  padding: 1em;
+  display: flex;
+  gap: 7rem;
+}
+
+.serum__product-imgWrapper {
+  width: 50%;
+  max-width: 500px;
+}
+
+.serum__product-image {
+  width: 100%;
+}
+
+.serum__product-text {
+  width: 49%;
+}
+
+.serum__product-ingredients {
+  padding: 1em;
+  margin-bottom: 3rem;
+  max-width: 600px;
+  min-width: 350px;
+}
+
+.serum__hero-title{
+  margin-block: 2rem;
+  color: var(--accent);
+  font-weight: 600;
+  line-height: 1.5;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.serum__hero-subtitle {
+  margin-block: 1rem;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  color: var(--text-color);
+}
+
+.serum__product-list {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+@media (max-width: 920px) {
+  .serum__product-wrapper {
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .serum__product-text {
+    padding: 1em;
+    width: 100%;
+  }
+
+  .serum__product-imgWrapper {
+    width: 100%;
+  }
+}
+
+@media (max-width: 760px) {
+  .serum__product-page {
+    margin-block: 12rem 4rem;
+  }
+}

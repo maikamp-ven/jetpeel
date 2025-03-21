@@ -1,0 +1,56 @@
+.serum-modal {
+  position: absolute;
+  right: 350px;
+  top: 70px;
+  width: 650px;
+  background: var(--page-bg);
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  padding: 1em;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(10px);
+  transition: opacity 0.3s ease, visibility 0.3s ease, transform 0.3s ease;
+  z-index: 1000;
+  pointer-events: none;
+}
+
+.serum-modal.open {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+.serum-modal__grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 5px;
+}
+
+.serum-modal__grid .card__item {
+  width: 150px; 
+  height: 150px;
+  text-align: center;
+}
+
+.serum-modal__grid .card__item-img {
+  width: 80px; 
+  height: 80px;
+}
+
+.serum-modal__grid .card-title {
+  font-size: 12px;
+  text-align: center;
+}
+
+.dropdown-icon {
+  font-size: 10px; 
+  margin-left: 5px;
+  display: inline-block;
+  transition: transform 0.2s ease-in-out;
+}
+
+.navbar__dropdown:hover .dropdown-icon {
+  transform: rotate(180deg);
+}

@@ -1,0 +1,118 @@
+{
+  "title": "JetPeel™ Käsiosad",
+  "meta": {
+    "title": "JetPeel™ Käsiosad",
+    "description": "JetPeel™ käsiosa pakub ohutut ja tõhusat hüdroporatsiooni ravi. Vaata kõiki käsiosi ja LED-komponente siit!",
+    "keywords": "JetPeel, käsiosa, LED komponendid, hüdroporatsioon, iluravi"
+  },
+  "schema": {
+    "name": "JetPeel Käsiosad",
+    "description": "JetPeel™ käsiseadmega on ohutu ja tõhus hüdroporatsioonihooldus."
+  },
+  "hero": {
+    "title": "JetPeel™ - patenteeritud käsitööriistad",
+    "text1": "<a href=\"/jetPeel\">JetPeel™</a> - hüdroporatsioonitehnoloogia kasutab spetsiaalselt disainitud ja patenteeritud JetPeel™ käsiotsikuid, mis on täielikult kohandatud ainulaadsele survejoa mehhanismile. Käsiotsikute otsikud peavad taluma äärmiselt suurt survet ja vedelikujuga kiirust, mis võib ulatuda kuni <b>200 m/s</b> (720 km/h). <br/> Spetsiaalselt kujundatud otsik hajutab kiirendatud vedelikujoad mikropiisakesteks, mis imenduvad õrnalt nahka. Joavoolu jõud venitab nahka valutult, avades mikrokanalid sügavale dermisesse. Protseduur ei vaja nõelu, lõikeid ega riku naha pinda.",
+    "text2": "<a href=\"/jetPeel\">JetPeel™</a> - käsiotsiku otsene transepidermiline manustamismehhanism tagab, et tulemused on koheselt nähtavad ja tõhusad juba samal päeval. JetPeel™ pakub erineva suurusega otsikuid ja konfiguratsioone sisaldavaid käsiotsikuid, mis sobivad mitmesugusteks esteetilisteks protseduurideks. <br/><a href=\"/jetPeel\">JetPeel™ </a> - käsiseade on JetPeel-tehnoloogia tõhususe võti, kuna see võimaldab täpset ja mugavat joavoolu suunamist naha kihtidesse. Ainult originaalsed TavTechi JetPeel™-käsiseadmed on heaks kiidetud JetPeel™-hoolduste jaoks."
+  },
+  "components": [
+    {
+      "title": "SingleJet Narrow",
+      "label": "Kasutatakse täpsete ja suunatud infusiooniravi jaoks, näiteks sügavamate kortsude ja peente joonte jaoks."
+    },
+    {
+      "title": "DoubleJet",
+      "label": "Soovitatav peanaha ja juuksehoolduste jaoks."
+    },
+    {
+      "title": "TripleJet",
+      "label": "Sobib enamiku ravimeetodite jaoks, sealhulgas lümfimassaaž, koorimine ja infusioon näole ja kehale."
+    }
+  ],
+  "ledComponents_card": [
+    {
+      "title": "Sinine LED-komponent",
+      "slug": "Sininen LED-komponentti",
+      "label": "Sinine valgus tungib naha pealmistesse kihtidesse. Ideaalne akne puhangute vähendamiseks ja ärritunud naha rahustamiseks."
+    },
+    {
+      "title": "Roheline LED-komponent",
+      "slug": "Vihreä LED-komponentti",
+      "label": "Roheline valgus tungib naha ülemistesse kihtidesse, sihtides melaniini tootvaid rakke. Sobib pigmendimuutuste, nagu vanuselaikude ja päikesekahjustuste, raviks."
+    },
+    {
+      "title": "Kollakasroheline LED-komponent",
+      "slug": "Kelta-vihreä LED-komponentti",
+      "label": "Kollakasroheline valgus tungib naha keskmistesse kihtidesse. Aitab vähendada naha punetust ja ärritust ning rahustada tundlikku, sügelevat peanahka."
+    },
+    {
+      "title": "Merevaigukollane LED-komponent",
+      "slug": "Meripihkanvärinen LED-komponentti",
+      "label": "Merevaigukollane valgus tungib sügavamale nahka. Ideaalne põletike vähendamiseks, antioksüdantseks ja kaitsvaks hoolduseks ning päikesekahjustuste ennetamiseks."
+    },
+    {
+      "title": "Punane LED-komponent",
+      "slug": "Punainen LED-komponentti",
+      "label": "Punane valgus jõuab kõige sügavamale nahakihti, kus see stimuleerib fibroblaste ja kollageeni tootmist. Aitab vähendada kortse ja naha tugevuse vähenemist."
+    }
+  ],
+  "jetpeelLedComponents": [
+    {
+      "title": "Sinine valgus (460-470 nm)",
+      "slug": "Sininen valo (460-470 nm)",
+      "label": "Soovitatav tundlikule ja aknele kalduvale nahale ning rasuse peanaha tasakaalustamiseks."
+    },
+    {
+      "title": "Roheline valgus (535-545 nm)",
+      "slug": "Vihreä valo (535-545 nm)",
+      "label": "Sobib pigmentatsiooniprobleemide, näiteks vanuselaikude ja päikesekahjustuste raviks. Aitab tasakaalustada ja helendada nahatooni."
+    },
+    {
+      "title": "Kollakasroheline valgus (565-575 nm)",
+      "slug": "Kelta-vihreä valo (565-575 nm)",
+      "label": "Aitab vähendada naha punetust ja ärritust. Sobib ka tundliku ja sügeleva peanaha hoolduseks."
+    },
+    {
+      "title": "Merevaigukollane valgus (585-595 nm)",
+      "slug": "Meripihkanvärinen valo (585-595 nm)",
+      "label": "Soovitatav päikesepõletuse ja rosaatseaga seotud punetuse vähendamiseks. Rahustab põletikulisi seisundeid ja aitab kaitsta nahka kahjulike päikesekiirte eest."
+    },
+    {
+      "title": "Punane valgus (620-630 nm)",
+      "slug": "Punainen valo (620-630 nm)",
+      "label": "Soovitatav vananemisilmingute vähendamiseks, kortsude silumiseks ja naha tugevdamiseks."
+    }
+  ],
+
+  "general_components": "Üldised käsiseadmed ja komponendid",
+  "led_components": "LED - komponendid",
+  "special_handpieces": "Spetsiaalsed Käsiseadmed",
+  "specialty": {
+    "title1": "Imemisotsik + Otsik",
+    "points1": [
+      "✔ Mõeldud mustpeade ja ebapuhtuste eemaldamiseks naha pinnalt.",
+      "✔ Käsiotsikut saab korduvalt kasutada, kuid imemisotsik tuleb pärast iga protseduuri välja vahetada.",
+      "✔ Sobib ka vaakummassaažiks silmaümbruse piirkonnas, parandades mikrotsirkulatsiooni ja naha elujõulisust."
+    ],
+    "title2": "PrestigeJet Plus",
+    "points2": [
+      "✔ Steriilne ja patenteeritud ühekordselt kasutatav käsiotsik.",
+      "✔ Sisaldab Air Shield kaitset, mis takistab mikropiisakeste levikut.",
+      "✔ Luer-lock ühilduv – saab ühendada mis tahes standardsüstlaga.",
+      "✔ Mõeldud ohutuks, tõhusaks ja nõelavabaks süvatoitainete infusiooniks.",
+      "✔ Välja töötatud spetsiaalselt TavTechi JetPeel-seadmele."
+    ]
+  },
+  "non_sterile": {
+    "title": "Mittersteriilsed käsiotsikud",
+    "points": [
+      "✔ Võib kasutada kuni 10 protseduuri või kuni 2 nädalat pärast avamist, olenevalt sellest, kumb täitub esimesena."
+    ]
+  },
+  "sterile": {
+    "title": "Steriilsed käsiotsikud",
+    "points": [
+      "✔ Ainult ühekordseks kasutamiseks."
+    ]
+  },
+  "jet_led_components": "JetPeeli käsiotsiku LED-komponendid samaaegseteks Jet-LED-protseduurideks"
+}

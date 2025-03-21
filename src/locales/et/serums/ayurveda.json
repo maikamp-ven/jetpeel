@@ -1,0 +1,131 @@
+{
+  "slug": "ayurveda",
+  "name": "JetCare™ Ayurveda",
+  "description": [
+    "JetCare Ayurveda – Traditsiooni ja tehnoloogia sümbioos tundlikule nahale. JetCare Ayurveda põhineb iidse India Ayurveda tervendamismeetodil, mida endiselt laialdaselt praktiseeritakse Indias ning mida Maailma Terviseorganisatsioon (WHO) tunnustab tõhusa alternatiivse ravimeetodina.",
+    "Ayurveda tähendab 'elu teadust' ja keskendub keha ja naha terviklikule tasakaalustamisele. Ravi põhineb ainulaadsete taimede ja toidulisandite kasutamisel, mida Ayurveda kõrgelt hindab nende põletikuvastaste ja puhastavate omaduste poolest."
+  ],
+  "description1": [
+    "JetCare Ayurveda ühendab India meditsiini tarkuse ja arenenud nahahooldustehnoloogia. JetPeel võimaldab Ayurveda tasakaalustavad ja õrnad toimeained viia sügavale nahka – mitteinvasiivselt, ilma nõelteta, valutult ja nahka kahjustamata.",
+    "Tulemus: tasakaalus, sile ja särav nahk, mis tundub tervislik ja rahustatud.",
+    "JetCare Ayurveda koostis põhineb traditsioonilistel ajurveeda taimeekstraktidel, muutes selle ideaalseks hoolduseks tundlikule nahale.",
+    "Võimas, kuid õrn ravi, mille efektiivsus on kliinilistes uuringutes tõestatud.",
+    "JetCare Ayurveda on ideaalne valik tundlikule nahale – ohutu ja teaduslikult tõestatud ravimeetod.",
+    "Avasta Ayurveda sära JetCare hooldusega ja koge loomulikult harmoonilist, kaunist nahka!"
+  ],
+  "products": [
+    {
+      "slug": "jetCare-ayurveda-exfoliation",
+      "name": "JetCare Ayurveda Exfoliation",
+      "label": "Puhastab, tasakaalustab ja valmistab naha ette infusioonifaasi jaoks",
+      "title": "Peamised aktiivsed koostisosad",
+      "subtitle": "Bacocalmine",
+      "subtitle1": "Campo Vijaya Sara",
+      "subtitle2": "Campo Jyotismati",
+      "subtitle3": "Campo Susunishak",
+      "subtitle4": "Piimhape (Lactic Acid) 5%",
+      "description": [
+        "JetCare Ayurveda Exfoliation: Looduslik tasakaal ja õrn koorimine. JetCare Ayurveda Exfoliation eemaldab tõhusalt surnud naharakud, kasutades ajurveeda tasakaalustavaid koostisosi, valmistades naha ette sügavniisutuseks ja infusiooniks.",
+        "Õrn koostis sisaldab 6% piimhapet (Lactic Acid), muutes selle sobivaks isegi kõige tundlikumale nahale."
+      ],
+      "text": [
+        "Pärit Indiast ja Pakistanist, üks ajurveeda peamisi stressivastaseid ürte.",
+        "Rahustava ja põletikuvastase toimega, aitab võidelda vabade radikaalide ja oksüdatiivse stressi vastu, taastades naha loomuliku tervise ja sileduse."
+      ],
+      "text1": [
+        "Tõhus ajurveeda toimeaine, mis on rikas flavonoidide poolest, stimuleerides vereringet ja hapnikuga varustamist.",
+        "Aitab tasakaalustada rasu tootmist ning tagab poore ahendava efekti, vähendades naha rasusust.",
+        "Sisaldab rohkelt saponiine ja mukiine, mis niisutavad ja pehmendavad nahka, jättes selle siledaks ja tervemaks."
+      ],
+      "text2": [
+        "Traditsiooniline ajurveeda elustav koostisosa, mis sisaldab rikkalikult tanniine—looduslikke ahendavaid ühendeid, mis pinguldavad poore ja ühtlustavad nahatooni.",
+        "Kõrge saponiinisisaldus pehmendab nahka, samas kui mineraalsoolad reguleerivad niiskustasakaalu, taastades naha loomuliku elastsuse."
+      ],
+      "text3": [
+        "Sisaldab mukiine ja mineraalsoolasid, mis pakuvad suurepärast niisutavat ja niiskust säilitavat toimet.",
+        "Rikkalik aminohapete koostis aitab pinguldada ja tugevdada nahka, andes sellele sileda ja noorusliku välimuse."
+      ],
+      "text4": [
+        "Alfa-hüdroksühape (AHA), mis on tuntud oma loodusliku kooriva toime poolest.",
+        "Õrn, kuid tõhus, eemaldab surnud naharakud ja aitab stimuleerida naha uuenemist.",
+        "JetCare Ayurveda Exfoliation pakub looduslikku ja tasakaalustatud koorimist, mis uuendab ja värskendab nahka, tuginedes ajurveeda traditsioonidele."
+      ]
+    },
+    {
+      "slug": "jetCar-ayurveda-infusion",
+      "name": "JetCare Ayurveda Infusion",
+      "label": "Toob Ayurveda tervendavad ja niisutavad omadused nii naha pinnale kui ka sügavamatesse kihtidesse",
+      "title": "Peamised aktiivsed koostisosad",
+      "subtitle": "Bacocalmine",
+      "subtitle1": "Campo Vijaya Sara",
+      "subtitle2": "Campo Jyotismati",
+      "subtitle3": "Campo Susunishak",
+      "subtitle4": "Primalhyal 3K™: Kolme molekulmassiga hüaluroonhappe kompleks",
+      "description": [
+        "JetCare Ayurveda Infusion: Niisutav, Tervendav, Õrn. JetCare Ayurveda Infusion on värav sügavniisutuse ja naha taastamise juurde. See hoolduslahendus on rikastatud Primalhyal 3K™ hüaluroonhappe kompleksiga, mis sisaldab kolme erineva molekulmassiga hüaluroonhapet. See tagab niisutavad ja Ayurveda tervendavad omadused naha erinevatesse kihtidesse."
+      ],
+      "text": [
+        "Pärit Indiast ja Pakistanist, üks ajurveeda peamisi stressivastaseid ürte.",
+        "Rahustava ja põletikuvastase toimega, aitab võidelda vabade radikaalide ja oksüdatiivse stressi vastu, taastades naha loomuliku tervise ja sileduse."
+      ],
+      "text1": [
+        "Tõhus ajurveeda toimeaine, mis on rikas flavonoidide poolest, stimuleerides vereringet ja hapnikuga varustamist.",
+        "Aitab tasakaalustada rasu tootmist ning tagab poore ahendava efekti, vähendades naha rasusust.",
+        "Sisaldab rohkelt saponiine ja mukiine, mis niisutavad ja pehmendavad nahka, jättes selle siledaks ja tervemaks."
+      ],
+      "text2": [
+        "Traditsiooniline ajurveeda elustav koostisosa, mis sisaldab rikkalikult tanniine—looduslikke ahendavaid ühendeid, mis pinguldavad poore ja ühtlustavad nahatooni.",
+        "Kõrge saponiinisisaldus pehmendab nahka, samas kui mineraalsoolad reguleerivad niiskustasakaalu, taastades naha loomuliku elastsuse."
+      ],
+      "text3": [
+        "Sisaldab mukiine ja mineraalsoolasid, mis pakuvad suurepärast niisutavat ja niiskust säilitavat toimet.",
+        "Rikkalik aminohapete koostis aitab pinguldada ja tugevdada nahka, andes sellele sileda ja noorusliku välimuse."
+      ],
+      "text4": [
+        "Hüaluroonhape on niisutav ja nahka taastav toimeaine, mis toimib erinevates nahakihtides.",
+        "✅ 100-300 kDa: Toetab naha loomulikke paranemisprotsesse, tugevdab naha kaitsemehhanisme ja aitab säilitada niiskustasakaalu naha pealmistes kihtides.",
+        "✅ 20-50 kDa: Parandab naha funktsiooni ja pinguldab nahka, suurendades selle elastsust ja tugevust.",
+        "✅ 5-20 kDa: Madala molekulmassiga HA tungib sügavale nahka, uuendades ja elustades seda seestpoolt.",
+        "JetCare Ayurveda Infusion pakub terviklikku ja tõhusat niisutust, samal ajal rahustades, toites ja taastades nahka ajurveeda iidse tarkuse ja kaasaegse tehnoloogia kombinatsiooniga."
+      ]
+    },
+    {
+      "slug": "jetCare-ayurveda-boost-infusion",
+      "name": "JetCare Ayurveda Boost Infusion",
+      "label": "Tugevdab ajurveeda hoolduse mõju, ahendab poore ja taastab naha loomuliku pehmuse",
+      "title": "Peamised aktiivsed koostisosad",
+      "subtitle": "Bacocalmine",
+      "subtitle1": "Campo Vijaya Sara",
+      "subtitle2": "Campo Jyotismati",
+      "subtitle3": "Campo Susunishak",
+      "subtitle4": "Pore Reductyl 5% – Tõhus seeneekstrakt pooride ahendamiseks",
+      "description": [
+        "JetCare Ayurveda Boost Infusion: Tugevda Ajurveeda Mõju. Suurenda JetCare Ayurveda hoolduse tulemusi Boost Infusion lahusega – kontsentreeritud valem, mis toimetab ajurveeda koostisosade looduslikud tervendavad, puhastavad ja tasakaalustavad omadused sügavale nahka.",
+        "See protokolli viimane etapp on rikastatud 5% Pore Reductyl seeneekstraktiga, millel on ahendavad omadused, see aitab vähendada poore ning jätab naha siledaks ja siidiselt pehmeks."
+      ],
+      "text": [
+        "India ja Pakistani traditsioonidest pärit stressi leevendav taim, mis on tuntud ajurveeda meditsiinis.",
+        "Rahustava ja põletikuvastase toimega, võitleb vabade radikaalide ja oksüdatiivse stressi vastu.",
+        "Taastab naha loomuliku heaolu ja sileda struktuuri."
+      ],
+      "text1": [
+        "Tõhus ajurveeda toimeaine, mis sisaldab flavonoide, mis parandavad vereringet ja hapniku omastamist nahas.",
+        "Aitab tasakaalustada rasu tootmist ning tagab poore ahendava toime, vähendades nende suurust.",
+        "Sisaldab rohkelt saponiine ja mukiine, mis niisutavad ja pehmendavad nahka, jättes selle tervemaks ja siledamaks."
+      ],
+      "text2": [
+        "Elustav ajurveeda koostisosa, mis sisaldab rikkalikult tanniine—looduslikke ahendavaid ühendeid, mis pinguldavad poore ja ühtlustavad naha struktuuri.",
+        "Kõrge saponiinisisaldus pehmendab nahka, samas kui mineraalsoolad aitavad reguleerida niiskustasakaalu, taastades naha loomuliku elastsuse."
+      ],
+      "text3": [
+        "Sisaldab mukiine ja mineraalsoolasid, mis pakuvad suurepärast niisutavat ja niiskust säilitavat toimet.",
+        "Rikkalik aminohapete koostis aitab pinguldada ja tugevdada nahka, andes sellele sileda ja noorusliku välimuse."
+      ],
+      "text4": [
+        "Looduslik seeneekstrakt, millel on ahendav toime.",
+        "Aitab vähendada poore, silub naha tekstuuri ja muudab selle ühtlasemaks ning säravamaks.",
+        "JetCare Ayurveda Boost Infusion on ideaalne viimane samm ajurveeda hooldusprotokollis, tagades optimaalse niisutuse, tasakaalu ja noorusliku sära."
+      ]
+    }
+  ]
+}

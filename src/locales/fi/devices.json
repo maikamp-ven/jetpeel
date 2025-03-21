@@ -1,0 +1,169 @@
+{
+    "title": "JetPeel™ - Laitteet",
+    "description": "JetPeel-teknologiaa on saatavilla erilaisissa laitteissa ja annostelujärjestelmissä, jotka soveltuvat esteettisiin, kosmeettisiin ja dermatologisiin hoitoihin.",
+    "products": {
+      "jetPro": {
+        "slug": "jetPro",
+        "title": "JetPro™",
+        "text": "JetPro™ on edistynyt ihonhoitoteknologia, joka on suunniteltu turvalliseen, ei-invasiiviseen ja tehokkaaseen ihon nuorennukseen. Laitteessa käytetään korkeapaineista kaasu-nesteteknologiaa, joka puhdistaa ihon syvältä, kuljettaa aktiivisia aineosia ja stimuloi ihon uusiutumista vahingoittamatta epidermiä. Tämä tuottaa nopeita ja näkyviä tuloksia. JetPro ei hoida vain ihoa – se auttaa ihmisiä tuntemaan olonsa raikkaaksi, terveeksi ja upeaksi, antaen itsevarmuutta omaan ihoon ja sen hoitoon aivan uudella tavalla. Yli 20 vuoden tieteellisen tutkimuksen pohjalta kehitetty JetPro-teknologia nostaa esteettiset hoidot uudelle tasolle.",
+        "heroTitle": "Innovatiivinen Ihonhoitoteknologia!",
+        "heroText": "JetPro yhdistää ihon terveyden ja itsevarman kauneuden. Tämä täysin uudenlainen esteettinen hoitomenetelmä vaikuttaa syvälle ihoon, mutta on silti täysin ei-invasiivinen ja kliinisesti tutkittu. JetPro tuottaa näkyviä tuloksia heti transdermaalisen toimitusjärjestelmän avulla – ilman neuloja, ihovaurioita, arpia, toipumisaikaa tai palautumista. Itse asiassa JetPro-hoidot ovat niin miellyttäviä ja rentouttavia, että kauneushoitola- ja kylpyläasiakkaat voivat nauttia parhaasta versiosta itsestään täysin rauhallisessa ja tehokkaassa hoitoprosessissa.",
+        "link": "/contacts",
+        "sections": [
+          {
+            "title": "Miten JetPro Toimii?",
+            "imgSection": "/static/media/JetCare Green Brochure and Treatment Guidelines .png",
+            "list": [
+              "JetPro hyödyntää edistyksellistä suihkuteknologiaa tarjotakseen syvälle imeytyvän hoidon kompaktissa ja helppokäyttöisessä laitteessa.",
+              "JetPro tuottaa korkeapaineisia ja nopeita nestevirtoja, jotka ohjataan iholle patentoidulla JetPeel-käsikappaleella.",
+              "45° kulmassa käytettynä suihku kohdistaa kevyen mutta tehokkaan paineen iholle, kuorien sen pintakerroksen mikrodermabraasion avulla ja valmistaen sen transdermaaliseen hoitoon.",
+              "Suoraan iholle suunnattuna voimakkaat suihkut venyttävät ihoa luoden mikroskooppisia kanavia, jotka mahdollistavat vaikuttavien aineiden syvemmän imeytymisen.",
+              "JetPro toimii yhdessä JetCare-hoitotuotteiden kanssa erilaisten ihon tarpeiden hoitamiseen.",
+              "Suuttimien avulla aktiiviset ja ravitsevat ainesosat kulkeutuvat mikro-tippoina syvälle ihoon – ilman odotusaikaa, sillä ne imeytyvät välittömästi ja tulokset ovat nähtävissä jo samana päivänä.",
+              "Laitteessa ei käytetä neuloja eikä se riko ihoa, mikä tekee hoidosta täysin kivuttoman, ei jätä arpia eikä vaadi palautumisaikaa.",
+              "Hoidon jälkeen asiakkaat voivat jatkaa päivittäistä elämäänsä ilman keskeytyksiä. Kaiken lisäksi hoidon kliinisesti todistetut tulokset ovat välittömästi nähtävissä, ja JetPro-hoidon rentouttava ja virkistävä kokemus antaa asiakkaalle uudenlaisen hehkun ja itsevarmuuden."
+            ]
+          },
+          {
+            "title": "Hyödyt esteettisille ammattilaisille",
+            "imgSection": "/static/media/Triplejet-sterile-side.png",
+            "list": [
+              "Tieteellisesti todistettu. Kliinisesti todistetut näkyvät tulokset jo ensimmäisen hoitokerran jälkeen, mikä takaa korkean asiakastyytyväisyyden.",
+              "Turvallinen ja tehokas. Ei-invasiivinen, neulaton hoito, joka ei jätä jälkiä ihoon. Potilas nauttii miellyttävästä kokemuksesta ilman vaurioita tai toipumisaikaa.",
+              "Yksi laite, useita hoitomahdollisuuksia. Yhdistettynä erilaisiin JetPeel-käsikappaleisiin ja JetCare-liuoksiin, yksi laite tarjoaa laajan valikoiman hoitovaihtoehtoja.",
+              "Nopea sijoitetun pääoman tuotto (ROI), liiketoiminnan kasvu. Investointi huipputeknologiaan takaa erinomaiset tulokset, tyytyväiset asiakkaat ja palaavat kanta-asiakkaat."
+            ]
+          },
+          {
+            "title": "Hyödyt potilaille",
+            "list": [
+              "✔ Ei kipua. Ei-invasiiviset suihkupainesuihkut tunkeutuvat ihoon täysin mukavassa, rentouttavassa ja miellyttävässä kokemuksessa.",
+              "✔ Ei toipumisaikaa. Iho ei vaurioidu, eikä palautumisaikaa tarvita. Potilas voi lähteä hoidosta täysin mukavasti ja palata välittömästi normaaliin päivittäiseen rutiiniinsa.",
+              "✔ Nopeat ja näkyvät tulokset. Aktiivisten aineiden välitön kuljetus syvälle ihoon tarkoittaa, että tulokset ovat välittömästi havaittavissa.",
+              "✔ Itsevarmuutta ja kauneutta. JetPro-hoito on miellyttävä ja rentouttava, ja sen kliinisesti todistetut tulokset tuovat varmuutta hoidon tehosta."
+            ]
+          },
+          {
+            "title": "JetPro:n tekniset tiedot",
+            "list": [
+              "📌 Mitat: 510mm x 580mm x 720mm",
+              "📌 Paino: 31 kg",
+              "📌 Käyttöpaine: 95 psi ± 10%"
+            ]
+          }
+        ]
+      },
+      "jetProDuo": {
+        "slug": "jetProDuo",
+        "title": "JetPro™ Duo",
+        "text": "Seuraavan sukupolven JetPeel™ – JetPro™ Duo yhdistää hydroporaation ja fotoporaation JetPeel™ asettaa uuden virstanpylvään kehittämällä JetPro™ Duo -teknologian, joka yhdistää syvävaikutteisen LED-valohoidon (fotoporaation) ja JetPeel™-hydroporaation huipputeknologian. JetPro™ Duo LED-valoteknologia hyödyntää nestemäistä hydroporaatiosuihkua valonjohtimena, joka ohjaa punaiset ja siniset valoaallot erityisten LED-käsikappaleiden avulla syvälle ihoon aina Stratum reticulare -kerrokseen asti.",
+        "heroTitle": "Tehokkaampi suorituskyky!",
+        "heroText": "🔴🔵 Punaisen ja sinisen Jet LED -valon vaikutus tarjoaa kaksoishoitoratkaisun, joka tehostaa JetPeel™-hoidon tuloksia. Tämä ainutlaatuinen yhdistelmä JetPro™ Duo -järjestelmässä yhdistää hydroporaation ja fotoporaation, laajentaen huomattavasti hoitomahdollisuuksia. JetPro™ Duo tarjoaa innovatiivisen, kaksivaiheisen transepidermisen hoitomuodon, joka parantaa ihon laatua entistä tehokkaammin ja optimoidaan ihon nuorentava ja uudistava vaikutus. 5-in-1: Lymfahieronta, kuorinta, hydroporaatio, kylmä- ja valohoito.",
+        
+        "link": "/contacts",
+        "sections": [
+          {
+            "title": "Miten JetPro Duo toimii?",
+            "imgSection": "/static/media/Jet-LED-Infusion-5-LED.webp",
+            "list": [
+              "LED (Light Emitting Diode) on pieni lasikoteloitu siru, joka lähettää eripituisia valoaallonpituuksia.",
+              "JetPro Duo perus-LED-sarja perustuu NASA:n kehittämään teknologiaan ja sisältää kaksi ihoa korjaavaa ja nuorentavaa valoaalloa:",
+              "Punainen valo (620-630 nm)",
+              "Sininen valo (460-470 nm)",
+              "Punainen valo on kliinisesti todistettu tunkeutumaan syvälle ihon kerroksiin, missä se aktivoi fibroblastit ja edistää kollageenin tuotantoa. Tämä auttaa siloittamaan juonteita ja ryppyjä, kiinteyttämään ihoa ja antamaan sille nuorekkaamman ulkonäön. Se on ihanteellinen ei-invasiivisiin kasvohoitoihin, jotka kohdistuvat ikääntymisen merkkeihin.",
+              "Sininen valo tunkeutuu ihon yläkerroksiin, maksimisyvyydeltään 1 mm, ja on tunnettu sen antibakteerisista ominaisuuksista. Se taistelee aknea aiheuttavaa P. acnes -bakteeria vastaan. Sininen LED-valo auttaa vähentämään ihon epäpuhtauksia, rauhoittamaan ärtynyttä ihoa ja vähentämään tulehduksia."
+            ]
+          },
+          {
+            "title": "Edistynyt LED-sarja: Laajenna hoitomahdollisuuksia",
+            "imgSection": "/static/media/Jet-LED-Infusion-5-LED-colors.png",
+            "list": [
+              "JetPro Duo:n edistynyt LED-sarja sisältää lisäkomponentteja, jotka laajentavat Jet-LED-hoitovaihtoehtoja kolmella uudella LED-värillä: Vihreä, kelta-vihreä ja meripihkanvärinen valo.",
+              "Vihreä LED-valo tunkeutuu ihon pintakerroksiin, missä se kohdistuu melaniinia tuottaviin soluihin.Vihreä LED-hoito on ihanteellinen pigmenttimuutosten, kuten maksaläiskien ja auringon aiheuttamien värimuutosten hoitoon. Se auttaa myös tasapainottamaan ja kirkastamaan ihon sävyä.",
+              "Kelta-vihreä LED-valo tunkeutuu ihon keskikerroksiin, missä sillä on rauhoittavia ja tulehdusta vähentäviä ominaisuuksia.Tämä valo auttaa ihon punoituksen ja ärsytyksen vähentämisessä sekä rauhoittaa kutisevaa, ärtynyttä hiuspohjaa. Se sopii erityisesti herkälle iholle ja mietoon, ei-invasiiviseen kasvohoitoon.",
+              "Meripihkanvärinen LED-valo tunkeutuu syvemmälle ihoon, missä sillä on rauhoittava, suojaava, tulehdusta estävä ja antioksidanttinen vaikutus. Meripihkanvärinen LED-hoito vähentää auringonpolttaman ja ruusufinnin aiheuttamaa punoitusta ja auttaa rauhoittamaan tulehduksellisia iho-ongelmia."
+            ]
+          },
+          {
+            "title": "Kaksois Jet-LED-hoidon hyödyt",
+            "list": [
+              "Paremmat tulokset – Kaksois Jet-LED-hoito tehostaa vaikutuksia, mikä parantaa ei-invasiivisen kasvohoidon tuloksia.",
+              "Samanaikainen hoito – Kaksi hoitoteknologiaa yhdessä käsittelyssä ilman lisäaikaa.",
+              "Ei ylimääräisiä tarvikkeita – JetPeel-hoito toteutetaan kuten ennenkin, mutta kaksoisarvolla ilman lisäkustannuksia.",
+              "Laajennetut hoitovaihtoehdot – Lisää hoitoihisi kolme uutta LED-väriä JetPro Duo:n edistyneen LED-komponenttisarjan avulla."
+            ]
+          },
+          {
+            "title": "JetPro Duo:n tekniset tiedot",
+            "list": [
+              "📌 Mitat: 510mm x 580mm x 720mm",
+              "📌 Paino: 31 kg",
+              "📌 Käyttöpaine: 95 psi ± 10%",
+              "📌 Nestelähde: Kertakäyttöinen liuosastia"
+            ]
+          }
+        ]
+      },
+      "jetProToGo": {
+      "slug": "jetProToGo",
+      "title": "JetPro ToGo™",
+      "text": "JetPro ToGo on kompakti, kannettava versio JetPro Duo -järjestelmästä, jonka voit ottaa mukaan minne tahansa. JetPro ToGo:n avulla esteetikot voivat tarjota eksklusiivisen Jet-LED-hoidon missä tahansa ympäristössä – kotona, toimistossa, hotelleissa, tapahtumissa ja muissa paikoissa. JetPro ToGo on kevyempi, pienempi ja helposti kuljetettava, mutta tuottaa samalla tehokkuudella kauniita ja sileitä hoitotuloksia kuin JetPro Duo. Laajenna liiketoimintaasi klinikan ulkopuolelle ja tarjoa miellyttävä ja kivuton JetPeel-hoito missä tahansa asiakkaasi sitä tarvitsee.",
+      "heroTitle": "JetPro ToGo™ – Kannettava JetPro Duo™ -järjestelmä!",
+      "heroText": "JetPro ToGo™ on kompakti ja kannettava versio JetPro Duo™ -järjestelmästä, joka mahdollistaa eksklusiiviset Jet-LED-hoidot missä tahansa – kotona, toimistossa, hotelleissa, tapahtumissa ja muissa paikoissa.",
+      
+      "link": "/contacts",
+      "sections": [
+        {
+          "title": "JetPro ToGo:n ominaisuudet",
+          "imgSection": "/static/media/jetProToGo_cover.png",
+          "list": [
+            "JetPro ToGo™ on kevyempi, pienempi ja erittäin helppo kuljettaa, mutta se tuottaa samat kauniit ja sileät tulokset kuin JetPro Duo™.",
+            "45 % kevyempi kuin JetPro™ ja JetPro Duo™",
+            "Sopii mihin tahansa autoon tai tavaratilaan",
+            "Varustettu trolley-pyörillä ja kahvalla helppoa kuljetusta varten",
+            "Suojakansi ja lisätarvikelaukku sisältyvät"
+          ]
+        },
+        {
+          "title": "Laajennetut Jet-LED-hoitovaihtoehdot",
+          "imgSection": "/static/media/5-LED-Colors-Tips.png",
+          "list": [
+            "Tarjoa asiakkaillesi lisää Jet-LED-hoitoja punaisen ja sinisen LED-valon avulla sekä kehittyneellä LED-komponenttisarjalla, jossa on kolme muuta LED-väriä: Vihreä, kelta-vihreä ja meripihkanvärinen.",
+            "Sininen LED (460-470 nm): Lievälle ja keskivaikealle aknelle, couperosalle, herkälle iholle ja rasvaiselle päänahalle.",
+            "Vihreä LED (535-545 nm): Pigmenttimuutoksiin ja epätasaiseen sävyyn.",
+            "Kelta-vihreä LED (565-575 nm): Ihon punoitukseen ja herkkään, kutisevaan päänahkaan.",
+            "Meripihkanvärinen LED (585-595 nm): Ihotulehduksiin ja ärsytykseen.",
+            "Punainen LED (620-630 nm): Ikääntymisen estämiseen, pigmentaatioon ja ihon sävyn heikkenemiseen."
+          ]
+        },
+        {
+          "title": "Hyödyt potilaille",
+          "imgSection": "/static/media/jetPeel-ToGo.png",
+          "list": [
+            "✔ JetPeel missä tahansa. Nauti kliinisesti todistetuista JetPeel-tuloksista missä ja milloin vain – kotona, toimistossa tai muussa toivomassasi paikassa.",
+            "✔ Kivuton ja miellyttävä hoito. Ei-invasiiviset suihkupainesuihkut yhdistettynä 5 eri LED-värin tehoon tunkeutuvat ihoon täysin mukavassa, rentouttavassa ja nautinnollisessa kokemuksessa.",
+            "✔ Nopeat ja näkyvät tulokset. Aktiivisten aineiden välitön imeytyminen ihoon takaa välittömät ja näkyvät hoitotulokset."
+          ]
+        },
+        {
+          "title": "Hyödyt esteettisille ammattilaisille",
+          "list": [
+            "Klinikka mukana kaikkialla. Tarjoa JetPro Duo -hoito missä tahansa asiakkaan toiveiden mukaisesti. Kannettava laite mahdollistaa laajan valikoiman hoitoja liikkuvassa käytössä.",
+            "Kompakti ja kätevä. Kevyempi ja pienempi laite, jossa trolley-pyörät ja kahva – helppo kuljettaa ja mahtuu mihin tahansa autoon tai tavaratilaan. Nopea ja vaivaton asennus missä tahansa sijainnissa.",
+            "Kasvata menestystäsi. Laajenna asiakaskuntaasi klinikan ulkopuolelle ja luo uusia mahdollisuuksia asiakastyytyväisyyden ja liiketoiminnan kasvun lisäämiseksi.",
+            "Turvallinen ja tehokas. Ei-invasiivinen, neulaton hoito, joka ei jätä jälkiä ihoon. Samanaikainen Jet-LED-hoitoteknologia tarjoaa miellyttävän kokemuksen ja näkyvät tulokset jo samana päivänä."
+          ]
+        },
+        {
+          "title": "JetPro ToGo:n tekniset tiedot",
+          "list": [
+            "📌 Mitat: 510mm x 580mm x 720mm",
+            "📌 Paino: 17 kg",
+            "📌 Käyttöpaine: 95 psi ± 10%",
+            "📌 Liikuteltavuus: Integroitu pyöräjärjestelmä"
+          ]
+        }
+      ]
+    }
+    }
+}

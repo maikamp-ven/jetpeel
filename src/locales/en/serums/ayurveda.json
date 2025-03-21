@@ -1,0 +1,129 @@
+{
+  "slug": "ayurveda",
+  "name": "JetCare™ Ayurveda",
+  "description": [
+    "JetCare Ayurveda – A fusion of tradition and technology for sensitive skin. JetCare Ayurveda is based on the ancient Indian Ayurveda healing philosophy, which is still widely practiced in India and is recognized by the World Health Organization (WHO) as an effective alternative treatment method.",
+    "Ayurveda means 'the science of life' and focuses on a holistic balance of body and skin. The treatment is based on the use of unique herbs and supplements that are highly valued in Ayurveda for their anti-inflammatory and purifying properties."
+  ],
+  "description1": [
+    "JetCare Ayurveda harnesses the wisdom of Indian medicine and advanced skincare technology. JetPeel allows Ayurveda’s balancing and gentle active ingredients to penetrate deep into the skin – non-invasively, without needles, without pain, and without damaging the skin.",
+    "Result: balanced, smooth, and radiant skin that feels healthy and calm.",
+    "The JetCare Ayurveda composition is based on traditional Ayurvedic plant extracts, making it an ideal treatment for sensitive skin.",
+    "A powerful yet gentle treatment that has been proven effective in clinical studies.",
+    "JetCare Ayurveda is the ideal choice for sensitive skin – a safe and scientifically proven treatment method.",
+    "Discover Ayurveda’s glow with JetCare and experience naturally harmonious, beautiful skin!"
+  ],
+  "products": [
+    { "slug": "jetCare-ayurveda-exfoliation",
+      "name": "JetCare Ayurveda Exfoliation",
+      "label": "Cleanses, balances, and prepares the skin for the infusion phase",
+      "title": "Main Active Ingredients",
+      "subtitle": "Bacocalmine",
+      "subtitle1": "Campo Vijaya Sara",
+      "subtitle2": "Campo Jyotismati",
+      "subtitle3": "Campo Susunishak",
+      "subtitle4": "Lactic Acid 5%",
+      "description": [
+        "JetCare Ayurveda Exfoliation: Natural balance and gentle exfoliation. JetCare Ayurveda Exfoliation effectively exfoliates the skin using Ayurvedic balancing ingredients, preparing it for deep infusion and hydration.",
+        "The gentle formula contains 6% lactic acid (Lactic Acid), making it suitable even for the most sensitive skin types."
+      ],
+      "text": [
+        "Originating from India and Pakistan, one of the key anti-stress herbs in Ayurveda.",
+        "Has a soothing and anti-inflammatory effect, helps fight free radicals and oxidative stress, restoring the skin’s natural health and smoothness."
+      ],
+      "text1": [
+        "A powerful Ayurvedic active ingredient rich in flavonoids that stimulate circulation and oxygenate the skin.",
+        "Helps balance sebum production and provides an astringent effect, reducing skin oiliness.",
+        "Rich in saponins and mucins, which hydrate and soften the skin, leaving it smooth and healthier."
+      ],
+      "text2": [
+        "A traditional Ayurvedic revitalizing ingredient, rich in tannins—natural astringent compounds that tighten pores and even out skin tone.",
+        "High saponin content softens the skin, while mineral salts regulate moisture balance, restoring the skin’s natural elasticity."
+      ],
+      "text3": [
+        "Contains mucins and mineral salts, providing excellent hydration and moisture-retaining effects.",
+        "A rich amino acid composition helps firm and tighten the skin, giving it a smooth and youthful feel."
+      ],
+      "text4": [
+        "An alpha-hydroxy acid (AHA) known for its natural exfoliating effect.",
+        "Gentle yet effective, removes dead skin cells and helps stimulate skin renewal.",
+        "JetCare Ayurveda Exfoliation offers a natural and balanced exfoliation that renews and refreshes the skin based on Ayurvedic traditions."
+      ]
+    },
+    { "slug":"jetCar-ayurveda-infusion",
+      "name": "JetCare Ayurveda Infusion",
+      "label": "Delivers the healing and hydrating properties of Ayurveda to both the skin’s surface and deeper layers",
+      "title": "Main Active Ingredients",
+      "subtitle": "Bacocalmine",
+      "subtitle1": "Campo Vijaya Sara",
+      "subtitle2": "Campo Jyotismati",
+      "subtitle3": "Campo Susunishak",
+      "subtitle4": "Primalhyal 3K™: Three-molecular-weight hyaluronic acid complex",
+      "description": [
+        "JetCare Ayurveda Infusion: Hydrating, Healing, Gentle. JetCare Ayurveda Infusion is the gateway to deep hydration and skin rejuvenation. This treatment solution is enriched with Primalhyal 3K™, a hyaluronic acid complex containing three different molecular weights. It delivers moisturizing and Ayurvedic healing effects to various skin layers."
+      ],
+      "text": [
+        "Originating from India and Pakistan, one of the key anti-stress herbs in Ayurveda.",
+        "Has a soothing and anti-inflammatory effect, helps fight free radicals and oxidative stress, restoring the skin’s natural health and smoothness."
+      ],
+      "text1": [
+        "A powerful Ayurvedic active ingredient rich in flavonoids that stimulate circulation and oxygenate the skin.",
+        "Helps balance sebum production and provides an astringent effect, reducing skin oiliness.",
+        "Rich in saponins and mucins, which hydrate and soften the skin, leaving it smooth and healthier."
+      ],
+      "text2": [
+        "A traditional Ayurvedic revitalizing ingredient, rich in tannins—natural astringent compounds that tighten pores and even out skin tone.",
+        "High saponin content softens the skin, while mineral salts regulate moisture balance, restoring the skin’s natural elasticity."
+      ],
+      "text3": [
+        "Contains mucins and mineral salts, providing excellent hydration and moisture-retaining effects.",
+        "A rich amino acid composition helps firm and tighten the skin, giving it a smooth and youthful feel."
+      ],
+      "text4": [
+        "Hyaluronic acid is a moisturizing and skin-repairing active ingredient that works across different skin layers.",
+        "✅ 100-300 kDa: Supports natural healing processes, strengthens the skin’s defense mechanisms, and helps maintain moisture balance in the upper skin layers.",
+        "✅ 20-50 kDa: Enhances skin function and firms the skin, increasing elasticity and resilience.",
+        "✅ 5-20 kDa: Low-molecular-weight HA penetrates deep into the skin, renewing and rejuvenating from within.",
+        "JetCare Ayurveda Infusion provides comprehensive and effective hydration while soothing, nourishing, and renewing the skin with the combination of ancient Ayurvedic wisdom and modern technology."
+      ]
+    },
+     {
+      "slug": "jetCare-ayurveda-boost-infusion",
+      "name": "JetCare Ayurveda Boost Infusion",
+      "label": "Enhances the effects of Ayurvedic treatment, minimizes pores, and restores the skin’s natural softness",
+      "title": "Main Active Ingredients",
+      "subtitle": "Bacocalmine",
+      "subtitle1": "Campo Vijaya Sara",
+      "subtitle2": "Campo Jyotismati",
+      "subtitle3": "Campo Susunishak",
+      "subtitle4": "Pore Reductyl 5% – Powerful mushroom extract for pore reduction",
+      "description": [
+        "JetCare Ayurveda Boost Infusion: Strengthen the Ayurvedic Effect. Enhance the results of JetCare Ayurveda treatment with Boost Infusion – a concentrated formula that delivers the natural healing, purifying, and balancing properties of Ayurvedic ingredients deep into the skin.",
+        "This final phase of the protocol is enriched with 5% Pore Reductyl mushroom extract, which has astringent properties, helps reduce pores, and leaves the skin smooth and silky soft."
+      ],
+      "text": [
+        "A stress-relieving herb from Indian and Pakistani traditions, well-known in Ayurvedic medicine.",
+        "Has a soothing and anti-inflammatory effect, fights free radicals and oxidative stress.",
+        "Restores the skin’s natural well-being and smooth texture."
+      ],
+      "text1": [
+        "A powerful Ayurvedic active ingredient containing flavonoids that improve circulation and oxygenate the skin.",
+        "Helps balance sebum production and provides an astringent effect that reduces pore size.",
+        "High in saponins and mucins, which hydrate and soften the skin, leaving it healthier and smoother."
+      ],
+      "text2": [
+        "A revitalizing Ayurvedic ingredient rich in tannins, natural astringent compounds that tighten pores and smooth skin texture.",
+        "A high saponin content softens the skin, while mineral salts help regulate moisture balance, restoring the skin’s natural elasticity."
+      ],
+      "text3": [
+        "Contains mucins and mineral salts that provide excellent hydration and moisture retention.",
+        "A rich amino acid composition helps firm and tighten the skin, giving it a smooth and youthful feel."
+      ],
+      "text4": [
+        "A natural mushroom extract with an astringent effect.",
+        "Helps reduce pores, smooths skin texture, and creates a more even and radiant appearance.",
+        "JetCare Ayurveda Boost Infusion is the perfect final step in the Ayurvedic treatment protocol, ensuring optimal hydration, balance, and a youthful glow."
+      ]
+    }
+  ]
+}

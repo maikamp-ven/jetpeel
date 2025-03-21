@@ -1,0 +1,77 @@
+.serum__set {
+  margin-bottom: 8rem;
+}
+
+.serum__hero-wrapper {
+  width: 100%;
+  margin-bottom: 5rem;
+}
+
+.serum__hero-wrapper img {
+  width: 100%;
+}
+
+.serum__hero-description {
+  font-size: 20px;
+  line-height: 1.5;
+  padding-bottom: 1em;
+}
+
+/* .serum__hero-description:last-child {
+  margin-bottom: 2rem;
+} */
+
+.serum__product-link .card__item {
+   text-align: center;
+}
+
+.serum__product-link {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  transition: background-color 0.3s ease-in-out, border-color 0.3s ease-in-out;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+} 
+
+.serum__product-link:hover {
+  transform: translateY(-5px);
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+
+
+/* FLEX-макет для 1-4 карточек */
+.flex-layout {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+
+.grid-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr; 
+  gap: 2rem;
+  justify-content: center; 
+  align-items: stretch;
+}
+
+
+@media (max-width: 980px) {
+  .flex-layout,
+  .grid-layout {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1em;
+  }
+
+  
+}
+
+@media (max-width: 768px) {
+  .flex-layout,
+  .grid-layout {
+    grid-template-columns: 1fr;
+    align-items: center;
+  }
+} 

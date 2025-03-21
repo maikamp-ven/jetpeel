@@ -1,0 +1,31 @@
+{
+  "slug": "jetCare-hydro",
+  "name": "JetCare™ Hydro",
+  "description": [
+    "JetCare Hydro on veepõhine valem, mis on loodud kasutamiseks enne koorimis- ja infusioonifaase JetPeel-hooldustes.",
+    "Õrn, kuid tõhus lümfimassaaž JetCare Hydro lahusega puhastab naha, valmistades selle ette aktiivsete koostisosade ja toitainete imendumiseks järgnevates hooldusetappides: koorimine, infusioon ja tugevdatud hooldus."
+  ],
+  "description1": [
+    "JetCare Hydro sisaldab: väga õrna naatriumkloriidilahust, mis puhastab ja niisutab, orgaanilist aloe verat, mis rahustab ja tasakaalustab nahka, ning kõrge kontsentratsiooniga hüaluroonhapet, mis toetab naha niiskustasakaalu ja elastsust.",
+    "Täiuslik esimene samm tõhusaks ja sügavatoimeliseks JetPeel-hoolduseks!"
+  ],
+  "products": [
+    {
+      "slug": "jetCare-hydro",
+      "name": "JetCare Hydro",
+      "title": "Peamised aktiivsed koostisosad",
+      "subtitle": "Orgaaniline Aloe Vera",
+      "subtitle1": "Hüaluroonhape",
+      "description": [
+        "Kõik JetPeel-hooldused algavad JetCare Hydro kasutamisega. See õrn, veepõhine valem on spetsiaalselt loodud lümfimassaažiks ja naha ettevalmistamiseks sügavamate JetCare-hoolduste jaoks.",
+        "Valmista oma nahk kauniteks tulemusteks. Enamik näolihaseid ei ole aktiivselt kasutusel. JetPeel-lümfimassaaž koos JetCare Hydro lahusega stimuleerib tõhusalt näolihaseid ja mikrotsirkulatsiooni, aidates kaasa nooruslikule ja tervele välimusele. JetCare Hydro sisaldab: õrna naatriumkloriidilahust, mis niisutab ja puhastab nahka, orgaanilist aloe verat, mis rahustab ja tasakaalustab nahka, ning kõrge kontsentratsiooniga hüaluroonhapet, mis aitab säilitada naha elastsust ja niiskustasakaalu. JetCare Hydro – esimene samm täiusliku JetPeel-hoolduse kogemuse poole!"
+      ],
+      "text": [
+        "Pikaajalise toimega ekstrakt, mis on tuntud oma rahustavate omaduste poolest. JetCare Hydro hoolduse võtmekoostisosa. Pakub antioksüdantset ja pehmendavat toimet, mis koheselt rahustab nahka. Omab antimikroobseid omadusi, mis toetavad naha loomulikku kaitsebarjääri."
+      ],
+      "text1": [
+        "Sisaldab madala molekulmassiga hüaluroonhapet, mis imendub tõhusamalt nahka ja parandab hooldustulemusi. Kõrge hüaluroonhappe kontsentratsioon aitab säilitada niiskust, kaitseb nahka kuivamise eest ja suurendab hoolduse efektiivsust. Toetab õrna, kuid tõhusat lümfimassaaži, edendades naha elujõulisust ja nooruslikkust."
+      ]
+    }
+  ]
+}

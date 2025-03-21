@@ -1,0 +1,115 @@
+{
+  "title": "JetPeel™ Käsikappaleet",
+  "meta": {
+    "title": "JetPeel™ Käsikappaleet",
+    "description": "JetPeel™-käsikappale tarjoaa turvallisen ja tehokkaan hydroporaatiohoidon. Katso kaikki käsikappaleet ja LED-komponentit täältä!",
+    "keywords": "JetPeel, käsikappale, LED-komponentit, hydroporaatio, kauneushoito"
+  },
+  "schema": {
+    "name": "JetPeel Käsikappaleet",
+    "description": "JetPeel™-käsikappale tarjoaa turvallisen ja tehokkaan hydroporaatiohoidon."
+  },
+  "hero": {
+    "title": "JetPeel™ - patentoitu käsikappale",
+    "text1": "<a href=\"/jetPeel\">JetPeel™</a> - hydroporaatioteknologia käyttää erityisesti suunniteltuja ja patentoituja JetPeel™-käsikappaleita, jotka on täysin sovitettu ainutlaatuiseen suihkupainemekanismiin. Käsikappaleiden suuttimien tulee kestää erittäin korkea paine ja nestesuihkun nopeus, joka voi olla jopa <b> 200 m/s </b> (720 km/h). <br/> Erityisesti suunniteltu suutin hajottaa nopeutetut nestesuihkut mikropisaroiksi, jotka imeytyvät ihoon hellävaraisesti. Suihkuvirran voima venyttää ihoa kivuttomasti, avaten mikrokanavia syvälle dermikseen. Toimenpide ei vaadi neuloja, viiltoja eikä riko ihon pintaa.",
+    "text2": "<a href=\"/jetPeel\">JetPeel™</a> - käsikappaleen suora transepiderminen kuljetusmekanismi takaa, että tulokset ovat välittömästi näkyviä ja tehokkaita jo saman päivän aikana. JetPeel™ tarjoaa erikokoisia suuttimia ja eri kokoonpanoja sisältäviä käsikappaleita, jotka sopivat monenlaisiin esteettisiin hoitoihin. <br/><a href=\"/jetPeel\">JetPeel™</a> - käsikappale on avain JetPeel-teknologian tehokkuuteen, sillä se mahdollistaa suihkuvirran tarkan ja miellyttävän kuljetuksen ihon kerroksiin. Ainoastaan alkuperäiset TavTechin JetPeel™-käsikappaleet on hyväksytty käytettäväksi JetPeel™-hoidoissa."
+  },
+  "components": [
+    {
+      "title": "SingleJet Narrow",
+      "label": "Käytetään tarkkoihin ja kohdennettuihin infuusiohoitoihin, kuten syvempiin ryppyihin ja hienoihin juonteisiin."
+    },
+    {
+      "title": "DoubleJet",
+      "label": "Suositeltu hiuspohjan ja hiusten hoitotoimenpiteisiin."
+    },
+    {
+      "title": "TripleJet",
+      "label": "Soveltuu useimpiin hoitomenetelmiin, mukaan lukien lymfahieronta, kuorinta ja infuusio kasvoille ja vartalolle."
+    }
+  ],
+  "ledComponents_card": [
+    {
+      "title": "Sininen LED-komponentti",
+      "slug": "Sininen LED-komponentti",
+      "label": "Sininen valo tunkeutuu ihon pintakerroksiin. Ihanteellinen aknen puhkeamisen vähentämiseen ja ärtyneen ihon rauhoittamiseen."
+    },
+    {
+      "title": "Vihreä LED-komponentti",
+      "slug": "Vihreä LED-komponentti",
+      "label": "Vihreä valo tunkeutuu ihon ylempiin kerroksiin, missä se kohdistuu melaniinia tuottaviin soluihin. Sopii pigmenttimuutosten, kuten maksaläiskien ja auringon aiheuttamien värimuutosten hoitoon."
+    },
+    {
+      "title": "Kelta-vihreä LED-komponentti",
+      "slug": "Kelta-vihreä LED-komponentti",
+      "label": "Kelta-vihreä valo tunkeutuu ihon keskikerroksiin. Sopii ihon punoituksen ja ärsytyksen rauhoittamiseen sekä herkän, kutiavan hiuspohjan hoitoon."
+    },
+    {
+      "title": "Meripihkanvärinen LED-komponentti",
+      "slug": "Meripihkanvärinen LED-komponentti",
+      "label": "Meripihkanvärinen valo tunkeutuu syvemmälle ihoon. Ihanteellinen tulehduksen vähentämiseen, antioksidanttiseen ja suojaavaan hoitoon sekä auringon aiheuttamien vaurioiden torjuntaan."
+    },
+    {
+      "title": "Punainen LED-komponentti",
+      "slug": "Punainen LED-komponentti",
+      "label": "Punainen valo saavuttaa syvimmän tunkeutumissyvyyden, missä se energisoituu fibroblasteihin ja kollageeniin. Auttaa vähentämään ryppyjä ja ihon kiinteyden menetystä."
+    }
+  ],
+  "jetpeelLedComponents": [
+    {
+      "title": "Sininen valo (460-470 nm)",
+      "slug": "Sininen valo (460-470 nm)",
+      "label": "Suositellaan herkälle ja akneen taipuvaiselle iholle sekä rasvaisen hiuspohjan tasapainottamiseen."
+    },
+    {
+      "title": "Vihreä valo (535-545 nm)",
+      "slug": "Vihreä valo (535-545 nm)",
+      "label": "Sopii pigmenttimuutosten, kuten maksaläiskien ja auringon aiheuttamien värimuutosten hoitoon. Auttaa myös tasapainottamaan ja kirkastamaan ihon sävyä."
+    },
+    {
+      "title": "Kelta-vihreä valo (565-575 nm)",
+      "slug": "Kelta-vihreä valo (565-575 nm)",
+      "label": "Auttaa ihon punoituksen ja ärsytyksen vähentämisessä. Sopii myös herkän ja kutiavan hiuspohjan hoitoon."
+    },
+    {
+      "title": "Meripihkanvärinen valo (585-595 nm)",
+      "slug": "Meripihkanvärinen valo (585-595 nm)",
+      "label": "Suositellaan auringonpolttaman ja ruusufinnin aiheuttaman punoituksen vähentämiseen. Rauhoittaa tulehdustiloja ja auttaa suojaamaan ihoa auringon haitallisilta vaikutuksilta."
+    },
+    {
+      "title": "Punainen valo (620-630 nm)",
+      "slug": "Punainen valo (620-630 nm)",
+      "label": "Suositellaan ikääntymisen merkkien vähentämiseen, ryppyjen silottamiseen ja ihon kiinteyden parantamiseen."
+    }
+  ],
+  "general_components": "Yleiset käsikappaleet ja komponentit",
+  "led_components": "LED-komponentit",
+  "special_handpieces": "Erikoiskäsikappaleet",
+  "specialty": {
+    "title1": "Imukäsikappale + Kärki",
+    "points1": [
+      "✔ Suunniteltu mustapäiden ja epäpuhtauksien poistamiseen ihon pinnalta.",
+      "✔ Käsikappale sopii monikäyttöön, mutta imukärki tulee vaihtaa jokaisen hoidon jälkeen.",
+      "✔ Sopii myös tyhjiöhierontaan silmänympärysalueella, edistäen mikroverenkiertoa ja ihon elinvoimaisuutta."
+    ],
+    "title2": "PrestigeJet Plus",
+    "points2": [
+      "✔ Steriili ja patentoitu kertakäyttöinen käsikappale.",
+      "✔ Sisältää Air Shield -suojan, joka estää mikropisaroiden leviämisen.",
+      "✔ Luer-lock-yhteensopiva – voidaan liittää mihin tahansa standardiruiskuun.",
+      "✔ Suunniteltu turvalliseen, tehokkaaseen ja neulattomaan ravinteiden syväinfuusioon.",
+      "✔ Kehitetty yksinomaan TavTechin JetPeel-laitteelle."
+    ]
+  },
+  "non_sterile": {
+    "title": "Ei-steriilit käsikappaleet",
+    "points": 
+      "✔ Käytettävissä enintään 10 hoitokertaa tai enintään 2 viikkoa avaamisen jälkeen, riippuen siitä, kumpi täyttyy ensin."
+  },
+  "sterile": {
+    "title": "Steriiilit käsikappaleet",
+    "points":
+      "✔ Vain kertakäyttöön."
+  },
+  "jet_led_components": "JetPeel-käsikappaleen LED-komponentit samanaikaisiin Jet-LED-hoitoihin"
+}

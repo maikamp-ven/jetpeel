@@ -1,0 +1,137 @@
+{
+  "slug": "green",
+  "name": "JetCare™ Green",
+  "description": [
+    "JetCare Green products are made exclusively from natural, organic, and eco-certified ingredients. Packaging is based on recycled or recyclable materials. JetCare Green delivers the same visibly beautiful JetPeel results while minimizing its ecological footprint."
+  ],
+  "description1": [
+    "JetCare Green – Skin- and eco-friendly care products. The JetCare Green range includes four environmentally friendly treatment solutions designed for the key stages of the JetPeel treatment protocol: lymphatic massage, exfoliation, and infusion. JetCare Green – beauty with respect for the environment!"
+  ],
+  "products": [
+    { "slug": "jetCare-green-hydro",
+      "name": "JetCare Green Hydro",
+      "title": "Main Active Ingredients",
+      "subtitle": "Allantoin",
+      "subtitle1": "Propanediol",
+      "subtitle2": "Organic Aloe Vera",
+      "subtitle3": "Cosphagard® Elbe",
+      "description": [
+        "JetCare Green Hydro – A natural start to JetPeel treatment. The JetPeel treatment begins with a relaxing lymphatic massage that stimulates microcirculation and helps cleanse the skin of toxins.",
+        "JetCare Green Hydro is formulated with natural and eco-certified ingredients, providing a gentle yet effective cleanse that prepares the skin for JetPeel exfoliation and infusion."
+      ],
+      "text": [
+        "An active ingredient derived from comfrey root that moisturizes, exfoliates, and smooths the skin.",
+        "Helps restore the skin’s natural glow and improve its texture."
+      ],
+      "text1": [
+        "A sustainably produced moisturizer derived from corn sugar that helps soothe and hydrate the skin.",
+        "The world's first 100% bio-based glycol alternative, certified by the Natural Products Association (NPA)."
+      ],
+      "text2": [
+        "A powerful antioxidant emollient that quickly softens and soothes the skin.",
+        "Its antimicrobial properties help protect the skin from impurities.",
+        "A key ingredient in the initial phase of the JetCare Green treatment, preparing the skin for subsequent treatment steps."
+      ],
+      "text3": [
+        "A naturally derived antimicrobial blend containing sodium levulinate and sodium benzoate.",
+        "Maintains microbiological balance and protects against bacteria, yeast, and mold.",
+        "Replaces synthetic preservatives such as parabens, MIT, and triclosan, making the product more skin- and environmentally friendly."
+      ]
+    },
+    { "slug": "jetCare-green-exfoliation", 
+      "name": "JetCare Green Exfoliation",
+      "title": "Main Active Ingredients",
+      "subtitle": "ACB Fruit Mix",
+      "subtitle1": "Niacinamide (Vitamin B3)",
+      "subtitle2": "Enhanced AHA and BHA Acids",
+      "subtitle3": "Campo Plantservative",
+      "description": [
+        "JetCare Green Exfoliation – A natural and effective exfoliation. A gentle yet thorough exfoliation that removes dead skin cells, renews the skin’s surface, and prepares the skin for JetPeel infusion.",
+        "JetCare Green Exfoliation harnesses the powerful effects of natural AHA and BHA acids. It has an ideal pH level (3.5), ensuring effective exfoliation without stinging, irritation, or skin damage."
+      ],
+      "text": [
+        "A vegan, GMO-free blend of five plant-based exfoliating agents naturally rich in AHA acids.",
+        "Stimulates collagen production and supports skin renewal, leaving it smooth and radiant."
+      ],
+      "text1": [
+        "A powerful antioxidant that protects the skin from free radical damage.",
+        "Helps strengthen skin proteins, improving skin elasticity.",
+        "Soothes redness and inflammation while locking in moisture and preventing signs of aging."
+      ],
+      "text2": [
+        "Lactic acid and glycolic acid (AHA acids) – promote skin brightening and renewal.",
+        "Salicylic acid (BHA) – provides deep cleansing and pore-tightening effects."
+      ],
+      "text3": [
+        "A 100% plant-based preservative extracted from two varieties of Japanese honeysuckle flowers.",
+        "Offers antimicrobial and antibacterial protection, helping to maintain the product’s natural and skin-friendly composition."
+      ]
+    },
+    { "slug": "jetCare-green-glow",
+      "name": "JetCare Green Glow",
+      "title": "Main Active Ingredients",
+      "subtitle": "Tego® Turmerone",
+      "subtitle1": "Primalhyal 3K™",
+      "subtitle2": "Niacinamide (Vitamin B3)",
+      "subtitle3": "Campo Plantservative",
+      "description": [
+        "JetCare Green Glow – A natural brightening infusion. During the infusion phase of the JetPeel treatment, the JetPeel device delivers nutrients directly into the skin.",
+        "The JetCare Green Glow formula contains naturally derived active ingredients designed to soothe signs of aging and enhance the skin’s natural radiance."
+      ],
+      "text": [
+        "A natural turmeric extract purified from organically grown *Curcuma longa*.",
+        "A powerful antioxidant that protects the skin from oxidative stress.",
+        "Smooths fine lines, evens out skin tone, and enhances the skin’s natural glow."
+      ],
+      "text1": [
+        "A three-molecular-weight hyaluronic acid complex that provides anti-aging benefits at different skin levels:",
+        "-- 100-300 kDa – Supports the skin’s natural healing process and defense mechanisms in the upper layers.",
+        "-- 20-50 kDa – The ideal molecular weight for improving skin function and increasing firmness.",
+        "-- 5-20 kDa – A deep-penetrating HA component that rejuvenates the skin from within."
+      ],
+      "text2": [
+        "A vitamin rich in antioxidants that fights free radicals and supports the formation of skin proteins.",
+        "Soothes redness and inflammation while retaining moisture, helping to protect the skin from damage and signs of aging."
+      ],
+      "text3": [
+        "A 100% plant-based preservative extracted from two varieties of Japanese honeysuckle flowers.",
+        "Provides antimicrobial and antibacterial protection, helping to maintain the product’s natural and skin-friendly composition."
+      ]
+    },
+    { "slug": "jetCare-green-peptide-complex",
+      "name": "JetCare Green Peptide Complex",
+      "title": "Main Active Ingredients",
+      "subtitle": "Argireline® Amplified Peptide Solution",
+      "subtitle1": "Primalhyal 3K™",
+      "subtitle2": "Niacinamide (Vitamin B3)",
+      "subtitle3": "Natura-tec Plantsil™",
+      "subtitle4": "Campo Plantservative",
+      "description": [
+        "JetCare Green Peptide Complex – A Natural Peptide Infusion. The JetCare Green Peptide Complex infusion is based on a unique, eco-friendly formula that smooths fine lines and relaxes facial muscles, creating a youthful appearance.",
+        "Peptide Complex delivers advanced JetPeel anti-aging benefits while integrating them into a sustainable and environmentally conscious JetCare Green approach."
+      ],
+      "text": [
+        "A next-generation multifunctional peptide developed according to 'green chemistry' principles.",
+        "Slows down the skin’s natural aging process and relaxes facial muscles, helping to smooth wrinkles and even out the skin."
+      ],
+      "text1": [
+        "A three-molecular-weight hyaluronic acid complex that provides anti-aging effects at different skin layers:",
+        "-- 100-300 kDa – Supports the skin’s natural healing process and strengthens its defense mechanisms.",
+        "-- 20-50 kDa – Enhances skin functionality and firmness, giving a tighter appearance.",
+        "-- 5-20 kDa – Penetrates deeper into the skin, promoting renewal from within."
+      ],
+      "text2": [
+        "A vitamin rich in antioxidants that fights free radicals and supports skin protein synthesis.",
+        "Soothes redness and inflammation while retaining moisture, protecting the skin from environmental damage and aging."
+      ],
+      "text3": [
+        "A hydrogenated ester derived from olives that provides a silky and soft feel on the skin.",
+        "Leaves a pleasant, long-lasting satin-like finish."
+      ],
+      "text4": [
+        "A 100% plant-based preservative extracted from two varieties of Japanese honeysuckle flowers.",
+        "Provides antimicrobial and antibacterial protection, helping to maintain the product’s natural and skin-friendly composition."
+      ]
+    }
+  ]
+}

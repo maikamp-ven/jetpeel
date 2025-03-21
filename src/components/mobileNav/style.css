@@ -1,0 +1,47 @@
+.mobile__nav {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: var(--dark-bg);
+  z-index: 1000;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.mobile__nav.open {
+  display: flex;
+  opacity: 1;
+}
+
+.mobile__nav-links {
+  list-style: none;
+  text-align: center;
+}
+
+.mobile__nav-links li {
+  margin: 1.5rem 0;
+}
+
+.mobile__nav-links a {
+  color: var(--header-text);
+  font-size: 1.5rem;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.close-btn {
+  position: absolute;
+  top: 1.5rem;
+  right: 1.5rem;
+  font-size: 2rem;
+  color: var(--accent);
+  background: none;
+  border: none;
+  cursor: pointer;
+}

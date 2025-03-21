@@ -1,0 +1,40 @@
+{
+  "title": "JetCare™ - Active Serums",
+  "meta": {
+    "description": "Discover JetCare™ active serums, specially designed for JetPeel™ hydroporation technology. High-quality skincare products with optimal results.",
+    "keywords": "JetPeel, JetCare, active serums, skincare, beauty"
+  },
+  "banner_alt": "JetCare - Active Serums",
+  "header": {
+    "title": "JetCare™ - Active Serums",
+    "subtitle": "Original JetCare™ active serums are developed to achieve optimal results with JetPeel™ hydroporation."
+  },
+  "hero": {
+    "description": "Original <a href='/jetPeel'>JetPeel™</a> active serums by TavTech.<br/> Specially formulated for JetPeel™ hydroporation technology, JetCare™ serums are perfectly matched to the unique delivery mechanism of the handpieces.<br/><br/>JetCare™ serums are tailored with precise viscosity to withstand high pressure and speeds up to 720 km/h without losing their molecular integrity or effectiveness.<br/><br/>Only the combination of patented <a href='/handpieces'>JetPeel™ handpieces</a> and JetCare™ active ingredients enables deep hydroporation and consistently optimal treatment results.<br/><br/>Results are immediately visible and noticeable, and the effects of the serums are long-lasting.<br/><br/>For the best results, a series of treatments is recommended, and to maintain the results, periodic treatments should be repeated as needed.",
+    "image_alt": "JetCare - all products"
+  },
+  "contact_button": "Contact us",
+  "indications": {
+    "title": "Indications:",
+    "image_alt": "Indications",
+    "list": [
+      "✔ Aging, regenerating skin, wrinkles, loss of skin elasticity",
+      "✔ Inflammations, irritation, sensitivity",
+      "✔ Impurities such as acne and blackheads",
+      "✔ pH balance regulation",
+      "✔ Pore minimization",
+      "✔ Dark pigmentation, post-inflammatory hyperpigmentation",
+      "✔ Under-eye puffiness, eye lift, lip volume enhancement",
+      "✔ Dilated blood vessels, couperose"
+    ]
+  },
+  "sequence": {
+    "title": "Best anti-aging solutions with JetPeel",
+    "subtitle": "JetPeel by TavTech – a complete combination of the JetPro device series, original patented JetPeel handpieces, and new JetCare solutions.",
+    "image_alt": "Treatment sequence"
+  },
+  "serums_section": {
+    "title": "Perfect solutions for anti-aging treatments with JetPeel",
+    "subtitle": "JetPeel by TavTech – the ultimate combination of the JetPro device series, original patented JetPeel handpieces, and new JetCare solutions."
+  }
+}

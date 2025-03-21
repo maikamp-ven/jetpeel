@@ -1,0 +1,117 @@
+{
+  "title": "JetPeel™ Handpieces",
+  "meta": {
+    "title": "JetPeel™ Handpieces",
+    "description": "JetPeel™ handpiece provides a safe and effective hydroporation treatment. See all handpieces and LED components here!",
+    "keywords": "JetPeel, handpiece, LED components, hydroporation, beauty treatment"
+  },
+  "schema": {
+    "name": "JetPeel Handpieces",
+    "description": "JetPeel™ handpiece provides a safe and effective hydroporation treatment."
+  },
+  "hero": {
+    "title": "JetPeel™ - Patented Handpiece",
+    "text1": "The  <a href=\"/jetPeel\">JetPeel™</a> - hydroporation technology uses specially designed and patented JetPeel™ handpieces, which are fully adapted to the unique jet pressure mechanism. The nozzles of the handpieces must withstand extremely high pressure and liquid jet speed, which can reach up to <b>200 m/s</b> (720 km/h).<br/> A specially designed nozzle disperses the accelerated liquid jets into micro-droplets, which are gently absorbed into the skin. The power of the jet stream stretches the skin painlessly, opening microchannels deep into the dermis. The procedure does not require needles, incisions, or break the skin's surface.",
+    "text2": "The <a href=\"/jetPeel\">JetPeel™</a> - handpiece's direct transepidermal delivery mechanism ensures that the results are immediately visible and effective on the same day. JetPeel™ offers handpieces with different nozzle sizes and configurations, making them suitable for a variety of aesthetic treatments.<br/><a href=\"/jetPeel\">JetPeel™ </a> The handpiece is the key to JetPeel technology's effectiveness, as it enables precise and comfortable jet stream delivery into the skin layers. Only original TavTech JetPeel™ handpieces are approved for use in JetPeel™ treatments."
+  },
+  "components": [
+    {
+      "title": "SingleJet Narrow",
+      "label": "Used for precise and targeted infusion treatments, such as deeper wrinkles and fine lines."
+    },
+    {
+      "title": "DoubleJet",
+      "label": "Recommended for scalp and hair care treatments."
+    },
+    {
+      "title": "TripleJet",
+      "label": "Suitable for most treatment methods, including lymphatic massage, exfoliation, and infusion for face and body."
+    }
+  ],
+  "ledComponents_card": [
+    {
+      "title": "Blue LED Component",
+      "slug": "Sininen LED-komponentti",
+      "label": "Blue light penetrates the upper layers of the skin. Ideal for reducing acne breakouts and soothing irritated skin."
+    },
+    {
+      "title": "Green LED Component",
+      "slug": "Vihreä LED-komponentti",
+      "label": "Green light penetrates the upper layers of the skin, targeting melanin-producing cells. Suitable for treating pigmentation issues such as age spots and sun-induced discoloration."
+    },
+    {
+      "title": "Yellow-Green LED Component",
+      "slug": "Kelta-vihreä LED-komponentti",
+      "label": "Yellow-green light penetrates the middle layers of the skin. Helps reduce skin redness and irritation, as well as soothe a sensitive, itchy scalp."
+    },
+    {
+      "title": "Amber LED Component",
+      "slug": "Meripihkanvärinen LED-komponentti",
+      "label": "Amber light penetrates deeper into the skin. Ideal for reducing inflammation, providing antioxidant protection, and preventing sun-induced skin damage."
+    },
+    {
+      "title": "Red LED Component",
+      "slug": "Punainen LED-komponentti",
+      "label": "Red light reaches the deepest penetration level, where it energizes fibroblasts and collagen. Helps reduce wrinkles and loss of skin firmness."
+    }
+  ],
+  "jetpeelLedComponents": [
+    {
+      "title": "Blue light (460-470 nm)",
+      "slug": "Sininen valo (460-470 nm)",
+      "label": "Recommended for sensitive and acne-prone skin, as well as for balancing an oily scalp."
+    },
+    {
+      "title": "Green light (535-545 nm)",
+      "slug": "Vihreä valo (535-545 nm)",
+      "label": "Suitable for treating pigmentation issues, such as age spots and sun-induced discoloration. Also helps to balance and brighten skin tone."
+    },
+    {
+      "title": "Yellow-green light (565-575 nm)",
+      "slug": "Kelta-vihreä valo (565-575 nm)",
+      "label": "Helps reduce skin redness and irritation. Also suitable for treating sensitive and itchy scalp."
+    },
+    {
+      "title": "Amber light (585-595 nm)",
+      "slug": "Meripihkanvärinen valo (585-595 nm)",
+      "label": "Recommended for reducing redness caused by sunburn and rosacea. Soothes inflammation and helps protect the skin from harmful sun effects."
+    },
+    {
+      "title": "Red light (620-630 nm)",
+      "slug": "Punainen valo (620-630 nm)",
+      "label": "Recommended for reducing signs of aging, smoothing wrinkles, and improving skin firmness."
+    }
+  ],
+  "general_components": "General Handpieces and Components",
+  "led_components": "LED Components",
+  "special_handpieces": "Special Handpieces",
+  "specialty": {
+    "title1": "Suction Handpiece + Tip",
+    "points1": [
+      "✔ Designed for removing blackheads and impurities from the skin surface.",
+      "✔ The handpiece is reusable, but the suction tip must be replaced after each treatment.",
+      "✔ Also suitable for vacuum massage around the eye area, promoting microcirculation and skin vitality."
+    ],
+    "title2": "PrestigeJet Plus",
+    "points2": [
+      "✔ Sterile and patented single-use handpiece.",
+      "✔ Includes an Air Shield protection that prevents the spread of microdroplets.",
+      "✔ Luer-lock compatible – can be connected to any standard syringe.",
+      "✔ Designed for safe, effective, and needle-free deep nutrient infusion.",
+      "✔ Developed exclusively for TavTech's JetPeel device."
+    ]
+  },
+  "non_sterile": {
+    "title": "Non-sterile Handpieces",
+    "points": [
+      "✔ Can be used for up to 10 treatments or up to 2 weeks after opening, whichever comes first."
+    ]
+  },
+  "sterile": {
+    "title": "Sterile Handpieces",
+    "points": [
+      "✔ For single use only."
+    ]
+  },
+  "jet_led_components": "JetPeel Handpiece LED Components for Simultaneous Jet-LED Treatments"
+}

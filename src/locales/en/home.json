@@ -1,0 +1,128 @@
+{
+  "nav": {
+    "language": "Language",
+    "technology": "Technology",
+    "devices": "Devices",
+    "handpieces": "Handpieces",
+    "treatments": "Serums",
+    "contact": "Contact"
+  },
+  "mobileNav": {
+    "technology": "Technology",
+    "devices": "Devices",
+    "handpieces": "Handpieces",
+    "serums": "JetCare",
+    "contacts": "Contacts"
+  },
+  "helmet": {
+    "title": "JetPeel – Skin Care That Understands Your Skin!",
+    "description": "JetPeel by TavTech revolutionizes skincare with its spray pressure solution, inspired by aviation technology.",
+    "keywords": "JetPeel, skincare, aesthetic treatment, beauty, skincare, TavTech"
+  },
+  "header": {
+    "title": "JetPeel – Skin Care That Understands Your Skin!",
+    "subtitle": "Be the best version of yourself",
+    "text1": "Welcome to the world of JetPeel! JetPeel™ by TavTech revolutionizes skincare with its patented spray pressure solution, inspired by aviation technology. This non-invasive, needle-free treatment uses rapid micro-droplets to cleanse, exfoliate, and deliver nutrients to the skin, offering immediate and painless results.",
+    "text2": "JetPeel devices include specialized handpieces and a unique JetCare skincare range developed for optimal treatment efficacy and compatibility.",
+    "contact": "Contact Us"
+  },
+  "video": {
+    "title": "Behind the Technology of JetPeel",
+    "fallback": "Your browser does not support the video."
+  },
+  "technology": {
+    "title": "Spray Technology - See the Results",
+    "text": {
+      "text1": "The aesthetic treatment technology based on spray pressure energy, developed exclusively for TavTech, is a global breakthrough in transdermal delivery of active ingredients. This technology offers an innovative solution for common skin problems and aesthetic treatment needs.",
+      "text2": "Inspired by aviation technology, JetPeel takes non-invasive yet effective skincare methods to a new level – combining top-level clinical results with maximum customer comfort.",
+      "text3": "<0>JetPeel™ - device</0> produces pressurized air that is accelerated and transformed into a finely atomized spray. These micro-sprays, with speeds exceeding 200 m/s, are directed onto the skin using a patented JetPeel handpiece. This wand-like instrument is available in various sizes and tailored versions for different treatments. During the treatment, the handpiece’s finely atomized liquid streams provide a gentle lymphatic massage, followed by exfoliation and a slight stretching of the skin’s surface layer, enabling the active ingredients to penetrate deeper skin layers.",
+      "text4": "This wand-like instrument is available in various sizes and tailored versions for different treatments. During the treatment, the handpiece’s finely atomized liquid streams provide a gentle lymphatic massage, followed by exfoliation and a slight stretching of the skin’s surface layer, enabling the active ingredients to penetrate deeper skin layers.",
+      "text5": "Without needles, pain, or skin damage, JetPeel creates microscopic channels through which treatment agents can act in the deeper layers of the skin. Combined with specialized JetCare products developed for various skin issues, JetPeel treatment offers nourishing micro-droplets that penetrate beneath the skin – delivering visible results and long-lasting effects."
+    },
+    "buttons": {
+      "contact": "Contact Us",
+      "readMore": "Read More"
+    },
+    "gifs": {
+      "gif1Alt": "JetPeel infusion",
+      "gif2Alt": "JetPeel exfoliation"
+    }
+  },
+  "steps": [
+  {
+    "number": "1",
+    "title_card": "IMMUNE-STIMULATING MASSAGE",
+    "capacity_1": "A relaxing and pleasant massage that promotes the skin's natural cleansing process and activates microcirculation, supporting skin renewal."
+  },
+
+  {
+    "number": "2",
+    "title_card": "GENTLE EXFOLIATION",
+    "capacity_1": "An effective yet gentle exfoliation removes dead skin cells, preparing the skin to absorb active ingredients from the treatment."
+  },
+
+  {
+    "number": "3",
+    "title_card": "DEEP INFUSION",
+    "capacity_1": "Innovative infusion technology ensures deep absorption of active ingredients, nourishing and hydrating the skin optimally."
+  },
+
+  {
+    "number": "4",
+    "title_card": "ENHANCED BOOSTER INFUSION",
+    "capacity_1": "The final step that maximizes treatment results and prolongs its effect on the skin."
+  }
+],
+  "advantages": {
+    "title": "JetPeel - Beauty Without Discomfort",
+    "subtitle": "Clinically proven treatment for a wide range of cosmetic and dermatological issues:",
+    "list": [
+      "Needle-free, painless, non-invasive procedures",
+      "Fast transdermal absorption and immediate results",
+      "No scars, no downtime",
+      "No patient downtime",
+      "Comfortable and relaxing treatment experience"
+    ]
+  },
+  "footer": {
+    "description": "Importer of professional cosmetics, wholesale store and online shop in Katajanokka, Helsinki.",
+    "contact_title": "Contact Information",
+    "phone": "Phone Number",
+    "company_id": "Company ID",
+    "address": "Address",
+    "social_media": "Social Media",
+    "privacy_policy": "Privacy Policy"
+  },
+  "contact_form": {
+    "title": "Contact Form",
+    "subtitle": "We will contact you as soon as possible.",
+    "name": "Name",
+    "name_placeholder": "First Last Name",
+    "phone": "Phone Number",
+    "phone_placeholder": "+358 12 345 6789",
+    "email": "Email Address",
+    "email_placeholder": "example@email.com",
+    "topic": "What is your inquiry about?",
+    "product_info": "More information about the product",
+    "price_info": "Request a price",
+    "other": "Other inquiry",
+    "help_text": "Tell us how we can help you?",
+    "submit": "Send",
+    "recaptcha_error": "Please verify the reCAPTCHA.",
+    "sending": "Sending...",
+    "error": "Error in submission. Please try again.",
+    "server_error": "Server error. Please try again later.",
+    "subject": "Contact request from website"
+  },
+  "thankYou": {
+    "title": "Thank you!",
+    "message": "Your message has been received. We will contact you soon.",
+    "backToHome": "Back to homepage"
+  },
+  "notFound": {
+    "title": "404 - Page Not Found | JetPeel",
+    "heading": "404 - Page Not Found",
+    "message": "Unfortunately, the page you are looking for could not be found. You can return to the homepage or explore our other services.",
+    "backToHome": "Return to homepage"
+  }
+}

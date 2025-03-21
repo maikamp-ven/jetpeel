@@ -1,0 +1,31 @@
+{
+  "slug": "jetCare-hydro",
+  "name": "JetCare™ Hydro",
+  "description": [
+    "JetCare Hydro is a water-based formula designed for use before exfoliation and infusion phases in JetPeel treatments.",
+    "A gentle yet effective lymphatic massage with JetCare Hydro solution cleanses the skin, preparing it to receive active ingredients and nutrients in the following treatment stages: exfoliation, infusion, and boosting therapy."
+  ],
+  "description1": [
+    "JetCare Hydro contains: an ultra-mild sodium chloride solution that cleanses and hydrates, organic aloe vera that soothes and balances the skin, and a high concentration of hyaluronic acid that supports skin moisture balance and elasticity.",
+    "The perfect first step for an effective and deep-acting JetPeel treatment!"
+  ],
+  "products": [
+    {
+      "slug": "jetCare-hydro",
+      "name": "JetCare Hydro",
+      "title": "Main Active Ingredients",
+      "subtitle": "Organic Aloe Vera",
+      "subtitle1": "Hyaluronic Acid",
+      "description": [
+        "All JetPeel treatments begin with JetCare Hydro. This gentle, water-based formula is specifically designed for lymphatic massage and to prepare the skin for deeper JetCare treatments.",
+        "Prepare your skin for beautiful results. Most facial muscles are not actively engaged. JetPeel lymphatic massage combined with JetCare Hydro solution effectively stimulates facial muscles and microcirculation, promoting a youthful and healthy appearance. JetCare Hydro contains: a mild sodium chloride solution that hydrates and cleanses the skin, organic aloe vera that soothes and balances the skin, and a high concentration of hyaluronic acid that helps maintain skin elasticity and moisture balance. JetCare Hydro – The first step towards a perfect JetPeel treatment experience!"
+      ],
+      "text": [
+        "A long-lasting extract known for its soothing properties. A key ingredient in JetCare Hydro treatment. Provides an antioxidant and softening effect that instantly calms the skin. Offers antimicrobial benefits that support the skin’s natural protective barrier."
+      ],
+      "text1": [
+        "Contains low-molecular-weight HA, which absorbs more effectively into the skin and enhances treatment results. The high concentration of hyaluronic acid helps retain moisture, protects the skin from dehydration, and boosts treatment effectiveness. Supports a gentle yet effective lymphatic massage, promoting skin vitality and youthfulness."
+      ]
+    }
+  ]
+}

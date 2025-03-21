@@ -1,0 +1,108 @@
+{
+  "slug": "renewal-care",
+  "name": "JetCare™ Renewal Care",
+  "description": [
+    "The Renewal Care series is JetCare™'s specialized range of exfoliation solutions designed to renew and brighten the skin.",
+    "Enriched with AHA and BHA acids – a natural exfoliation power that is gentle yet highly effective. Choose the exfoliation level that suits you best: 5% glycolic acid – gentle exfoliation for sensitive and normal skin, 10% glycolic acid – medium exfoliation that evens out skin tone and texture, 16% glycolic acid – intensive exfoliation that activates cellular renewal."
+  ],
+  "description1": [
+    "All Renewal Care solutions are formulated at a pH level of 3.5, ensuring an effective exfoliation experience without a burning or damaging effect. Enjoy skin-balancing exfoliation, benefit from JetPeel™ technology’s AHA and BHA acids, and complete your treatment with the JetCare™ Anti-Aging Solution.",
+    "Experience the difference with JetCare™ Anti-Aging Solution and achieve a youthful, radiant complexion!"
+  ],
+  "products": [
+    {
+      "slug": "Glycolic-acid-gentle-exfoliation-5%",
+      "name": "5% Glycolic Acid - Gentle Exfoliation",
+      "title": "Main Active Ingredients",
+      "subtitle": "Glycolic Acid",
+      "subtitle1": "Organic Aloe Vera",
+      "subtitle2": "Pro-Vitamin B5 – Panthenol",
+      "description": [
+        "5% Glycolic Acid – Gentle exfoliation for sensitive and normal skin. After lymphatic massage, exfoliation is the second step of the JetPeel treatment. It removes impurities from the skin and prepares it for the next phase – a nourishing infusion.",
+        "The skin’s natural pH is 4.7, which is essential for maintaining its protective barrier and resistance to harmful environmental factors. The skin also has a natural acid mantle that helps balance the skin’s microbiome. Its optimal pH level prevents the growth of harmful bacteria while supporting the function of beneficial bacteria.",
+        "The most effective exfoliation products work within a pH range of 3.2–3.9. The Renewal Care series exfoliation is adjusted to a pH level of 3.5, ensuring an ideal balance – strong enough for effective exfoliation without causing burning or irritation."
+      ],
+      "text": [
+        "Glycolic acid is an alpha hydroxy acid (AHA) that acts as an effective exfoliant by removing dead skin cells and renewing the skin’s surface layer. It can help smooth fine lines and give the skin a more youthful appearance.",
+        "The Renewal Care series offers three different glycolic acid concentrations: 5%, 10%, and 16%. Each concentration is designed to suit different skin types and conditions, allowing for a personalized treatment."
+      ],
+      "text1": [
+        "This long-lasting plant extract, known for its soothing properties, is one of the key ingredients in the Renewal Care glycolic acid series. Aloe Vera acts as a natural antioxidant and moisturizing agent, instantly softening and calming the skin while offering antimicrobial benefits."
+      ],
+      "text2": [
+        "D-Panthenol effectively nourishes and hydrates the skin by locking in moisture, strengthening the skin’s protective barrier, and promoting cellular renewal. Its effects help maintain skin elasticity and a youthful appearance."
+      ]
+    },
+    {
+      "slug": "glycolic-acid-medium-exfoliation-10%",
+      "name": "10% Glycolic Acid - Medium Exfoliation",
+      "title": "Main Active Ingredients",
+      "subtitle": "Glycolic Acid",
+      "subtitle1": "Organic Aloe Vera",
+      "subtitle2": "Pro-Vitamin B5 – Panthenol",
+      "description": [
+        "10% Glycolic Acid – Medium exfoliation for normal and oily skin. After lymphatic massage, exfoliation is the second step of the JetPeel treatment. It removes dead skin cells and impurities, preparing the skin for the next phase – a nourishing infusion.",
+        "The importance of the skin’s natural pH balance. The skin’s natural pH level is 4.7, which plays a crucial role in maintaining the skin’s protective barrier and defending against harmful environmental factors. The skin has a natural acid mantle that supports its microbiome, preventing the growth of harmful bacteria while promoting the function of beneficial bacteria.",
+        "Effective and safe exfoliation. Studies show that the most effective exfoliation products work within a pH range of 3.2–3.9. The Renewal Care series exfoliation is adjusted to a pH level of 3.5, ensuring the optimal balance – effective exfoliation without causing skin irritation or damage."
+      ],
+      "text": [
+        "Glycolic acid is an alpha hydroxy acid (AHA) that effectively exfoliates the skin, removes dead skin cells, and renews the surface layer. It has been shown to smooth fine lines and give the skin a youthful appearance.",
+        "The Renewal Care series offers three different glycolic acid concentrations: 5%, 10%, and 16%. Each concentration is designed for different skin types and needs, allowing for a personalized treatment."
+      ],
+      "text1": [
+        "This long-lasting plant extract is known for its soothing properties and is one of the key ingredients in the Renewal Care glycolic acid series. Aloe Vera acts as an antioxidant and softening agent that instantly calms the skin while providing antimicrobial benefits."
+      ],
+      "text2": [
+        "D-Panthenol nourishes the skin and helps maintain its moisture balance. It locks moisture into the skin, strengthens the protective barrier, and promotes cellular renewal, helping to prevent signs of aging."
+      ]
+    },
+    {
+      "slug": "glycolic-acid-powerful-exfoliation-16%",
+      "name": "16% Glycolic Acid - Powerful Exfoliation",
+      "title": "Main Active Ingredients",
+      "subtitle": "Glycolic Acid",
+      "subtitle1": "Organic Aloe Vera",
+      "subtitle2": "Pro-Vitamin B5 – Panthenol",
+      "description": [
+        "16% Glycolic Acid – Intensive exfoliation for aging skin. After lymphatic massage, exfoliation is the second step of the JetPeel treatment. It removes dead skin cells and impurities, preparing the skin for the next phase – a nourishing infusion.",
+        "The importance of the skin’s natural pH balance. The skin’s natural pH level is 4.7, which plays a crucial role in maintaining the skin’s protective barrier and defending against harmful environmental factors. The skin has a natural acid mantle that helps maintain microbiome balance, preventing the growth of harmful bacteria while promoting the function of beneficial bacteria.",
+        "Effective and safe exfoliation. Studies show that the most effective exfoliation products work within a pH range of 3.2–3.9. The Renewal Care series exfoliation is adjusted to a pH level of 3.5, ensuring the optimal balance – effective exfoliation without causing irritation or damage to the skin."
+      ],
+      "text": [
+        "Glycolic acid is an alpha hydroxy acid (AHA) that acts as an effective exfoliant by removing dead skin cells and renewing the skin’s surface layer. It can also help smooth fine lines and give the skin a more youthful appearance.",
+        "The Renewal Care series offers three different glycolic acid concentrations: 5%, 10%, and 16%. Each concentration is designed for different skin types and needs, allowing for a personalized treatment."
+      ],
+      "text1": [
+        "This long-lasting plant extract is known for its soothing properties and is one of the key ingredients in the Renewal Care glycolic acid series. Aloe Vera acts as an antioxidant and softening agent that instantly calms the skin while providing antimicrobial benefits."
+      ],
+      "text2": [
+        "D-Panthenol nourishes the skin and helps maintain its moisture balance. It locks moisture into the skin, strengthens the protective barrier, and promotes cellular renewal, helping to prevent signs of aging."
+      ]
+    },
+    {
+      "slug": "mandelic-salicylic",
+      "name": "Mandelic & Salicylic",
+      "title": "Main Active Ingredients",
+      "subtitle": "Mandelic Acid (4%)",
+      "subtitle1": "Salicylic Acid (2%)",
+      "subtitle2": "Fruit Extract AHA",
+      "subtitle3": "Other AHA Acids",
+      "description": [
+        "Mandelic & Salicylic – The gentlest exfoliation experience. This uniquely mild exfoliation solution combines AHA and BHA acids at optimal concentrations, providing maximum benefits to the skin. The result is radiant, brighter, and more revitalized skin.",
+        "A perfect combination of AHA and BHA acids. A carefully selected blend of AHA and BHA acids effectively exfoliates and renews the skin by removing impurities and excess sebum, restoring a clean and smooth appearance. The Renewal Care Mandelic & Salicylic complex is specially designed for sensitive and reactive skin."
+      ],
+      "text": [
+        "Mandelic acid is an AHA derived from bitter almonds, offering gentle yet effective exfoliation. It deeply cleanses pores, making the skin appear clearer and more even. Mandelic acid is also known for its anti-aging effects, helping to create a youthful, smooth, and balanced complexion."
+      ],
+      "text1": [
+        "Salicylic acid (BHA) is an ideal exfoliating agent, particularly for oily and blemish-prone skin. Its purifying action removes excess sebum and dead skin cells, softening pores and leaving the skin feeling refreshed. Additionally, salicylic acid has a soothing effect, helping to reduce skin irritation even during the exfoliation process."
+      ],
+      "text2": [
+        "A powerful natural AHA blend that exfoliates the skin and improves its texture, making it feel softer and smoother. This compound also enhances the absorption of active ingredients in subsequent JetCare treatments."
+      ],
+      "text3": [
+        "The formula is also enriched with several other key exfoliating AHA acids, including: malic acid (1%), glycolic acid (0.7%), and lactic acid (0.7%). This perfectly balanced acid combination ensures effective yet skin-friendly exfoliation, suitable even for sensitive skin."
+      ]
+    }
+  ]
+}

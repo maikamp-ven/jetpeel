@@ -1,0 +1,89 @@
+.breadcrumb {
+  position: fixed;
+  top: 6.5rem;
+  left: 0;
+  width: 100%;
+  z-index: 99; 
+}
+
+.breadcrumb a {
+  text-decoration: none;
+  outline: none;
+  display: block;
+  float: left;
+  font-size: 14px;
+  line-height: 36px;
+  color: white;
+  padding: 0 10px 0 50px;
+  background: linear-gradient(#e99d9d, #f19991);
+  position: relative;
+}
+
+.breadcrumb a:first-child {
+  padding-left: 30px;
+  border-radius: 5px 0 0 5px;
+}
+
+.breadcrumb a:first-child:before {
+  left: 12px;
+}
+
+.breadcrumb a:last-child {
+  border-radius: 0 5px 5px 0;
+  padding-right: 20px;
+}
+
+.breadcrumb a.active,
+.breadcrumb a:hover {
+  background: linear-gradient(#cfa3a3, #ef948c);
+}
+
+.breadcrumb a.active:after,
+.breadcrumb a:hover:after {
+  background: linear-gradient(135deg, #cfa3a3, #ef948c);
+}
+
+.breadcrumb a:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: -18px;
+  width: 36px;
+  height: 36px;
+  transform: scale(0.707) rotate(45deg);
+  z-index: 1;
+  background: linear-gradient(135deg, #cfa3a3, #ef948c);
+  box-shadow: 2px -2px 0 2px rgba(185, 70, 70, 0.4),
+    3px -3px 0 2px rgba(128, 55, 55, 0.13);
+  border-radius: 0 5px 0 50px;
+}
+
+.breadcrumb a:last-child:after {
+  content: none;
+}
+
+.flat a,
+.flat a:after {
+  background: white;
+  color: var(--accent);
+  transition: all 0.5s;
+}
+
+.flat a:before {
+  background: white;
+  box-shadow: 0 0 0 1px #dc8f8f;
+}
+
+.flat a:hover,
+.flat a.active,
+.flat a:hover:after,
+.flat a.active:after {
+  background-color: var(--accent);
+}
+
+/* Media */
+@media (max-width: 920px) {
+  .breadcrumb {
+    top: 6.5rem;
+  }
+}

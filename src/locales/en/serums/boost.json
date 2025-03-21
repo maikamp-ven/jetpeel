@@ -1,0 +1,118 @@
+{
+  "slug": "boost",
+  "name": "JetCare™ Boost",
+  "description": [
+    "Enhance the effects of JetPeel treatments with Boost solutions. Maximize the benefits of JetCare treatments with an intensive and nourishing Boost series. Booster serums complement JetPeel treatments and accelerate results, providing stronger and longer-lasting effects."
+  ],
+  "description1": [
+    "JetCare Boost – Four powerful booster serums: Hydrate – A hyaluronic acid-based volumizing hydration, Regenerate – A renewing treatment enriched with vitamins A and E, Glow – A brightening effect enhanced with vitamin C, Tight – A firming and tone-enhancing treatment composed of three B-vitamin derivatives.",
+    "Choose the right Booster treatment based on skin type and needs: improve skin tone and appearance, increase client satisfaction.",
+    "Enjoy the Boost Set, which combines different booster serums to provide a complete JetCare solution, giving the skin a youthful, radiant, and revitalized look."
+  ],
+  "products": [
+    { "slug": "hydrate",
+      "name": "Hydrate",
+      "label": "Advanced hyaluronic acid with a filling effect for perfectly smooth skin",
+      "title": "Main Active Ingredients",
+      "subtitle": "PrimalHyal™ Ultrafiller",
+      "subtitle1": "Niacinamide (Vitamin B3)",
+      "subtitle2": "Betaine",
+      "description": [
+        "Hydrate – High-level HA for plump and smooth skin. Enhance the effects of JetPeel treatment with the JetCare Boost series Hydrate treatment. This treatment contains PrimalHyal™ Ultrafiller, an advanced hyaluronic acid technology developed to quickly and effectively fill wrinkles. One of the most popular products in the JetCare series, providing visibly smoother skin and long-lasting youthfulness.",
+        "A plumping anti-aging effect without needles. JetCare Boost – Hydrate HA offers painless and effective wrinkle filling without recovery time. Its unique patented HA formula ensures long-lasting youthful and plump skin."
+      ],
+      "text": [
+        "Hyaluronic acid (HA) is a natural molecule in the skin, known for its excellent moisture-binding properties. This high-level and patented HA derivative takes anti-aging treatments to a new level, promoting the absorption of HA into deeper skin layers, improving the appearance of fine lines and wrinkles."
+      ],
+      "text1": [
+        "This powerful antioxidant, which fights free radicals, is known for its fast-absorbing and protective moisturizing properties. Niacinamide helps tighten skin tone, combat signs of aging, and prevent damage caused by external factors."
+      ],
+      "text2": [
+        "Betaine is known for its moisturizing and soothing properties. This natural humectant helps lock in moisture in the skin, improve skin texture, and provide an anti-aging effect. Betaine strengthens the skin’s natural protective barrier, keeping it hydrated, soft, and smooth."
+      ]
+    },
+    { "slug": "regenerate",
+      "name": "JetCare™ Regenerate",
+      "label": "The path to a youthful and beautiful feeling",
+      "title": "Main Active Ingredients",
+      "subtitle": "Vitamin A (Retinyl Palmitate)",
+      "subtitle1": "Vitamin E",
+      "subtitle2": "Pentavitin®",
+      "subtitle3": "Regu-age®",
+      "subtitle4": "Roman Chamomile Extract",
+      "description": [
+        "Vitamin-rich power serum – Skin renewal with the power of antioxidants. This vitamin-enriched serum booster is specifically developed to rejuvenate the skin by utilizing the antioxidant power of vitamins A and E, which provide a strong anti-aging effect.",
+        "A unique combination of vitamins and plant-based active ingredients. This powerful booster contains skin-renewing vitamins A and E, offering antioxidant and anti-aging benefits. Especially effective for sun-exposed skin, its formula includes plant-derived peptides and proteins that significantly improve skin texture, as well as an advanced carbohydrate complex that protects the skin’s natural barrier and supports its renewal."
+      ],
+      "text": [
+        "Known as a powerful antioxidant that reduces dryness and flakiness, promoting skin renewal and evenness."
+      ],
+      "text1": [
+        "A potent antioxidant that hydrates, protects, and revitalizes the skin. Vitamin E helps strengthen the skin’s natural barrier, providing moisture and protection against external stressors. The combination of vitamins A and E creates a highly nourishing and antioxidant-rich treatment formula."
+      ],
+      "text2": [
+        "This plant-based carbohydrate complex mimics the skin’s natural carbohydrates, allowing it to bind effectively to the skin. This ensures rapid and long-lasting hydration, maintaining the skin’s softness and elasticity."
+      ],
+      "text3": [
+        "This patented blend of peptides and proteins provides fast-acting anti-aging benefits. It contains purified soy and rice peptides combined with biotechnologically produced yeast protein, which enhances skin tone and radiance."
+      ],
+      "text4": [
+        "Roman chamomile is a powerful antioxidant that protects the skin from external aggressors. Chamomile has been used for centuries to soothe and protect the skin, and it is known for its ability to reduce fine lines and wrinkles, supporting youthful and radiant skin."
+      ]
+    },
+    { "slug": "glow",
+      "name": "Glow",
+      "label": "The brightening benefits of vitamin C directly for the skin",
+      "title": "Main Active Ingredients",
+      "subtitle": "Stay-C®",
+      "subtitle1": "AHA Acids from Fruit Extracts",
+      "description": [
+        "Glow – Brightening the skin with the power of vitamin C. A powerful brightening booster containing a high concentration of vitamin C. This innovative treatment solution is based on a stable vitamin C derivative, which is more durable and effective than traditional ascorbic acid, ensuring a stronger illuminating effect.",
+        "Selected ingredients for pure skin. Selective Care – Advanced ingredients restore the skin’s natural glow. The vitamin C-enriched JetCare Boost serum is specifically designed to brighten and rejuvenate the skin. It contains natural fruit extracts that support skin evenness and radiance, making it an ideal option for all skin types – both young and aging skin."
+      ],
+      "text": [
+        "This advanced stabilized sodium ascorbyl phosphate is a highly effective derivative of ascorbic acid (vitamin C), which rapidly converts into active ascorbic acid, penetrating deep into the skin and delivering a powerful brightening effect. Stay-C® helps improve skin tone and smooth out irregularities while its strong antioxidant action protects the skin from external aggressors."
+      ],
+      "text1": [
+        "This natural fruit-based AHA blend enhances the absorption of vitamin C in the JetCare Glow serum, helping to eliminate dullness and restore the skin’s freshness. The result is smooth, even, and radiant skin."
+      ]
+    },
+    { "slug": "tight",
+      "name": "Tight",
+      "label": "The firming power of B vitamins",
+      "title": "Main active ingredients",
+      "subtitle": "Pro-vitamin B5 – Panthenol",
+      "subtitle1": "Niacinamide (Vitamin B3)",
+      "subtitle2": "Biotin (Vitamin B7)",
+      "description": [
+        "The firming power of B vitamins. A combination of three B vitamin derivatives that provide a powerful firming and moisturizing effect.",
+        "Triple B-vitamin effect. B vitamins are among the most effective ingredients in skincare, known for their ability to nourish and soothe the skin. This JetCare solution contains a carefully researched and tested combination of B vitamin derivatives that deliver deep hydration and moisture retention in the skin, promoting a firming and lifting effect."
+      ],
+      "text": [
+        "D-Panthenol helps nourish and hydrate the skin, locking in moisture and strengthening the skin’s protective barrier. It also rejuvenates and refreshes skin cells, promoting a youthful and resilient complexion."
+      ],
+      "text1": [
+        "A form of vitamin B3, niacinamide, is known for its antioxidant and protective moisturizing properties. It helps combat signs of aging, improves skin tone, and helps prevent damage caused by external factors."
+      ],
+      "text2": [
+        "Biotin is known for its moisturizing and skin-softening properties. Its nourishing effect is enhanced when combined with the synergistic action of vitamins B5 and B3, promoting skin health and elasticity."
+      ]
+    },
+    { "slug": "boost-set",
+      "name": "Boost Set",
+      "label": "Recommended to complete JetPeel treatment with a Boost application",
+      "title": "JetCare Boost Series",
+      "subtitle": "4 different booster serums",
+      "description": [
+        "Recommended to complete JetPeel treatment with a Boost application. To enhance JetPeel treatment, it is recommended to complement the procedure with a Boost serum, which maximizes results and extends the effects.",
+        "JetCare Boost offers four specially developed boosters that cater to different skin needs."
+      ],
+      "text": [
+        "✔ JetCare Boost Hydrate (HA) – Advanced hyaluronic acid for a plumping and hydrating effect.",
+        "✔ JetCare Boost Regenerate (Vit A + E) – The antioxidant power of vitamins A and E, providing an effective anti-aging effect.",
+        "✔ JetCare Boost Glow (Vit C) – The brightening effect of vitamin C for glowing and even-toned skin.",
+        "✔ JetCare Boost Tight (Vit B complex) – The firming power of vitamins B3, B5, and B7, improving skin elasticity and resilience."
+      ]
+    }
+  ]
+}
