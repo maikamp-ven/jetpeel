@@ -2,28 +2,28 @@
   "nav": {
     "language": "Kieli",
     "technology": "Teknologia",
-    "devices": "Laiteet",
-    "handpieces": "Käsikappaleet",
-    "treatments": "Hoitotuotteet",
+    "devices": "Laitteet",
+    "handpieces": "Hoitopäät",
+    "treatments": "Hoitoliuokset",
     "contact": "Yhteystiedot"
   },
   "mobileNav": {
     "technology": "Teknologia",
-    "devices": "Laiteet",
-    "handpieces": "Käsikappaleet",
-    "serums": "Hoitotuotteet",
+    "devices": "Laitteet",
+    "handpieces": "Hoitopäät",
+    "serums": "Hoitoliuokset",
     "contacts": "Yhteystiedot"
   },
   "helmet": {
-    "title": "JetPeel – Hoitoa, jonka iho ymmärtää!",
+    "title": "JetPeel – Hoitoa, jonka ihosi ymmärtää!",
     "description": "JetPeel by TavTech mullistaa ihonhoidon suihkupaineratkaisulla, joka on saanut inspiraationsa ilmailuteknologiasta.",
     "keywords": "JetPeel, ihohoito, esteettinen hoito, kauneus, ihonhoito, TavTech"
   },
   "header": {
-    "title": "JetPeel – Hoitoa, jonka iho ymmärtää!",
+    "title": "JetPeel – Hoitoa, jonka ihosi ymmärtää!",
     "subtitle": "Ole paras versio itsestäsi",
-    "text1": "Tervetuloa JetPeelin maailmaan! JetPeel™ by TavTech mullistaa ihonhoidon patentoimallaan suihkupaineratkaisulla, joka on saanut inspiraationsa ilmailuteknologiasta. Tämä ei-invasiivinen, neulaton hoito käyttää nopeita mikro-tippoja ihon puhdistamiseen, kuorintaan ja ravinteiden imeyttämiseen, tarjoten välittömiä ja kivuttomia tuloksia.",
-    "text2": "JetPeel-laitteet sisältävät erikoiskäsikappaleet ja ainutlaatuisen JetCare-ihonhoitosarjan, joka on kehitetty optimaaliseen hoitotehokkuuteen ja yhteensopivuuteen.",
+    "text1": "Tervetuloa JetPeelin maailmaan! JetPeel™ by TavTech mullistaa ihonhoidon patentoimallaan suihkupaineratkaisulla, joka on saanut inspiraationsa ilmailuteknologiasta. Tämä ei-invasiivinen, neulaton hoito käyttää nopeita mikrotippoja ihon puhdistamiseen, kuorintaan ja ravinteiden imeyttämiseen, tarjoten välittömiä ja kivuttomia tuloksia.",
+    "text2": "JetPeel-laitteet sisältävät erikoishoitopäät ja ainutlaatuisen JetCare-hoitoliuokset, joka on kehitetty optimaaliseen hoitotehokkuuteen ja yhteensopivuuteen.",
     "contact": "Ota yhteyttä"
   },
   "video": {
@@ -31,41 +31,44 @@
     "fallback": "Selaimesi ei tue videota."
   },
   "technology": {
-    "title": "Suihkuteknologia - näe tulokset",
+    "title": "Suihkupaineteknologia - näe tulokset",
     "text": {
-      "text1": "Vain TavTechille kehitetty JetPeel-suihkupaineenergiaan perustuva esteettinen hoitoteknologia on maailmanlaajuinen läpimurto transdermaaliseen vaikuttavien aineiden imeyttämiseen. Tämä teknologia tarjoaa innovatiivisen ratkaisun yleisiin iho-ongelmiin ja esteettisiin hoitotarpeisiin.",
-      "text2": "Lentoteknologiasta inspiroitunut JetPeel vie ei-invasiiviset, mutta tehokkaat ihonhoitomenetelmät uudelle tasolle – yhdistäen huipputason kliiniset tulokset ja maksimaalisen asiakasmukavuuden.",
-      "text3": "<0>JetPeel™ - laite</0> tuottaa paineistettua ilmaa, joka kiihdytetään ja muutetaan hienojakoiseksi suihkuksi. Nämä mikrosuihkut, joiden nopeus ylittää 200 m/s, kohdistetaan iholle patentoidulla JetPeel-käsikappaleella. Tämä sauvamainen instrumentti on saatavilla eri kokoisina ja eri hoitoihin räätälöityinä versioina. Hoidon aikana käsikappaleen hienojakoiset nestevirrat tarjoavat hellävaraisen lymfahieronnan, jonka jälkeen seuraa kuorinta ja ihon pintakerroksen kevyt venytys, mahdollistaen vaikuttavien aineiden imeytymisen syvempiin ihokerroksiin.",
-      "text4": "Tämä sauvamainen instrumentti on saatavilla eri kokoisina ja eri hoitoihin räätälöityinä versioina. Hoidon aikana käsikappaleen hienojakoiset nestevirrat tarjoavat hellävaraisen lymfahieronnan, jonka jälkeen seuraa kuorinta ja ihon pintakerroksen kevyt venytys, mahdollistaen vaikuttavien aineiden imeytymisen syvempiin ihokerroksiin.",
-      "text5": "Ilman neuloja, kipua tai ihon vaurioitumista JetPeel luo mikroskooppisia kanavia, joiden kautta hoitoaineet pääsevät vaikuttamaan ihon syvemmissä kerroksissa. Yhdistettynä JetCare-erikoistuotteisiin, jotka on kehitetty erilaisiin iho-ongelmiin, JetPeel-hoito tarjoaa ravitsevia mikropisaroita, jotka imeytyvät ihon alle – tuoden näkyviä tuloksia ja pitkäkestoista vaikutusta."
+      "text1": "Yksinoikeudella TavTechille kehitetty JetPeel-suihkupaine-energiaan perustuva esteettinen hoitoteknologia on maailmanlaajuinen läpimurto transdermaaliseen vaikuttavien aineiden imeyttämiseen. Tämä teknologia tarjoaa innovatiivisen ratkaisun yleisiin iho-ongelmiin ja esteettisiin hoitotarpeisiin.",
+      "text2": "Ilmailuteknologiasta inspiroitunut JetPeel vie ei-invasiiviset, mutta tehokkaat ihonhoitomenetelmät uudelle tasolle – yhdistäen huipputason kliiniset tulokset ja maksimaalisen asiakasmukavuuden.",
+      "text3": "<0>JetPeel™ - laite</0> tuottaa paineistettua ilmaa, joka kiihdytetään ja muutetaan hienojakoiseksi suihkuksi. Nämä mikrosuihkut, joiden nopeus ylittää 200 m/s, kohdistetaan iholle patentoidulla JetPeel-hoitopäällä. Tämä sauvamainen instrumentti on saatavilla eri kokoisina ja eri hoitoihin räätälöityinä versioina. Hoidon aikana hoitopään hienojakoiset nestevirrat tarjoavat hellävaraisen lymfahieronnan, jonka jälkeen seuraa kuorinta ja ihon pintakerroksen kevyt venytys, mahdollistaen vaikuttavien aineiden imeytymisen syvempiin ihokerroksiin.",
+      "text4": "Tämä sauvamainen instrumentti on saatavilla eri kokoisina ja eri hoitoihin räätälöityinä versioina. Hoidon aikana hoitopään hienojakoiset nestevirrat tarjoavat hellävaraisen lymfahieronnan, kuorinnan ja ihon pintakerroksen kevyen venytyksen, mahdollistaen vaikuttavien aineiden imeytymisen syvempiin ihokerroksiin.",
+      "text5": "Ilman neuloja, kipua tai ihon vaurioitumista JetPeel luo mikroskooppisia kanavia, joiden kautta hoitoaineet pääsevät vaikuttamaan ihon syvemmissä kerroksissa. Yhdistettynä erilaisiin iho-ongelmiin kehitettyihin JetCare-hoitoliuoksiin, JetPeel-hoito tarjoaa ravitsevia mikropisaroita, jotka imeytyvät ihon alle – tuoden näkyviä tuloksia ja pitkäkestoista vaikutusta."
     },
     "buttons": {
       "contact": "Ota yhteyttä",
       "readMore": "Lue lisää"
     },
     "gifs": {
-      "gif1Alt": "JetPeel infuusio",
-      "gif2Alt": "JetPeel exfoliaatio"
+      "gif1Alt": "JetPeel-infuusio",
+      "gif2Alt": "JetPeel-kuorinta"
     }
   },
   "steps": [
   {
     "number": "1",
-    "title_card": "IMUNESTIMULOIVA HIERONTA",
-    "capacity_1": "Rentouttava ja miellyttävä hieronta, joka edistää ihon luonnollista puhdistumista ja aktivoi mikroverenkiertoa, tukien ihon uusiutumista."
+    "title_card": "LYMFAHIERONTA",
+    "capacity_1": "Rentouttava ja miellyttävä hieronta, joka edistää ihon luonnollista puhdistumista ja aktivoi pintaverenkiertoa, tukien ihon uusiutumista."
   },
+
 
   {
     "number": "2",
     "title_card": "HELLÄVARAINEN KUORINTA",
-    "capacity_1": "Tehokas mutta hellävarainen kuorinta poistaa kuolleet ihosolut, valmistaen ihon vastaanottamaan hoidon vaikuttavat aineet."
+    "capacity_1": "Tehokas, mutta hellävarainen kuorinta poistaa kuolleet ihosolut ja valmistaa ihon vastaanottamaan hoidon vaikuttavat aineet."
   },
+
 
   {
     "number": "3",
     "title_card": "SYVÄVAIKUTTEINEN INFUUSIO",
     "capacity_1": "Innovatiivinen infuusioteknologia takaa aktiivisten ainesosien syvävaikutteisen imeytymisen, raviten ja kosteuttaen ihoa optimaalisesti."
   },
+
 
   {
     "number": "4",
@@ -80,7 +83,7 @@
       "Ei neuloja, ei kipua, ei invasiivisia toimenpiteitä",
       "Nopea transdermaalinen imeytyminen ja välittömät tulokset",
       "Ei arpia, ei toipumisaikaa",
-      "Ei potilaan toipumisaikaa",
+      "Kaikille ihotyypeille, ympäri vuoden",
       "Miellyttävä ja rentouttava hoitokokemus"
     ]
   },
@@ -126,3 +129,4 @@
     "backToHome": "Palaa etusivulle"
   }
 }
+

@@ -6,15 +6,7 @@ const getSerumsData = () => {
   const serumsData = i18n.getResource(currentLang, "serumsData");
 
   return Object.keys(serumsData).map((key) => {
-    const images = serumsImages[key] || {}; // Безопасная проверка
-
-    console.log("📌 serumsData:", JSON.stringify(serumsData, null, 2));
-
-    console.log("🔍 Ключи serumsData:", Object.keys(serumsData));
-    console.log("🔍 Ключи serumsImages:", Object.keys(serumsImages));
-
-
-
+    const images = serumsImages[key] || {}; 
 
     return {
       ...serumsData[key],

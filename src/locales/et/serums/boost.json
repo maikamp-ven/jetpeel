@@ -33,15 +33,34 @@
         "Betaiin on tuntud oma niisutavate ja rahustavate omaduste poolest. See looduslik niisutaja aitab lukustada niiskust nahas, parandada naha tekstuuri ja pakkuda vananemisvastast toimet. Betaiin tugevdab naha loomulikku kaitsebarjääri, hoides seda niisutatuna, pehmena ja siledana."
       ]
     },
-    { "slug": "regenerate",
+    {"slug": "regenerate",
       "name": "JetCare™ Regenerate",
-      "label": "Tee noorusliku ja kauni naha poole",
-      "title": "Peamised aktiivsed koostisosad",
-      "subtitle": "A-vitamiin (Retinüülpalmitaat)",
+      "label": "Tee nooruslikult kauni tunde suunas",
+      "title": "Peamised toimeained",
+      "subtitle": "A-vitamiin (retinüülpalmitaat)",
       "subtitle1": "E-vitamiin",
       "subtitle2": "Pentavitin®",
       "subtitle3": "Regu-age®",
-      "subtitle4": "Rooma kummeli ekstrakt"
+      "subtitle4": "Rooma kummeli ekstrakt",
+      "description": [
+        "Vitamiiniderikas tõhuseerum – naha uuenemine antioksüdantide jõul. See vitamiinidega rikastatud seerumibooster on spetsiaalselt loodud naha taastamiseks, kasutades A- ja E-vitamiini antioksüdantset toimet, mis pakuvad tugevat vananemisvastast efekti.",
+        "Ainulaadne vitamiinide ja taimsete toimeainete kombinatsioon. See tugevatoimeline booster sisaldab nahka taastavaid A- ja E-vitamiine, millel on antioksüdantne ja vananemisvastane mõju. Eriti tõhus päikesele eksponeeritud naha hooldamiseks – selle koostises on taimsed peptiidid ja valgud, mis parandavad oluliselt naha struktuuri, ning täiustatud süsivesikukompleks, mis kaitseb naha loomulikku barjääri ja toetab selle uuenemist."
+      ],
+      "text": [
+        "Tuntud tugeva antioksüdandina, mis vähendab naha kuivust ja ketendust ning soodustab naha uuenemist ja ühtlustumist."
+      ],
+      "text1": [
+        "Tõhus antioksüdant, mis niisutab, kaitseb ja taastab nahka. E-vitamiin tugevdab naha loomulikku kaitsebarjääri, pakkudes niiskust ja kaitset keskkonnamõjude vastu. A- ja E-vitamiini kombinatsioon loob sügavniisutava ja antioksüdantide poolest rikka hoolduslahenduse."
+      ],
+      "text2": [
+        "See taimepõhine süsivesikukompleks sarnaneb naha enda süsivesikutele, mis võimaldab sellel efektiivselt nahaga siduda. Tagab kohese ja pikaajalise niisutuse, säilitades naha pehmuse ja elastsuse."
+      ],
+      "text3": [
+        "See patenteeritud peptiidide ja valkude kompleks pakub kiiret vananemisvastast toimet. Sisaldab puhastatud soja- ja riisipeptiide, kombineerituna biotehnoloogiliselt toodetud pärmivalguga, mis parandab naha tooni ja sära."
+      ],
+      "text4": [
+        "Rooma kummel on tugev antioksüdant, mis kaitseb nahka väliste tegurite eest. Kummelit on sajandeid kasutatud naha rahustamiseks ja kaitsmiseks ning see on tuntud oma kortse ja joonekesi vähendava toime poolest, toetades nooruslikku ja säravat nahka."
+      ]
     },
     { "slug": "glow",
       "name": "Glow",

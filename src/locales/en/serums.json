@@ -1,16 +1,16 @@
 {
-  "title": "JetCare™ - Active Serums",
+  "title": "JetCare™ - Solutions",
   "meta": {
-    "description": "Discover JetCare™ active serums, specially designed for JetPeel™ hydroporation technology. High-quality skincare products with optimal results.",
-    "keywords": "JetPeel, JetCare, active serums, skincare, beauty"
+    "description": "Discover JetCare™ solutions, specially designed for JetPeel™ hydroporation technology. High-quality skincare products with optimal results.",
+    "keywords": "JetPeel, JetCare, solutions, skincare, beauty"
   },
-  "banner_alt": "JetCare - Active Serums",
+  "banner_alt": "JetCare - Solutions",
   "header": {
-    "title": "JetCare™ - Active Serums",
-    "subtitle": "Original JetCare™ active serums are developed to achieve optimal results with JetPeel™ hydroporation."
+    "title": "JetCare™ - Solutions",
+    "subtitle": "Original JetCare™ solutions are developed to achieve optimal results with JetPeel™ hydroporation."
   },
   "hero": {
-    "description": "Original <a href='/jetPeel'>JetPeel™</a> active serums by TavTech.<br/> Specially formulated for JetPeel™ hydroporation technology, JetCare™ serums are perfectly matched to the unique delivery mechanism of the handpieces.<br/><br/>JetCare™ serums are tailored with precise viscosity to withstand high pressure and speeds up to 720 km/h without losing their molecular integrity or effectiveness.<br/><br/>Only the combination of patented <a href='/handpieces'>JetPeel™ handpieces</a> and JetCare™ active ingredients enables deep hydroporation and consistently optimal treatment results.<br/><br/>Results are immediately visible and noticeable, and the effects of the serums are long-lasting.<br/><br/>For the best results, a series of treatments is recommended, and to maintain the results, periodic treatments should be repeated as needed.",
+    "description": "Original <a href='/jetPeel'>JetPeel™</a> solutions by TavTech.<br/> Specially formulated for JetPeel™ hydroporation technology, JetCare™ solutions are perfectly matched to the unique delivery mechanism of the handpieces.<br/><br/>JetCare™ solutions are tailored with precise viscosity to withstand high pressure and speeds up to 720 km/h without losing their molecular integrity or effectiveness.<br/><br/>Only the combination of patented <a href='/handpieces'>JetPeel™ handpieces</a> and JetCare™ active ingredients enables deep hydroporation and consistently optimal treatment results.<br/><br/>Results are immediately visible and noticeable, and the effects of the solutions are long-lasting.<br/><br/>For the best results, a series of treatments is recommended, and to maintain the results, periodic treatments should be repeated as needed.",
     "image_alt": "JetCare - all products"
   },
   "contact_button": "Contact us",
@@ -30,11 +30,12 @@
   },
   "sequence": {
     "title": "Best anti-aging solutions with JetPeel",
-    "subtitle": "JetPeel by TavTech – a complete combination of the JetPro device series, original patented JetPeel handpieces, and new JetCare solutions.",
+    "subtitle": "JetPeel by TavTech – a complete combination of the JetPro device series, original patented JetPeel handpieces, and JetCare solutions.",
     "image_alt": "Treatment sequence"
   },
   "serums_section": {
     "title": "Perfect solutions for anti-aging treatments with JetPeel",
-    "subtitle": "JetPeel by TavTech – the ultimate combination of the JetPro device series, original patented JetPeel handpieces, and new JetCare solutions."
+    "subtitle": "JetPeel by TavTech – the ultimate combination of the JetPro device series, original patented JetPeel handpieces, and JetCare solutions."
   }
 }
+

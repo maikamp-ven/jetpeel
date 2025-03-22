@@ -4,7 +4,7 @@ export const renewalImages = {
   imgBanner: require("../../img/jetCare-serums/Opening_pages_Renewal.png"),
   imgModal: require("../../img/jetCare-serums/Glycolic Acid_Set.png"),
   productsImages: {
-    "glycolic-acid-gentle-exfoliation-5%": {
+    "Glycolic-acid-gentle-exfoliation-5%": {
       image: require("../../img/jetCare-serums/Renewal_GA5.png"),
       imageBig: require("../../img/jetCare-serums/Glycolic Acid_5.png")
     },

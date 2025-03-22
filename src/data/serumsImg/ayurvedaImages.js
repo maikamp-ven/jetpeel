@@ -8,7 +8,7 @@ export const ayurvedaSetImages = {
       image: require("../../img/jetCare-serums/JetCare Ayurveda Exfoliation.png"),
       imageBig: require("../../img/jetCare-serums/Ayrveda_Exfolation.png"),
     },
-    "jetCare-ayurveda-infusion": {
+    "jetCar-ayurveda-infusion": {
       image: require("../../img/jetCare-serums/JetCare Ayurveda Infusion.png"),
       imageBig: require("../../img/jetCare-serums/Infusion.png"),
     },

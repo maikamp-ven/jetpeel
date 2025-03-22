@@ -1,16 +1,16 @@
 {
-  "title": "JetCare™ - Aktiiviseerumit",
+  "title": "JetCare™ - Hoitoliuokset",
   "meta": {
-    "description": "Tutustu JetCare™ -aktiivisiin seerumeihin, jotka on suunniteltu JetPeel™-hydroporaatioteknologiaan. Korkealaatuiset hoitotuotteet optimaalisilla tuloksilla.",
-    "keywords": "JetPeel, JetCare, aktiiviseerumit, ihonhoito, kauneus"
+    "description": "Tutustu JetCare™ -hoitoliuoksiin, jotka on suunniteltu JetPeel™-hydroporaatioteknologiaan. Korkealaatuiset hoitotuotteet optimaalisilla tuloksilla.",
+    "keywords": "JetPeel, JetCare, hoitoliuokset, ihonhoito, kauneus"
   },
-  "banner_alt": "JetCare - aktiiviseerumit",
+  "banner_alt": "JetCare - hoitoliuokset",
   "header": {
-    "title": "JetCare™ - Aktiiviseerumit",
-    "subtitle": "Alkuperäiset JetCare™-aktiiviseerumit on kehitetty saavuttamaan optimaaliset tulokset JetPeel™-hydroporaation avulla."
+    "title": "JetCare™ - Hoitoliuokset",
+    "subtitle": "Alkuperäiset JetCare™-hoitoliuokset on kehitetty saavuttamaan optimaaliset tulokset JetPeel™-hydroporaation avulla."
   },
   "hero": {
-    "description": "Alkuperäiset <a href='/jetPeel'>JetPeel™</a>-aktiiviseerumit TavTechilta.<br/> Erityisesti JetPeel™-hydroporaatioteknologiaan kehitetyt JetCare™-seerumit on suunniteltu täydellisesti yhteensopiviksi käsikappaleiden ainutlaatuisen kuljetusmekanismin kanssa.<br/><br/>JetCare™-seerumit on mukautettu tarkalla viskositeetilla, jotta ne kestävät korkean paineen ja jopa 720 km/h nopeuden menettämättä molekyylirakenteensa eheyttä tai tehoaan.<br/><br/>Vain yhdistelmä patentoituja <a href='/handpieces'>JetPeel™-käsikappaleita</a> ja JetCare™-aktiivisia ainesosia mahdollistaa syvän hydroporaation ja tasaisesti optimaaliset hoitotulokset.<br/><br/>Tulokset ovat heti nähtävissä ja tuntuvia, ja seerumien vaikutukset ovat pitkäkestoisia.<br/><br/>Paras lopputulos saavutetaan hoitosarjalla, ja tulosten ylläpitämiseksi hoito suositellaan uusittavaksi säännöllisin väliajoin tarpeen mukaan.",
+    "description": "Alkuperäiset <a href='/jetPeel'>JetPeel™</a>-hoitoliuokset TavTechilta.<br/> Erityisesti JetPeel™-hydroporaatioteknologiaan kehitetyt JetCare™-hoitoliuokset on suunniteltu täydellisesti yhteensopiviksi hoitopäiden ainutlaatuisen kuljetusmekanismin kanssa.<br/><br/>JetCare™-hoitoliuokset on mukautettu tarkalla viskositeetilla, jotta ne kestävät korkean paineen ja jopa 720 km/h nopeuden menettämättä molekyylirakenteensa eheyttä tai tehoaan.<br/><br/>Vain yhdistelmä patentoituja <a href='/handpieces'>JetPeel™-hoitopäitä</a> ja JetCare™-aktiivisia ainesosia mahdollistaa syvän hydroporaation ja tasaisesti optimaaliset hoitotulokset.<br/><br/>Tulokset ovat heti nähtävissä ja liuosten vaikutukset ovat pitkäkestoisia.<br/><br/>Paras lopputulos saavutetaan sarjahoidolla ja tulosten ylläpitämiseksi hoito suositellaan uusittavaksi säännöllisin väliajoin tarpeen mukaan.",
     "image_alt": "JetCare - kaikki tuotteet"
   },
   "contact_button": "Ota yhteyttä",
@@ -18,23 +18,24 @@
     "title": "Käyttöaiheet:",
     "image_alt": "Käyttöaiheet",
     "list": [
-      "✔ Ikääntyvä, uudistuva iho, rypyt, ihon kimmoisuuden menetys",
+      "✔ Ikääntyminen, ihon uudistaminen, rypyt, ihon kimmoisuuden menetys",
       "✔ Tulehdukset, ärsytys, herkkyys",
       "✔ Epäpuhtaudet, kuten finnit ja mustapäät",
       "✔ pH-tasapainon säätely",
       "✔ Huokosten supistaminen",
       "✔ Tummat pigmenttimuutokset, tulehduksen jälkeinen hyperpigmentaatio",
-      "✔ Silmänympärysalueen turvotus, silmänkohotus, huulten volyymin lisääminen",
+      "✔ Silmänympärysalueen turvotus, silmäluomien kohotus, huulten volyymin lisääminen",
       "✔ Laajentuneet verisuonet, couperosa"
     ]
   },
   "sequence": {
     "title": "Parhaat ikääntymistä ehkäisevät ratkaisut JetPeelin avulla",
-    "subtitle": "JetPeel by TavTech – täydellinen yhdistelmä, joka koostuu JetPro-laitesarjasta, alkuperäisistä patentoiduista JetPeel-käsikappaleista ja uusista JetCare-ratkaisuista.",
-    "image_alt": "Hoitoprosessin vaiheet"
+    "subtitle": "JetPeel by TavTech – täydellinen yhdistelmä, joka koostuu JetPro-laitesarjasta, alkuperäisistä patentoiduista JetPeel-hoitopäistä ja JetCare-hoitoliuoksista.",
+    "image_alt": "Hoidon vaiheet"
   },
   "serums_section": {
     "title": "Täydelliset ratkaisut ikääntymisen ehkäisyyn JetPeelin avulla",
-    "subtitle": "JetPeel by TavTech – yhdistelmä, joka koostuu JetPro-laitesarjasta, alkuperäisistä patentoiduista JetPeel-käsikappaleista ja uusista JetCare-ratkaisuista."
+    "subtitle": "JetPeel by TavTech – yhdistelmä, joka koostuu JetPro-laitesarjasta, alkuperäisistä patentoiduista JetPeel-hoitopäistä ja JetCare-hoitoliuoksista."
   }
 }
+

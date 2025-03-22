@@ -1,11 +1,10 @@
 import React from "react";
-import { useTranslation } from 'react-i18next';
 import "./style.css";
 
-const SerumProduct = ({ product }) => {
-  const { t } = useTranslation("serumsData");
+const SerumProduct = ({ product, images }) => {
   
   if (!product) return <p>Error: data not available</p>;
+  
 
   return (
     <div className="serum__product-page">
@@ -15,10 +14,11 @@ const SerumProduct = ({ product }) => {
         <div className="serum__product-wrapper">
           <div className="serum__product-imgWrapper">
             <img
-              src={product.imageBig}
+              src={images?.imageBig || product.imageBig}
               alt={product.name}
               className="serum__product-image"
             />
+            
           </div>
           
 

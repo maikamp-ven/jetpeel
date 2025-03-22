@@ -4,14 +4,14 @@
     "technology": "Technology",
     "devices": "Devices",
     "handpieces": "Handpieces",
-    "treatments": "Serums",
+    "treatments": "Solutions",
     "contact": "Contact"
   },
   "mobileNav": {
     "technology": "Technology",
     "devices": "Devices",
     "handpieces": "Handpieces",
-    "serums": "JetCare",
+    "serums": "Solutions",
     "contacts": "Contacts"
   },
   "helmet": {
@@ -51,9 +51,10 @@
   "steps": [
   {
     "number": "1",
-    "title_card": "IMMUNE-STIMULATING MASSAGE",
+    "title_card": "LYMPHATIC MASSAGE",
     "capacity_1": "A relaxing and pleasant massage that promotes the skin's natural cleansing process and activates microcirculation, supporting skin renewal."
   },
+
 
   {
     "number": "2",
@@ -61,11 +62,13 @@
     "capacity_1": "An effective yet gentle exfoliation removes dead skin cells, preparing the skin to absorb active ingredients from the treatment."
   },
 
+
   {
     "number": "3",
     "title_card": "DEEP INFUSION",
     "capacity_1": "Innovative infusion technology ensures deep absorption of active ingredients, nourishing and hydrating the skin optimally."
   },
+
 
   {
     "number": "4",
@@ -80,7 +83,7 @@
       "Needle-free, painless, non-invasive procedures",
       "Fast transdermal absorption and immediate results",
       "No scars, no downtime",
-      "No patient downtime",
+      "For all skin types, all year-round",
       "Comfortable and relaxing treatment experience"
     ]
   },
@@ -126,3 +129,4 @@
     "backToHome": "Return to homepage"
   }
 }
+
