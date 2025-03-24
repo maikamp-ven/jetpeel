@@ -32,7 +32,7 @@ const Home = () => {
               {t('video.title')}
             </h2>
             <figure className='technology__video-container'>
-              <video autoPlay loop muted playsInline className='video__file' controls>
+              <video autoPlay loop muted playsInline className='video__file'>
                 <source src={videoSrc} type="video/mp4" />
                 {t('video.fallback')}
               </video>

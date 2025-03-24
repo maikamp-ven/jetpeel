@@ -1,4 +1,5 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect} from 'react';
+import ReactGA from "react-ga4";
 import './style/main.css';
 import { Routes, Route, useLocation } from 'react-router-dom';
 import { AnimatePresence, motion } from 'framer-motion';
@@ -72,9 +73,23 @@ function AnimatedRoutes() {
 
 function App() {
   const [navOpen, setNavOpen] = useState(false);
+  const location = useLocation();
 
   const openNav = () => setNavOpen(true);
   const closeNav = () => setNavOpen(false);
+
+   // Google Analytics INIT
+   useEffect(() => {
+    if (process.env.NODE_ENV === "production") {
+      ReactGA.initialize("G-XXXXXXXXXX"); // ← замени на свой реальный ID
+    }
+  }, []);
+
+  useEffect(() => {
+    if (process.env.NODE_ENV === "production") {
+      ReactGA.send({ hitType: "pageview", page: location.pathname });
+    }
+  }, [location]);
 
   return (
     <HelmetProvider>

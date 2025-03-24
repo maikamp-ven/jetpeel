@@ -85,6 +85,7 @@ const Handpieces = () => {
           </Helmet>
 
             <img
+              loading="lazy"
               className="header__banner"
               src={banner}
               alt="handpieces-banner"
