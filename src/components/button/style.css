@@ -17,8 +17,8 @@
   border-radius: var(--br);
   box-shadow: var(--text-box-shadow);
   text-transform: uppercase;
-  transition: background-color 0.3s ease-in-out, border-color 0.3s ease-in-out;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  transition: background-color, transform0.3s ease-in-out, border-color 0.3s ease-in-out;
+  
 }
 
 .btn-outline:hover {

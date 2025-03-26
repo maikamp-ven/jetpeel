@@ -5,18 +5,18 @@
     "JetCare Green -tuotteet valmistetaan yksinomaan luonnollisista, luomu- ja ekosertifioiduista ainesosista. Pakkaukset perustuvat kierrätettyihin tai kierrätettäviin materiaaleihin. JetCare Green tarjoaa samat näkyvästi kauniit JetPeel-tulokset, mutta minimoi ekologisen jalanjäljen."
   ],
   "description1": [
-    "JetCare Green – Ihon- ja ympäristöystävälliset hoitotuotteet. JetCare Green -sarja sisältää neljä ympäristöystävällistä hoitoratkaisua, jotka on suunniteltu JetPeel-hoitoprotokollan keskeisiin vaiheisiin: lymfahieronta, kuorinta, infuusio. JetCare Green – kauneutta ympäristöä kunnioittaen!"
+    "JetCare Green – Iho- ja ympäristöystävälliset hoitotuotteet. JetCare Green -linja sisältää neljä ympäristöystävällistä hoitoratkaisua, jotka on suunniteltu JetPeel-hoitoprotokollan keskeisiin vaiheisiin: lymfahieronta, kuorinta, infuusio. JetCare Green – kauneutta ympäristöä kunnioittaen!"
   ],
   "products": [
     { "slug": "jetCare-green-hydro",
       "name": "JetCare Green Hydro",
-      "title": "Pääasialliset aktiiviset ainesosat",
+      "title": "Vaikuttavat aineet",
       "subtitle": "Allantoiini",
       "subtitle1": "Propanedioli",
       "subtitle2": "Luomu Aloe Vera",
       "subtitle3": "Cosphagard® Elbe",
       "description": [
-        "JetCare Green Hydro – Luonnollinen alku JetPeel-hoidolle. JetPeel-hoito alkaa rentouttavalla lymfahieronnalla, joka stimuloi mikroverenkiertoa ja auttaa puhdistamaan ihoa myrkyistä.",
+        "JetCare Green Hydro – Luonnollinen alku JetPeel-hoidolle. JetPeel-hoito alkaa rentouttavalla lymfahieronnalla, joka stimuloi mikroverenkiertoa ja auttaa puhdistamaan ihoa toksiineista.",
         "JetCare Green Hydro on kehitetty luonnollisista ja ekosertifioiduista ainesosista, tarjoten hellävaraisen mutta tehokkaan puhdistuksen, joka valmistelee ihon JetPeel-kuorintaan ja infuusioon."
       ],
         "text": [
@@ -25,12 +25,12 @@
         ],
         "text1": [
           "Kestävästi maissisokerista tuotettu kosteuttaja, joka auttaa rauhoittamaan ja kosteuttamaan ihoa.",
-          "Maailman ensimmäinen 100 % bio-pohjainen glykolivaihtoehto, joka on Natural Products Association (NPA) -sertifioitu."
+          "Maailman ensimmäinen 100 % biopohjainen glykolivaihtoehto, joka on Natural Products Association (NPA) -sertifioitu."
         ],
         "text2": [
           "Voimakas antioksidanttinen emollientti, joka pehmentää ja rauhoittaa ihoa nopeasti.",
           "Antimikrobinen vaikutus auttaa suojaamaan ihoa epäpuhtauksilta.",
-          "Keskeinen ainesosa JetCare Green -hoidon avausvaiheessa, valmistellen ihoa seuraaviin hoitovaiheisiin."
+          "Keskeinen ainesosa JetCare Green -hoidon alkuvaiheessa, valmistellen ihoa seuraaviin hoitovaiheisiin."
         ],
         "text3": [
           "Luonnollisesti johdettu antimikrobinen yhdistelmä, joka sisältää natriumlevulinaattia ja natriumbentsoaattia.",
@@ -40,9 +40,9 @@
     },
     { "slug": "jetCare-green-exfoliation",
       "name": "JetCare Green Exfoliation",
-      "title": "Pääasialliset aktiiviset ainesosat",
+      "title": "Vaikuttavat aineet",
       "subtitle": "ACB Fruit Mix",
-      "subtitle1": "Niacinamide (B3-vitamiini)",
+      "subtitle1": "Niasiiniamidi (B3-vitamiini)",
       "subtitle2": "Lisätehoiset AHA- ja BHA-hapot",
       "subtitle3": "Campo Plantservative",
       "description": [
@@ -69,25 +69,25 @@
     },
     { "slug": "jetCare-green-glow",
       "name": "JetCare Green Glow",
-      "title": "Pääasialliset aktiiviset ainesosat",
+      "title": "Vaikuttavat aineet",
       "subtitle": "Tego® Turmerone",
       "subtitle1": "Primalhyal 3K™",
-      "subtitle2": "Niacinamide (B3-vitamiini)",
+      "subtitle2": "Niasiiniamidi (B3-vitamiini)",
       "subtitle3": "Campo Plantservative",
       "description": [
-        "JetCare Green Glow – Luonnollinen kirkastava infuusio.  JetPeel-hoidon Infuusio-vaiheessa JetPeel-laitteisto syöttää ravintoaineita suoraan ihoon.",
+        "JetCare Green Glow – Luonnollinen kirkastava infuusio.  JetPeel-hoidon Infuusio-vaiheessa JetPeel-laitteisto syöttää vaikuttavia aineita suoraan ihoon.",
         "JetCare Green Glow -koostumus sisältää luonnollista alkuperää olevia aktiivisia ainesosia, jotka on kehitetty rauhoittamaan ikääntymisen merkkejä ja vahvistamaan ihon luonnollista hehkua."
       ],
         "text": [
           "Orgaanisesti viljellystä Curcuma longa -kasvista puhdistettu luonnollinen kurkumauute.",
           "Vahva antioksidantti, joka suojaa ihoa oksidatiiviselta stressiltä.",
-          "Siloittaa hienoja juonteita, tasoittaa ihonsävyä ja lisää ihon luonnollista säteilyä."
+          "Silottaa hienoja juonteita, tasoittaa ihon sävyä ja lisää ihon luonnollista heleyttä."
         ],
         "text1": [
-          "Kolmen molekyylipainon hyaluronihappoyhdistelmä, joka tarjoaa anti-aging-vaikutuksia ihon eri tasoilla:",
+          "Kolmen eri molekyylikoon hyaluronihappoyhdistelmä, joka tarjoaa anti-aging-vaikutuksia ihon eri tasoilla:",
           "--100-300 kDA – Tukee ihon luontaista paranemisprosessia ja puolustusmekanismeja ihon pintakerroksessa.",
           "--20-50 kDA – Ihanteellinen molekyylikoko ihon toiminnan parantamiseen ja kiinteyden lisäämiseen.",
-          "--5-20 kDA – Syvälle tunkeutuva HA-komponentti, joka uudistaa ihoa sisältäpäin."
+          "--5-20 kDA – Syvälle tunkeutuva HA, joka uudistaa ihoa sisältäpäin."
         ],
         "text2": [
           "Runsaasti antioksidantteja sisältävä vitamiini, joka torjuu vapaita radikaaleja ja tukee ihon proteiinien muodostumista.",
@@ -100,10 +100,10 @@
     },
     { "slug": "jetCare-green-peptide-complex",
       "name": "JetCare Green Peptide Complex",
-      "title": "Pääasialliset aktiiviset ainesosat",
+      "title": "Vaikuttavat aineet",
       "subtitle": "Argireline® Amplified Peptide Solution",
       "subtitle1": "Primalhyal 3K™",
-      "subtitle2": "Niacinamide (B3-vitamiini)",
+      "subtitle2": "Niasiiniamidi (B3-vitamiini)",
       "subtitle3": "Natura-tec Plantsil™",
       "subtitle4": "Campo Plantservative",
       "description": [
@@ -112,10 +112,10 @@
       ],
         "text": [
           "Uuden sukupolven monivaikutteinen peptidi, joka perustuu 'vihreän kemian' periaatteisiin.",
-          "Hidastaa ihon luonnollista ikääntymisprosessia ja rentouttaa kasvolihaksia, auttaen siloittamaan juonteita ja tasoittamaan ihoa."
+          "Hidastaa ihon luonnollista ikääntymisprosessia ja rentouttaa kasvolihaksia, auttaen silottamaan juonteita ja tasoittamaan ihoa."
         ],
         "text1": [
-          "Kolmen molekyylipainon hyaluronihappoyhdistelmä, joka tarjoaa anti-aging-vaikutuksia ihon eri kerroksissa:",
+          "Kolmen molekyylikoon hyaluronihappoyhdistelmä, joka tarjoaa anti-aging-vaikutuksia ihon eri kerroksissa:",
           "--100-300 kDA – Tukee ihon luontaista paranemisprosessia ja vahvistaa sen puolustusmekanismeja.",
           "--20-50 kDA – Parantaa ihon toimintakykyä ja kiinteyttää ihoa, antaen napakamman ilmeen.",
           "--5-20 kDA – Tunkeutuu syvemmälle ihoon, edistäen uudistumista sisältäpäin."
@@ -135,3 +135,4 @@
     }
   ]
 }
+

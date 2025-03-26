@@ -21,8 +21,6 @@ const SerumProduct = ({ product, images }) => {
             
           </div>
           
-
-          {/* !!! */}
           <div className="serum__product-text">
             {product.description?.map((text, index) => (
               <p key={index} className="serum__hero-description">{text}</p>
@@ -30,7 +28,6 @@ const SerumProduct = ({ product, images }) => {
           </div>
         </div>
 
-        {/* Блок с ингредиентами (если есть title) */}
         {product.title && (
           <div className="serum__product-ingredients">
             <h3 className="serum__hero-title">{product.title}</h3>

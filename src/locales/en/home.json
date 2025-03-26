@@ -35,7 +35,7 @@
     "text": {
       "text1": "The aesthetic treatment technology based on spray pressure energy, developed exclusively for TavTech, is a global breakthrough in transdermal delivery of active ingredients. This technology offers an innovative solution for common skin problems and aesthetic treatment needs.",
       "text2": "Inspired by aviation technology, JetPeel takes non-invasive yet effective skincare methods to a new level – combining top-level clinical results with maximum customer comfort.",
-      "text3": "<0>JetPeel™ - device</0> produces pressurized air that is accelerated and transformed into a finely atomized spray. These micro-sprays, with speeds exceeding 200 m/s, are directed onto the skin using a patented JetPeel handpiece. This wand-like instrument is available in various sizes and tailored versions for different treatments. During the treatment, the handpiece’s finely atomized liquid streams provide a gentle lymphatic massage, followed by exfoliation and a slight stretching of the skin’s surface layer, enabling the active ingredients to penetrate deeper skin layers.",
+      "text3": "<0>JetPeel™ - device</0> produces pressurized air that is accelerated and transformed into a finely atomized spray. These micro-sprays, with speeds exceeding 200 m/s, are directed onto the skin using a patented JetPeel handpiece.",
       "text4": "This wand-like instrument is available in various sizes and tailored versions for different treatments. During the treatment, the handpiece’s finely atomized liquid streams provide a gentle lymphatic massage, followed by exfoliation and a slight stretching of the skin’s surface layer, enabling the active ingredients to penetrate deeper skin layers.",
       "text5": "Without needles, pain, or skin damage, JetPeel creates microscopic channels through which treatment agents can act in the deeper layers of the skin. Combined with specialized JetCare products developed for various skin issues, JetPeel treatment offers nourishing micro-droplets that penetrate beneath the skin – delivering visible results and long-lasting effects."
     },
@@ -124,6 +124,7 @@
   },
   "notFound": {
     "title": "404 - Page Not Found | JetPeel",
+    "metaDescription": "Error page - the address you requested was not found.",
     "heading": "404 - Page Not Found",
     "message": "Unfortunately, the page you are looking for could not be found. You can return to the homepage or explore our other services.",
     "backToHome": "Return to homepage"

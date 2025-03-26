@@ -25,7 +25,7 @@ const ProductList = ({ category, products }) => {
         </div>
         
         <div className="products">
-        {products.map((product) => ( 
+        {products?.length > 0 ? products.map((product) => ( 
           <Product
             key={product.slug}
             slug={product.slug} 
@@ -34,7 +34,7 @@ const ProductList = ({ category, products }) => {
             img={productImages[product.slug]} 
             link={`/${category}/${product.slug}`} 
           />
-        ))}
+        )) : <p>{"no_products"}</p>}
         </div>
       </div>
     </main>

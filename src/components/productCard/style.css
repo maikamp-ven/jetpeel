@@ -1,9 +1,13 @@
 .product__card {
+  padding: 0.5rem;
   border: 2px solid var(--background-muted);
-  border-radius: 15px;
+  border-radius: 12px;
   box-shadow: var(--text-box-shadow);
   cursor: pointer;
-  z-index: 999;
+  flex: 0 0 auto;
+  width: clamp(100px, 10vw, 160px); 
+  transition: all 0.3s ease;
+  z-index: 1;
 }
 
 .product__card.active {
@@ -12,21 +16,19 @@
 }
 
 .product__card-image {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: var(--background-muted);
+  aspect-ratio: 1/1;
+  width: 100%;
+  background-size: contain;
   background-position: center;
-  background-size: cover;
-  width: 10rem;
-  height: 10rem;
+  background-repeat: no-repeat;
   border-radius: var(--br);
 }
 
 @media (max-width: 640px) {
 
   .product__card {
-    flex: 1;
+    padding: 0;
+    width: clamp(80px, 10vw, 100px);
   }
   
   .product__card-image {
@@ -34,7 +36,6 @@
     height: auto;
     padding: 1rem;
   }
-  
 }
 
 

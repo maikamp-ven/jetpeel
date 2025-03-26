@@ -15,6 +15,7 @@ import hydroFI from './locales/fi/serums/hydro.json';
 import renewalFI from './locales/fi/serums/renewal.json';
 import selectiveCareFI from './locales/fi/serums/selectiveCare.json';
 import youthFI from './locales/fi/serums/youth.json';
+import cookiesFI from './locales/fi/cookies.json';
 
 import homeEN from './locales/en/home.json';
 import devicesEN from './locales/en/devices.json';
@@ -29,6 +30,7 @@ import hydroEN from './locales/en/serums/hydro.json';
 import renewalEN from './locales/en/serums/renewal.json';
 import selectiveCareEN from './locales/en/serums/selectiveCare.json';
 import youthEN from './locales/en/serums/youth.json';
+import cookiesEN from './locales/en/cookies.json';
 
 import homeET from './locales/et/home.json';
 import devicesET from './locales/et/devices.json';
@@ -43,6 +45,7 @@ import hydroET from './locales/et/serums/hydro.json';
 import renewalET from './locales/et/serums/renewal.json';
 import selectiveCareET from './locales/et/serums/selectiveCare.json';
 import youthET from './locales/et/serums/youth.json';
+import cookiesET from './locales/et/cookies.json';
 
 const resources = {
   fi: {
@@ -51,6 +54,7 @@ const resources = {
     handpieces: handpiecesFI,
     common: commonFI,
     serums: serumsFI,
+    cookies: cookiesFI,
     serumsData: {
       antiAging: antiAgingFI,
       ayurveda: ayurvedaFI,
@@ -68,6 +72,7 @@ const resources = {
     handpieces: handpiecesEN,
     common: commonEN,
     serums: serumsEN,
+    cookies: cookiesEN,
     serumsData: {
       antiAging: antiAgingEN,
       ayurveda: ayurvedaEN,
@@ -85,6 +90,7 @@ const resources = {
     handpieces: handpiecesET,
     common: commonET,
     serums: serumsET,
+    cookies: cookiesET,
     serumsData: {
       antiAging: antiAgingET,
       ayurveda: ayurvedaET,
@@ -102,7 +108,7 @@ i18n.use(initReactI18next).init({
   resources,
   lng: 'fi', // Основной язык
   fallbackLng: 'fi',
-  ns: ['home', 'devices', 'handpieces', 'common', 'serums', 'serumsData'],
+  ns: ['home', 'devices', 'handpieces', 'common', 'serums', 'serumsData', 'cookies'],
   defaultNS: 'home',
   interpolation: { escapeValue: false },
 });

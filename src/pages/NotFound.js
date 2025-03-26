@@ -6,14 +6,15 @@ const NotFound = () => {
   const { t } = useTranslation();
 
   return (
-    <main className="not-found">
+    <main className="not-found" role="main">
       <Helmet>
         <title>{t('notFound.title')}</title>
+        <meta name="description" content={t('notFound.metaDescription')} />
         <meta name="robots" content="noindex, nofollow" />
       </Helmet>
       <h1 className='title-1'>{t('notFound.heading')}</h1>
       <p>{t('notFound.message')}</p>
-      <Link to="/" className="btn">{t('notFound.backToHome')}</Link>
+      <Link to="/" className="btn" state={{ from404: true }}>{t('notFound.backToHome')}</Link>
     </main>
   );
 };

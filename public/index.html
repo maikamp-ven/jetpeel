@@ -5,17 +5,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#000000" />
     <meta name="format-detection" content="telephone=no" />
-    
+
     <!-- SEO -->
-    <meta name="description" content="JetPeel Suomessa tarjoaa innovatiivisen ihonhoidon ilman leikkausta. Tutustu laitteisiimme ja hoitoihimme. Ota yhteyttä!" />
-    <meta name="keywords" content="JetPeel, ihonhoito, esteettinen hoito, hydroporaatio, TavTech" />
+    <meta
+      name="description"
+      content="JetPeel Suomessa tarjoaa innovatiivisen ihonhoidon ilman leikkausta. Tutustu laitteisiimme ja hoitoihimme. Ota yhteyttä!"
+    />
+    <meta
+      name="keywords"
+      content="JetPeel, ihonhoito, esteettinen hoito, hydroporaatio, TavTech"
+    />
     <meta name="robots" content="index, follow" />
 
     <!-- Favicon -->
     <link rel="icon" href="%PUBLIC_URL%/favicon-96x96.png" sizes="96x96" />
     <link rel="icon" type="image/svg+xml" href="%PUBLIC_URL%/favicon.svg" />
     <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico" />
-    <link rel="apple-touch-icon" sizes="180x180" href="%PUBLIC_URL%/apple-touch-icon.png" />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="%PUBLIC_URL%/apple-touch-icon.png"
+    />
 
     <!-- PWA -->
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
@@ -29,8 +39,14 @@
     <!-- Open Graph (Facebook & Instagram) -->
     <meta property="og:locale" content="fi_FI" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="JetPeel – Innovatiivinen Ihonhoito Suomessa" />
-    <meta property="og:description" content="JetPeel tarjoaa mullistavan ihonhoitoteknologian ilman neuloja tai leikkauksia. Tutustu laitteisiimme ja hoitoihimme." />
+    <meta
+      property="og:title"
+      content="JetPeel – Innovatiivinen Ihonhoito Suomessa"
+    />
+    <meta
+      property="og:description"
+      content="JetPeel tarjoaa mullistavan ihonhoitoteknologian ilman neuloja tai leikkauksia. Tutustu laitteisiimme ja hoitoihimme."
+    />
     <meta property="og:image" content="https://jetpeel.fi/img/og-image.jpg" />
     <meta property="og:url" content="https://jetpeel.fi/" />
     <meta property="og:site_name" content="JetPeel Suomi" />
@@ -40,6 +56,34 @@
     <meta name="copyright" content="JetPeel Suomi 2025" />
 
     <title>JetPeel – Innovatiivinen Ihonhoito Suomessa</title>
+
+    <!-- 1. Сначала инициализация Consent Mode с 'default' настройками -->
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('consent', 'default', {
+        ad_storage: 'denied',
+        analytics_storage: 'denied',
+        functionality_storage: 'denied',
+        personalization_storage: 'denied',
+        security_storage: 'granted',
+        wait_for_update: 500,
+      });
+    </script>
+
+    <!-- 2. Затем подключаем gtag.js -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-YJM02HFSKC"
+    ></script>
+
+    <!-- 3. И только потом инициализируем аналитику -->
+    <script>
+      gtag('js', new Date());
+      gtag('config', 'G-YJM02HFSKC', { send_page_view: false });
+    </script>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>

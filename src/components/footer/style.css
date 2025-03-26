@@ -128,4 +128,8 @@
     text-align: center;
     align-items: center;
   }
+
+  .footer__nav:last-child {
+    padding: 0px;
+  }
 }

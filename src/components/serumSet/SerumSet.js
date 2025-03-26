@@ -1,11 +1,11 @@
-import React from "react";
-import { Link } from "react-router-dom";
-import { motion } from "framer-motion";
-import Card from "../card/Card";
-import "./style.css";
+import React from 'react';
+import { Link } from 'react-router-dom';
+import { motion } from 'framer-motion';
+import Card from '../card/Card';
+import './style.css';
 
 const SerumSet = ({ serum, serumImages }) => {
-  const layoutClass = serum.products.length > 4 ? "grid-layout" : "flex-layout";
+  const layoutClass = serum.products.length > 4 ? 'grid-layout' : 'flex-layout';
 
   return (
     <motion.div
@@ -16,12 +16,32 @@ const SerumSet = ({ serum, serumImages }) => {
     >
       <div className="serum__hero">
         <div className="serum__hero-wrapper">
-          <img src={serumImages?.imgBanner} alt={serum.name} className="serum__hero-image" />
+          <img
+            src={serumImages?.imgBanner}
+            alt={serum.name}
+            className="serum__hero-image"
+          />
         </div>
         <h2 className="serum__hero-title title-1">{serum.name}</h2>
-        <p className="serum__hero-description">{serum.description}</p>
-        {serum.description1 && <p className="serum__hero-description">{serum.description1}</p>}
+        {Array.isArray(serum.description)
+          ? serum.description.map((desc, i) => (
+              <p key={i} className="serum__hero-description">
+                {desc}
+              </p>
+            ))
+          : serum.description && (
+              <p className="serum__hero-description">{serum.description}</p>
+            )}
 
+        {Array.isArray(serum.description1)
+          ? serum.description1.map((desc, i) => (
+              <p key={i} className="serum__hero-description">
+                {desc}
+              </p>
+            ))
+          : serum.description1 && (
+              <p className="serum__hero-description">{serum.description1}</p>
+            )}
       </div>
 
       {/* Карточки продуктов */}
@@ -32,7 +52,9 @@ const SerumSet = ({ serum, serumImages }) => {
           return product.slug ? (
             <Link
               key={product.slug}
-              to={`/serums/${encodeURIComponent(serum.slug)}/${encodeURIComponent(product.slug)}`}
+              to={`/serums/${encodeURIComponent(
+                serum.slug
+              )}/${encodeURIComponent(product.slug)}`}
               className="serum__product-link"
             >
               <Card

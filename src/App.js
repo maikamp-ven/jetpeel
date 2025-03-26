@@ -1,10 +1,9 @@
 import React, { useState, useEffect} from 'react';
-import ReactGA from "react-ga4";
 import './style/main.css';
 import { Routes, Route, useLocation } from 'react-router-dom';
 import { AnimatePresence, motion } from 'framer-motion';
 import { HelmetProvider } from "react-helmet-async";
-import { useTranslation } from "react-i18next"; // ✅ Добавляем useTranslation
+import { useTranslation } from "react-i18next";
 import './i18n';
 
 import Navbar from './components/navbar/Navbar';
@@ -23,6 +22,9 @@ import NotFound from './pages/NotFound';
 
 import devices from "./locales/fi/devices.json"; 
 import Breadcrumbs from './components/breadcrumbs/Breadcrumbs';
+import CookieConsent from "./components/cookieConsent/CookieConsent";
+
+
 
 const pageVariants = {
   initial: { opacity: 0, y: 20 },
@@ -80,17 +82,12 @@ function App() {
 
    // Google Analytics INIT
    useEffect(() => {
-    if (process.env.NODE_ENV === "production") {
-      ReactGA.initialize("G-XXXXXXXXXX"); // ← замени на свой реальный ID
-    }
-  }, []);
-
-  useEffect(() => {
-    if (process.env.NODE_ENV === "production") {
-      ReactGA.send({ hitType: "pageview", page: location.pathname });
+    if (window.gtag) {
+      window.gtag('event', 'page_view', {
+        page_path: location.pathname + location.search,
+      });
     }
   }, [location]);
-
   return (
     <HelmetProvider>
       <div className="App">
@@ -100,6 +97,7 @@ function App() {
         <Breadcrumbs />
         <AnimatedRoutes />
         <Footer />
+        <CookieConsent />
       </div>
     </HelmetProvider>
   );

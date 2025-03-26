@@ -1,20 +1,20 @@
 {
   "slug": "youth",
   "name": "JetCare™ Youth",
-  "description":[ 
-    "Suojaa iho tulevaisuutta varten JetCare Youth -hoidollaJetCare Youth on tehokas ihonhoitosarja, joka hyödyntää Kuolleenmeren mineraaleja ja on erityisesti kehitetty nuoren ihon 'prejuvenaatioon' – ennaltaehkäisevään nuoruuden ylläpitoon. 'Prejuvenaatio' on kasvava trendi esteettisessä ihonhoidossa, sillä yhä useammat 20–30-vuotiaat pyrkivät säilyttämään ihonsa luonnollisen nuorekkuuden. JetCare Youth -tuotteet sisältävät suojaavia Kuolleenmeren mineraaleja ja luonnollisia ihoa vahvistavia ainesosia, jotka auttavat ehkäisemään ensimmäisiä ikääntymisen merkkejä: hienojen juonteiden muodostumista, ihon veltostumista ja ihon sameutta ja elottomuutta."
+  "description":[
+    "Suojaa iho tulevaisuutta varten JetCare Youth -hoidolla. JetCare Youth on tehokas ihonhoitolinja, joka hyödyntää Kuolleenmeren mineraaleja ja on erityisesti kehitetty nuoren ihon 'prejuvenaatioon' – ennaltaehkäisevään nuoruuden ylläpitoon. 'Prejuvenaatio' on kasvava trendi esteettisessä ihonhoidossa, sillä yhä useammat 20–30-vuotiaat pyrkivät säilyttämään ihonsa luonnollisen nuorekkuuden. JetCare Youth -tuotteet sisältävät suojaavia Kuolleenmeren mineraaleja ja luonnollisia ihoa vahvistavia ainesosia, jotka auttavat ehkäisemään ensimmäisiä ikääntymisen merkkejä: hienojen juonteiden muodostumista, ihon veltostumista ja ihon sameutta ja elottomuutta."
   ],
   "description1":[
-    "JetCare Youth -hoitoprotokolla toteutetaan JetPeel-suihkupaineteknologialla, joka tehostaa Kuolleenmeren mineraalien hyödyllisiä vaikutuksia. JetCare Youth tarjoaa uuden lähestymistavan ihon suojaukseen ja nuorekkuuden säilyttämiseen, auttaen ehkäisemään ihovaurioita jo ennen niiden syntymistä ja säilyttämään ihon sileän, heleän ja nuorekkaan ilmeen. Kehitetty yhteistyössä JetPeel-asiantuntijoiden kanssa TavTechin kehittämä hoitomenetelmä, joka perustuu JetPeel-suihkupaineteknologiaan ja käytettäväksi yhdessä JetPeel-käsikappaleiden, JetPro-laitteen ja JetCare-hoito-ohjeiden kanssa. JetCare Youth – ennakoivaa ihonhoitoa, joka varmistaa ihosi säteilevän ja nuorekkaan ilmeen pitkään! "
+    "JetCare Youth -hoitoprotokolla toteutetaan JetPeel-suihkupaineteknologialla, joka tehostaa Kuolleenmeren mineraalien hyödyllisiä vaikutuksia. JetCare Youth tarjoaa uuden lähestymistavan ihon suojaukseen ja nuorekkuuden säilyttämiseen, auttaen ehkäisemään ihovaurioita jo ennen niiden syntymistä ja säilyttämään ihon sileän, heleän ja nuorekkaan ilmeen. Kehitetty yhteistyössä JetPeel-asiantuntijoiden kanssa. TavTechin kehittämä hoitomenetelmä, joka perustuu JetPeel-suihkupaineteknologiaan ja käytettäväksi yhdessä JetPeel-hoitopäiden, JetPro-laitteen ja JetCare-hoito-ohjeiden kanssa. JetCare Youth – ennakoivaa ihonhoitoa, joka varmistaa ihosi säteilevän ja nuorekkaan ilmeen pitkään! "
   ],
   "products": [
     {"slug": "dead-sea-hydro",
       "name": "Dead Sea Hydro",
-      "title": "Pääasialliset aktiiviset ainesosat",
+      "title": "Vaikuttavat aineet",
       "subtitle": "Dunaliella® HGL",
       "subtitle1": "Luomu Aloe Vera",
       "description": [
-        "Dead Sea Hydro – Valmistava lymfahieronta ihon hoitovalmisteluun. Dead Sea Hydro on hoitoa edeltävä lymfahieronta, joka valmistelee ihon vastaanottamaan myöhemmissä hoitovaiheissa käytettävät ravinteet. Tämä runsas mineraalipohjainen ratkaisu sisältää Kuolleenmeren mineraaleja, jotka puhdistavat ja auttavat poistamaan epäpuhtauksia iholta."
+        "Dead Sea Hydro – Hoitoliuos lymfahierontaan valmistelee ihon seuraaviin vaiheisiin. Dead Sea Hydro on hoitoa edeltävä lymfahieronta, joka valmistelee ihon vastaanottamaan myöhemmissä hoitovaiheissa käytettävät ravinteet. Tämä runsas mineraalipohjainen ratkaisu sisältää Kuolleenmeren mineraaleja, jotka puhdistavat ja auttavat poistamaan epäpuhtauksia iholta."
       ],
         "text": [
           "✔ Auttaa hidastamaan ihosolujen vanhenemista.",
@@ -24,17 +24,17 @@
           "✔ Vahva antioksidanttinen emollientti, joka pehmentää ja rauhoittaa ihoa nopeasti.",
           "✔ Tarjoaa antimikrobisen suojan, joka auttaa pitämään ihon terveenä ja tasapainoisena."
         ]
-    }, 
+    },
     {"slug": "dead-sea-exfoliation",
       "name": "Dead Sea Exfoliation",
-      "title": "Pääasialliset aktiiviset ainesosat",
+      "title": "Vaikuttavat aineet",
       "subtitle": "Dunaliella® HGL",
       "subtitle1": "Allantoiini",
       "subtitle2": "Maitohappo (Lactic Acid)",
       "subtitle3": "Luomu Aloe Vera",
-      "subtitle4": "D-Panthenol 75% (B5-vitamiini)",
+      "subtitle4": "D-Pantenoli 75% (B5-vitamiini)",
       "description": [
-        "Dead Sea Exfoliation – Hellävarainen kuorinta ja kosteuttava vaikutus. Dead Sea Exfoliation tarjoaa tehokkaan mutta hellävaraisen kuorinnan, joka poistaa epäpuhtaudet ja kuolleet ihosolut samalla kosteuttaen ihoa. Kuorivan vaikutuksen lisäksi tämä ainutlaatuinen koostumus auttaa parantamaan ihon rakennetta ja valmistaa sen vastaanottamaan hoidon seuraavat vaiheet."
+        "Dead Sea Exfoliation – Hellävarainen kuorinta, kosteuttava vaikutus. Dead Sea Exfoliation tarjoaa tehokkaan, mutta hellävaraisen kuorinnan, joka poistaa epäpuhtaudet ja kuolleet ihosolut samalla kosteuttaen ihoa. Kuorivan vaikutuksen lisäksi tämä ainutlaatuinen koostumus auttaa parantamaan ihon rakennetta ja valmistaa sen vastaanottamaan hoidon seuraavat vaiheet."
       ],
         "text": [
           "Auttaa hidastamaan ihosolujen vanhenemista.",
@@ -57,7 +57,7 @@
     },
     {"slug": "dead-sea-nourishment",
       "name": "Dead Sea Nourishment",
-      "title": "Pääasialliset aktiiviset ainesosat",
+      "title": "Vaikuttavat aineet",
       "subtitle": "Magnesiumsulfaatti",
       "subtitle1": "Dunaliella® HGL",
       "subtitle2": "Sepitonic™ M3",
@@ -74,7 +74,7 @@
         ],
         "text2": [
           "Patentoitu ainesosa, joka auttaa torjumaan solujen väsymystä ja lisää hapen saatavuutta ihossa.",
-          "Suojaa ihoa glykosylaatiolta, joka voi nopeuttaa ikääntymisen merkkejä.",
+          "Suojaa ihoa glykaatiolta, joka voi nopeuttaa ikääntymisen merkkejä.",
           "Toimii aktiivisten aineiden kuljettajana, vahvistaen muiden ikääntymistä estävien ainesosien vaikutusta ja parantaen ihon vastustuskykyä ympäristön haittavaikutuksia vastaan."
         ],
         "text3": [

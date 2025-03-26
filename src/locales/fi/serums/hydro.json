@@ -3,7 +3,7 @@
   "name": "JetCare™ Hydro",
   "description": [
     "JetCare Hydro on vesipohjainen koostumus, joka on suunniteltu käytettäväksi ennen kuorinta- ja infuusiovaiheita JetPeel-hoidoissa.",
-    "Hellävarainen mutta tehokas lymfahieronta JetCare Hydro -liuoksella puhdistaa ihon, valmistaen sen ottamaan vastaan aktiiviset ainesosat ja ravinteet seuraavissa hoitovaiheissa: kuorinta, infuusio ja tehostava hoito."
+    "Hellävarainen, mutta tehokas lymfahieronta JetCare Hydro -liuoksella puhdistaa ihon, valmistaen sen ottamaan vastaan aktiiviset ainesosat ja ravinteet seuraavissa hoitovaiheissa: kuorinta, infuusio ja booster."
   ],
   "description1": [
     "JetCare Hydro sisältää: erittäin mietoa natriumkloridiliuosta, joka puhdistaa ja kosteuttaa, luomu aloe veraa, joka rauhoittaa ja tasapainottaa ihoa, korkean pitoisuuden hyaluronihappoa, joka tukee ihon kosteustasapainoa ja elastisuutta.",
@@ -13,7 +13,7 @@
     {
       "slug": "jetCare-hydro",
       "name": "JetCare Hydro",
-      "title": "Pääasialliset aktiiviset ainesosat",
+      "title": "Vaikuttavat aineet",
       "subtitle": "Luomu Aloe Vera",
       "subtitle1": "Hyaluronihappo",
       "description": [
@@ -29,3 +29,4 @@
     }
   ]
 }
+

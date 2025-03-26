@@ -35,7 +35,7 @@
     "text": {
       "text1": "Esteetilise ravi tehnoloogia, mis põhineb pihustus-surve energial ja on välja töötatud eranditult TavTechile, on globaalne läbimurre aktiivsete koostisosade transdermaalses kohaletoimetamises. See tehnoloogia pakub uuenduslikku lahendust tavalistele nahaprobleemidele ja esteetilise ravi vajadustele.",
       "text2": "Inspireerituna lennundustehnoloogiast, viib JetPeel mitteinvasiivsed, kuid tõhusad nahahooldusmeetodid uuele tasemele – kombineerides tipptasemel kliinilisi tulemusi maksimaalse kliendimugavusega.",
-      "text3": "<0>JetPeel™ - seade</0> toodab suruõhku, mis kiirendatakse ja muudetakse peeneks pihustatud uduks. Need mikro-pihustid, mille kiirus ületab 200 m/s, suunatakse nahale, kasutades patenteeritud JetPeeli käsiosa. See võlukepi sarnane instrument on saadaval erinevates suurustes ja kohandatud versioonides erinevateks ravideks. Ravi ajal pakuvad käsiosa peened pihustatud vedelikuvoolud õrna lümfimassaaži, millele järgneb koorimine ja naha pinnakihi kerge venitamine, võimaldades aktiivsetel koostisosadel tungida sügavamatesse nahakihtidesse.",
+      "text3": "<0>JetPeel™ - seade</0> toodab suruõhku, mis kiirendatakse ja muudetakse peeneks pihustatud uduks. Need mikro-pihustid, mille kiirus ületab 200 m/s, suunatakse nahale, kasutades patenteeritud JetPeeli käsiosa.",
       "text4": "See võlukepi sarnane instrument on saadaval erinevates suurustes ja kohandatud versioonides erinevateks ravideks. Ravi ajal pakuvad käsiosa peened pihustatud vedelikuvoolud õrna lümfimassaaži, millele järgneb koorimine ja naha pinnakihi kerge venitamine, võimaldades aktiivsetel koostisosadel tungida sügavamatesse nahakihtidesse.",
       "text5": "Ilma nõelte, valu või nahakahjustusteta loob JetPeel mikroskoopilisi kanaleid, mille kaudu saavad raviaineid toimida naha sügavamates kihtides. Koos spetsiaalsete JetCare toodetega, mis on välja töötatud erinevate nahaprobleemide jaoks, pakub JetPeeli ravi toitvaid mikrotilkasid, mis tungivad naha alla – pakkudes nähtavaid tulemusi ja pikaajalisi efekte."
     },
@@ -118,6 +118,7 @@
   },
   "notFound": {
     "title": "404 – Lehte ei leitud | JetPeel",
+    "metaDescription": "Error page - taotletud aadressi ei leitud.",
     "heading": "404 – Lehte ei leitud",
     "message": "Kahjuks ei leidnud me otsitud lehte. Saate naasta avalehele või tutvuda meie teiste teenustega.",
     "backToHome": "Tagasi avalehele"

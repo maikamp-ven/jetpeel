@@ -19,7 +19,7 @@ const Product = ({slug, img, link}) => {
           </div> 
         </div>
         <div className="product__img-wrapper">
-        <img src={img} alt={tDevices(`products.${slug}.title`)} className="product__img" />
+        <img src={img} alt={tDevices(`products.${slug}.title`)} className="product__img" loading="lazy"/>
         </div>
       </Link>
     </div>

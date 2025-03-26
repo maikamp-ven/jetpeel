@@ -1,14 +1,14 @@
-import { Helmet } from "react-helmet-async";
+import { Helmet } from 'react-helmet-async';
 import Header from './../components/header/Header';
 import Step from '../components/stepCard/StepCard';
 import Button from '../components/button/Button';
-import videoSrc from "../img/video/JetPeel Animation.mp4";
-import gifImage1 from "../img/hero/Gif-2-infusion-2024-1.gif";
-import gifImage2 from "../img/hero/Gif-3-exfoliation-2024.gif";
-import { useTranslation, Trans } from "react-i18next";
+import videoSrc from '../img/video/JetPeel Animation.mp4';
+import gifImage1 from '../img/hero/Gif-2-infusion-2024-1.gif';
+import gifImage2 from '../img/hero/Gif-3-exfoliation-2024.gif';
+import { useTranslation, Trans } from 'react-i18next';
 
 const Home = () => {
-  const { t } = useTranslation(["home"]);
+  const { t } = useTranslation(['home']);
 
   return (
     <>
@@ -16,7 +16,44 @@ const Home = () => {
         <title>{t('helmet.title')}</title>
         <meta name="description" content={t('helmet.description')} />
         <meta name="keywords" content={t('helmet.keywords')} />
+        <script type="application/ld+json">
+          {JSON.stringify({
+            '@context': 'https://schema.org',
+            '@type': 'WebSite',
+            name: "JetPeel Finland",
+            url: 'https://jetpeel.fi',
+            inLanguage: ['fi', 'en', 'et'],
+            publisher: {
+              '@type': 'Organization',
+              name: 'IPB Finland',
+              image: "https://images/bigProduct1.png",
+              url: 'https://jetpeel.fi',
+              logo: {
+                '@type': 'ImageObject',
+                url: 'https://jetpeel.fi/images/logo-dark.webp',
+              },
+              contactPoint: {
+                '@type': 'ContactPoint',
+                email: 'infinite@ipb.fi',
+                contactType: 'Customer Service',
+                availableLanguage: ['fi', 'en', 'ru'],
+              },
+              telephone: '+358 45 229 1929',
+              address: {
+                '@type': 'PostalAddress',
+                streetAddress: 'Kauppiaankatu 2',
+                addressLocality: 'Helsinki',
+                addressCountry: 'FI',
+              },
+              sameAs: [
+                'https://www.instagram.com/jetpeel_finland/',
+                'https://www.facebook.com/profile.php?id=61572906757644',
+              ],
+            },
+          })}
+        </script>
       </Helmet>
+
       <Header
         title={t('header.title')}
         subtitle={t('header.subtitle')}
@@ -28,11 +65,18 @@ const Home = () => {
         <section className="video section">
           <div className="container">
             <h2 className="title-2">
-              <span className='accent'>JetPeel - </span>
+              <span className="accent">JetPeel - </span>
               {t('video.title')}
             </h2>
-            <figure className='technology__video-container'>
-              <video autoPlay loop muted playsInline className='video__file'>
+            <figure className="technology__video-container">
+              <video
+                autoPlay
+                loop
+                muted
+                playsInline
+                className="video__file"
+                preload="none"
+              >
                 <source src={videoSrc} type="video/mp4" />
                 {t('video.fallback')}
               </video>
@@ -48,41 +92,49 @@ const Home = () => {
               </h2>
               <div className="technology__content">
                 <div className="technology__text-wrapper">
-                  <p className="technology__text">{t('technology.text.text1')}</p>
-                  <p className="technology__text">{t('technology.text.text2')}</p>
+                  <p className="technology__text">
+                    {t('technology.text.text1')}
+                  </p>
+                  <p className="technology__text">
+                    {t('technology.text.text2')}
+                  </p>
                   <p className="technology__text">
                     <Trans i18nKey="technology.text.text3">
                       <a href="/jetPeel">JetPeel™ - laite</a>
                     </Trans>
                   </p>
-                  <p className="technology__text">{t('technology.text.text4')}</p>
-                  <p className="technology__text">{t('technology.text.text5')}</p>
+                  <p className="technology__text">
+                    {t('technology.text.text4')}
+                  </p>
+                  <p className="technology__text">
+                    {t('technology.text.text5')}
+                  </p>
                   <div className="technology__buttons">
-                    <Button 
-                      link="/contact"
+                    <Button
+                      link="/contacts"
                       label={t('technology.buttons.contact')}
                       aria-label="Ota yhteyttä JetPeel-asiantuntijaan"
                     />
                     <Button
                       label={t('technology.buttons.readMore')}
-                      link="/contact"
+                      link="/jetPeel"
                       aria-label="Lue lisää JetPeel-teknologiasta"
                       rel="nofollow"
                     />
                   </div>
                 </div>
                 <div className="technology__gif">
-                  <img 
-                    src={gifImage1} 
-                    alt={t('technology.gifs.gif1Alt')} 
-                    className="gif-style" 
-                    loading="lazy" 
+                  <img
+                    src={gifImage1}
+                    alt={t('technology.gifs.gif1Alt')}
+                    className="gif-style"
+                    loading="lazy"
                   />
-                  <img 
-                    src={gifImage2} 
-                    alt={t('technology.gifs.gif2Alt')} 
-                    className="gif-style" 
-                    loading="lazy" 
+                  <img
+                    src={gifImage2}
+                    alt={t('technology.gifs.gif2Alt')}
+                    className="gif-style"
+                    loading="lazy"
                   />
                 </div>
               </div>
@@ -90,7 +142,7 @@ const Home = () => {
 
             <div className="technology__cards">
               <div className="technology__cards-inner">
-              {t("steps", { returnObjects: true }).map((component, index) => (
+                {t('steps', { returnObjects: true }).map((component, index) => (
                   <Step
                     key={index}
                     number={component.number}
@@ -111,13 +163,19 @@ const Home = () => {
                   <span className="accent">JetPeel - </span>
                   {t('advantages.title')}
                 </h2>
-                <p className="advantages__subtitle">{t('advantages.subtitle')}</p>
+                <p className="advantages__subtitle">
+                  {t('advantages.subtitle')}
+                </p>
                 <ul className="advantages__list">
-                  {(Array.isArray(t('advantages.list', { returnObjects: true })) ? t('advantages.list', { returnObjects: true }) : []).map((item, index) => (
-                  <li key={index} className="advantage__item">{item}</li>
-                 ))}
+                  {(Array.isArray(t('advantages.list', { returnObjects: true }))
+                    ? t('advantages.list', { returnObjects: true })
+                    : []
+                  ).map((item, index) => (
+                    <li key={index} className="advantage__item">
+                      {item}
+                    </li>
+                  ))}
                 </ul>
-
               </div>
             </div>
           </div>
@@ -128,7 +186,6 @@ const Home = () => {
 };
 
 export default Home;
-
 
 // import { Helmet } from "react-helmet-async";
 // import Header from './../components/header/Header';
@@ -147,7 +204,7 @@ export default Home;
 //         <meta name="description" content="JetPeel by TavTech mullistaa ihonhoidon suihkupaineratkaisulla, joka on saanut inspiraationsa ilmailuteknologiasta." />
 //         <meta name="keywords" content="JetPeel, ihohoito, esteettinen hoito, kauneus, ihonhoito, TavTech" />
 //       </Helmet>
-//       <Header  
+//       <Header
 //               title="JetPeel – Hoitoa, jonka iho ymmärtää!"
 //               subtitle="Ole paras versio itsestäsi"
 //               text1="Tervetuloa JetPeelin maailmaan! JetPeel™ by TavTech mullistaa ihonhoidon patentoimallaan suihkupaineratkaisulla, joka on saanut inspiraationsa ilmailuteknologiasta. Tämä ei-invasiivinen, neulaton hoito käyttää nopeita mikro-tippoja ihon puhdistamiseen, kuorintaan ja ravinteiden imeyttämiseen, tarjoten välittömiä ja kivuttomia tuloksia."
@@ -177,7 +234,7 @@ export default Home;
 //                 <div className='technology__content'>
 //                   <div className='technology__text-wrapper'>
 //                   <p className='technology__text'>
-//                 Vain TavTechille kehitetty JetPeel-suihkupaineenergiaan perustuva esteettinen hoitoteknologia on maailmanlaajuinen läpimurto transdermaaliseen vaikuttavien aineiden imeyttämiseen. Tämä teknologia tarjoaa innovatiivisen ratkaisun yleisiin iho-ongelmiin ja esteettisiin hoitotarpeisiin. 
+//                 Vain TavTechille kehitetty JetPeel-suihkupaineenergiaan perustuva esteettinen hoitoteknologia on maailmanlaajuinen läpimurto transdermaaliseen vaikuttavien aineiden imeyttämiseen. Tämä teknologia tarjoaa innovatiivisen ratkaisun yleisiin iho-ongelmiin ja esteettisiin hoitotarpeisiin.
 //                   </p>
 //                   <p className='technology__text'>Lentoteknologiasta inspiroitunut JetPeel vie ei-invasiiviset, mutta tehokkaat ihonhoitomenetelmät uudelle tasolle – yhdistäen huipputason kliiniset tulokset ja maksimaalisen asiakasmukavuuden.</p>
 //                   <p className='technology__text'>
@@ -189,7 +246,7 @@ export default Home;
 //                   </p>
 //                   <div className='technology__buttons'>
 //                 <Button link="/contact"
-//                       label="Ota yhteyttä" 
+//                       label="Ota yhteyttä"
 //                       aria-label="Ota yhteyttä JetPeel-asiantuntijaan"
 //                       />
 //                 <Button
@@ -202,7 +259,7 @@ export default Home;
 //                   </div>
 //                   <div className="technology__gif">
 //                   <img src={gifImage1} alt="JetPeel infuusio" className="gif-style" loading="lazy" />
-//                   <img src={gifImage2} alt="JetPeel exfoliaatio" className="gif-style" loading="lazy" />  
+//                   <img src={gifImage2} alt="JetPeel exfoliaatio" className="gif-style" loading="lazy" />
 //                 </div>
 //                 </div>
 //             </div>
@@ -211,7 +268,7 @@ export default Home;
 
 //                 {steps.map((step, index) => (
 //                   <Step
-//                         key={index} 
+//                         key={index}
 //                         number={step.number}
 //                         title_card={step.title_card}
 //                         capacity_1={step.capacity_1}

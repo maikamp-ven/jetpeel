@@ -1,0 +1,23 @@
+{
+  "message": "Jetpeel käyttää omia evästeitään sekä kolmansien osapuolten evästeitä. Evästeitä käytetään sivustomme käyttäjäkokemuksen parantamiseen ja muistamaan kävijän mieltymykset, esimerkiksi kieli. Evästeitä käytetään myös verkkosivujen liikenteen analysoimiseen ja mainosten kohdentamiseen omilla verkkosivuillamme ja kolmansien osapuolten verkkosivuilla. Pyydämme suostumuksesi tällaisten evästeiden käyttöön lukuun ottamatta evästeitä, jotka ovat välttämättömiä sivustomme toiminnan kannalta. Kun klikkaat ”Asetukset” alla, pääset määrittelemään, mitkä evästeet hyväksyt. Kun klikkaat ”Hyväksy kaikki evästeet”, hyväksyt kaikki Jetpeel:n ja kolmansien osapuolten evästeet.",
+  "accept_all": "Hyväksy kaikki",
+  "reject_all": "Hylkää kaikki",
+  "settings_title": "Evästeasetukset",
+  "description": "Jetpeel käyttää omia evästeitään sekä kolmansien osapuolten evästeitä. Evästeitä käytetään sivustomme käyttäjäkokemuksen parantamiseen ja muistamaan kävijän mieltymykset, esimerkiksi kieli. Evästeitä käytetään myös verkkosivujen liikenteen analysoimiseen ja mainosten kohdentamiseen omilla verkkosivuillamme ja kolmansien osapuolten verkkosivuilla. Pyydämme suostumuksesi evästeiden käyttöön, lukuun ottamatta niitä, jotka ovat teknisesti välttämättömiä sivuston toiminnalle.",
+  "show_more": "Näytä lisää",
+  "show_less": "Näytä vähemmän",
+  "functionality": "Personointi",
+  "functionality_description_short": "Muistaa mieltymyksesi.Tallentaa tiedon siitä, onko käyttäjä hyväksynyt evästeet. Ei tallenna henkilötietoja.",
+  "functionality_description": "Näitä evästeitä tarvitaan sivuston perustoimintojen takaamiseksi, kuten lomakkeiden tai kieliasetusten tallentamiseen. Näitä ei voida poistaa käytöstä.",
+  "analytics_description_short": "Tallentaa käyttäjän suostumuksen analytiikkaevästeiden käyttöön.",
+  "analytics_description": "Auttaa meitä parantamaan sivustoa keräämällä anonyymiä dataa. Auttaa ymmärtämään, miten kävijät ovat vuorovaikutuksessa verkkosivuston kanssa. Näillä evästeillä voidaan kerätä tietoja kävijämääristä, poistumisprosenteista ja liikenteen lähteistä.",
+  "ads": "Mainosevästeet",
+  "ads_description_short": "Tallentaa käyttäjän suostumuksen mainosevästeiden käyttöön.",
+  "ads_description": "Käytetään kohdistettujen mainosten ja markkinointikampanjoiden näyttämiseen. Nämä evästeet seuraavat käyttäjiä eri verkkosivuilla ja keräävät tietoja personoitujen mainosten näyttämiseksi.",
+  "personalization": "Suorituskyky",
+  "personalization_description_short": " Tallentavat käyttäjän valitsemat selkeät mieltymykset sekä automaattisesti kerätyt epäsuorat tiedot.",
+  "personalization_description": "Evästeet, jotka tallentavat käyttäjän mieltymyksiä ja asetuksia sisällön, käyttöliittymän tai mainonnan yksilöllistä mukauttamista varten. Näitä käytetään sisällön personointiin, kohdennettuun mainontaan ja toiminnallisiin asetuksiin.",
+  "cancel": "Takaisin",
+  "save_settings": "Tallenna asetukset",
+  "change_cookie_preferences": "Hallinnoi suostumusta"
+}

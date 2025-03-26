@@ -23,7 +23,7 @@ const Footer = () => {
     document.documentElement.setAttribute('data-theme', darkMode);
   }, [darkMode]);
 
-  // Schema.org JSON-LD для SEO
+  
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",

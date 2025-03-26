@@ -48,7 +48,7 @@ const SerumsPage = () => {
         <meta property="og:url" content="https://jetpeel.fi/serums" />
         <meta
           property="og:image"
-          content="https://jetpeel.fi/img/serums-banner.jpg"
+          content="https://jetpeel.fi/images/JetCare_banner_all_products.png"
         />
 
         <script type="application/ld+json">
@@ -65,7 +65,7 @@ const SerumsPage = () => {
 
       {/* Баннер */}
       <section className="header__banner-wrapper">
-        <img className="header__banner" src={banner} alt={t('banner_alt')} />
+        <img className="header__banner" src={banner} alt={t('banner_alt')} loading="lazy"  />
       </section>
 
       {/* Описание серумов */}
@@ -110,12 +110,12 @@ const SerumsPage = () => {
               </div>
             </div>
             <figure className="hero__img">
-              <img src={imgHero2} alt={t('indications.image_alt')} />
+              <img src={imgHero2} alt={t('indications.image_alt')} loading="lazy"  />
             </figure>
           </div>
 
           <figure className="hero__sequence-img">
-            <img src={imgHero3} alt={t('sequence.image_alt')} />
+            <img src={imgHero3} alt={t('sequence.image_alt')} loading="lazy"  />
           </figure>
         </div>
       </section>

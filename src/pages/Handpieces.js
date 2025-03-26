@@ -1,5 +1,5 @@
 import React from 'react';
-import { Helmet } from "react-helmet";
+import { Helmet } from "react-helmet-async";
 import { useTranslation } from "react-i18next";
 import banner from '../img/handpieces/Handpiece-banner.png';
 import Button from '../components/button/Button'
@@ -57,9 +57,9 @@ const Handpieces = () => {
   const schemaData = {
     "@context": "https://schema.org/",
     "@type": "Product",
-    "name": "JetPeel Käsikappaleet",
-    "image": "https://jetpeel.fi/path-to-image.jpg",
-    "description": "JetPeel™-käsikappale tarjoaa turvallisen ja tehokkaan hydroporaatiohoidon.",
+    "name": "JetPeel™ - patentoitu hoitopää",
+    "image": "https://images/JetPeel-Unique-Epidermal-Effects.png",
+    "description": "JetPeel™- hoitopää tarjoaa turvallisen ja tehokkaan hydroporaatiohoidon.",
     "brand": {
     "@type": "Brand",
     "name": "JetPeel"

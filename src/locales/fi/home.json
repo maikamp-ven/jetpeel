@@ -35,7 +35,7 @@
     "text": {
       "text1": "Yksinoikeudella TavTechille kehitetty JetPeel-suihkupaine-energiaan perustuva esteettinen hoitoteknologia on maailmanlaajuinen läpimurto transdermaaliseen vaikuttavien aineiden imeyttämiseen. Tämä teknologia tarjoaa innovatiivisen ratkaisun yleisiin iho-ongelmiin ja esteettisiin hoitotarpeisiin.",
       "text2": "Ilmailuteknologiasta inspiroitunut JetPeel vie ei-invasiiviset, mutta tehokkaat ihonhoitomenetelmät uudelle tasolle – yhdistäen huipputason kliiniset tulokset ja maksimaalisen asiakasmukavuuden.",
-      "text3": "<0>JetPeel™ - laite</0> tuottaa paineistettua ilmaa, joka kiihdytetään ja muutetaan hienojakoiseksi suihkuksi. Nämä mikrosuihkut, joiden nopeus ylittää 200 m/s, kohdistetaan iholle patentoidulla JetPeel-hoitopäällä. Tämä sauvamainen instrumentti on saatavilla eri kokoisina ja eri hoitoihin räätälöityinä versioina. Hoidon aikana hoitopään hienojakoiset nestevirrat tarjoavat hellävaraisen lymfahieronnan, jonka jälkeen seuraa kuorinta ja ihon pintakerroksen kevyt venytys, mahdollistaen vaikuttavien aineiden imeytymisen syvempiin ihokerroksiin.",
+      "text3": "<0>JetPeel™ - laite</0> tuottaa paineistettua ilmaa, joka kiihdytetään ja muutetaan hienojakoiseksi suihkuksi. Nämä mikrosuihkut, joiden nopeus ylittää 200 m/s, kohdistetaan iholle patentoidulla JetPeel-hoitopäällä.",
       "text4": "Tämä sauvamainen instrumentti on saatavilla eri kokoisina ja eri hoitoihin räätälöityinä versioina. Hoidon aikana hoitopään hienojakoiset nestevirrat tarjoavat hellävaraisen lymfahieronnan, kuorinnan ja ihon pintakerroksen kevyen venytyksen, mahdollistaen vaikuttavien aineiden imeytymisen syvempiin ihokerroksiin.",
       "text5": "Ilman neuloja, kipua tai ihon vaurioitumista JetPeel luo mikroskooppisia kanavia, joiden kautta hoitoaineet pääsevät vaikuttamaan ihon syvemmissä kerroksissa. Yhdistettynä erilaisiin iho-ongelmiin kehitettyihin JetCare-hoitoliuoksiin, JetPeel-hoito tarjoaa ravitsevia mikropisaroita, jotka imeytyvät ihon alle – tuoden näkyviä tuloksia ja pitkäkestoista vaikutusta."
     },
@@ -44,8 +44,8 @@
       "readMore": "Lue lisää"
     },
     "gifs": {
-      "gif1Alt": "JetPeel-infuusio",
-      "gif2Alt": "JetPeel-kuorinta"
+      "gif1Alt": "JetPeel-infuusio-teknologia",
+      "gif2Alt": "JetPeel-kuorinta-teknologia"
     }
   },
   "steps": [
@@ -124,6 +124,7 @@
   },
   "notFound": {
     "title": "404 - Sivua ei löytynyt | JetPeel",
+    "metaDescription": "Virhesivu – pyytämääsi osoitetta ei löytynyt.",
     "heading": "404 - Sivua ei löytynyt",
     "message": "Valitettavasti etsimääsi sivua ei löydy. Voit palata etusivulle tai tutustua muihin palveluihimme.",
     "backToHome": "Palaa etusivulle"

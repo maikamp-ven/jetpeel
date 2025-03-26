@@ -2,27 +2,27 @@
   "slug": "anti-aging",
   "name": "JetCare™ Anti-Aging",
   "description": [
-    "JetPeel™ Anti-Aging Care on eksklusiivinen, päivitetty hoitolinja, joka tarjoaa edistyneitä, ikääntymistä ehkäiseviä koostumuksia erityisesti kypsälle iholle.",
-    "Anti-Aging Solution -ratkaisu taistelee juonteiden, ihon veltostumisen ja sameuden merkkejä vastaan.",
-    "Tämä ainutlaatuinen hoitokokoelma hyödyntää hyaluronihapon siloittavia ja kiinteyttäviä ominaisuuksia, yhdistettynä peptideihin ja tehokkaisiin luonnollisiin uutteisiin, jotka elvyttävät ihon luonnollista hehkua.",
-    "Anti-Aging Care -hoitosarja sisältää:",
+    "JetPeel™ Anti-Aging Care on eksklusiivinen, päivitetty hoitolinja, joka tarjoaa edistyneitä, ikääntymistä ehkäiseviä koostumuksia erityisesti ikääntyneelle iholle.",
+    "Anti-Aging Solution -hoitoliuos taistelee juonteiden, ihon veltostumisen ja sameuden merkkejä vastaan.",
+    "Tämä ainutlaatuinen hoitolinja hyödyntää hyaluronihapon siloittavia ja kiinteyttäviä ominaisuuksia, yhdistettynä peptideihin ja tehokkaisiin luonnollisiin uutteisiin, jotka elvyttävät ihon luonnollista hehkua.",
+    "Anti-Aging Care -hoitolinja sisältää:",
     "Wide Range Hyaluronic Acid – monimolekyylinen hyaluronihapposeos, joka tunkeutuu eri ihokerroksiin ja hoitaa juonteita syvältä pinnalle asti.",
-    "Witch Hazel & Peptides Solution – taikapähkinää ja proteiinia vahvistavia peptidejä sisältävä hoitoseos, joka kiinteyttää ja tuo iholle hehkua.",
-    "Peptide Complex Solution – täydellinen ratkaisu ikääntymisen ja kimmoisuuden menetyksen merkkejä vastaan, auttaen palauttamaan ihon kiinteyden aminohapporikkaiden peptidien voimalla.",
+    "Witch Hazel & Peptides Solution – kirkasta ja kiinteytä ihoa, sisältää runsaasti supistavaa taikapähkinää ja proteiineja vahvistavia peptidejä kiinteyttävän vaikutuksen aikaansaamiseksi.",
+    "Peptide Complex Solution – täydellinen ratkaisu ikääntymisen ja kimmoisuuden menetyksen merkkejä vastaan, auttaa palauttamaan ihon kiinteyden aminohapoilla rikastettujen peptidien voimalla.",
     "Koe JetPeel™ Anti-Aging Care -hoidon teho ja anna ihosi näyttää nuorekkaalta, kimmoisalta ja elinvoimaiselta!"
   ],
   "products": [
     { "slug": "wide-range-hyaluronic-acid",
       "name": "JetCare™ Wide Range Hyaluronic Acid",
-      "label": "Palauttaa tasaisen ihonsävyn ja luonnollisen hehkun",
-      "title": "Pääasialliset aktiiviset ainesosat",
-      "subtitle": "Hyaluronihappo – Viisi molekyylipainoa eri vaikutuksilla",
+      "label": "Elvyttävä vaikutus kiinteyttää ja uudistaa ihoa",
+      "title": "Vaikuttavat aineet",
+      "subtitle": "Hyaluronihappo – Viisi molekyylikokoa eri vaikutuksilla",
       "subtitle1": "Regu-age® – Peptidien ja proteiinien tehokas yhdistelmä",
       "description": [
-        "Laajakirjoinen hyaluronihappo – Silottava ja kiinteyttävä vaikutus. Tämä ainutlaatuinen monimolekyylinen hyaluronihappokompleksi yhdistää viisi eri molekyylipainoa, mahdollistaen samanaikaisen imeytymisen eri ihokerroksiin. Yhdistettynä valikoituihin peptideihin tämä koostumus on erittäin monikäyttöinen ja tehokas perusainesosa JetCare-hoitosarjassa.",
-        "Laajakirjoinen hyaluronihappokoostumus tuottaa näkyviä tuloksia. Hyaluronihapon parhaat vaikutukset saavutetaan yhdistämällä useita eri molekyylipainoja, jotka vaikuttavat eri ihon kerroksissa:",
-        "✔ Matalan ja keskitason molekyylipainoinen HA imeytyy syvempiin ihokerroksiin, tarjoten pitkäkestoista kosteutusta.",
-        "✔ Korkean molekyylipainoinen HA jää ihon pinnalle, kosteuttaen välittömästi ja parantaen ihon ulkonäköä.",
+        "Laajakirjoinen hyaluronihappo – Silottava ja kiinteyttävä vaikutus. Tämä ainutlaatuinen monimolekyylinen hyaluronihappokompleksi yhdistää viisi eri molekyylikokoa, mahdollistaen samanaikaisen imeytymisen eri ihokerroksiin. Yhdistettynä valikoituihin peptideihin tämä koostumus on erittäin monikäyttöinen ja tehokas ainesosa JetCare-hoitolinjassa.",
+        "Laajakirjoinen hyaluronihappokoostumus tuottaa näkyviä tuloksia. Hyaluronihapon parhaat vaikutukset saavutetaan yhdistämällä useita eri molekyylikokoja, jotka vaikuttavat ihon eri kerroksissa:",
+        "✔ Matalan ja keskitason molekyylikoon HA imeytyy syvempiin ihokerroksiin, tarjoten pitkäkestoista kosteutusta.",
+        "✔ Korkean molekyylikoon HA jää ihon pinnalle, kosteuttaen välittömästi ja parantaen ihon ulkonäköä.",
         "Tämä ainutlaatuinen viiden eri molekyylipainon yhdistelmä takaa optimaaliset hoitotulokset."
       ],
       "list": [
@@ -38,18 +38,18 @@
     },
     { "slug": "witch-hazel-peptides",
       "name": "Witch Hazel & Peptides",
-      "label": "Elvyttävä vaikutus kiinteyttää ja uudistaa ihoa",
-      "title": "Pääasialliset aktiiviset ainesosat",
-      "subtitle": "Noitapähkinäuute",
+      "label": "Palauttaa tasaisen ihon sävyn ja luonnollisen hehkun",
+      "title": "Vaikuttavat aineet",
+      "subtitle": "Taikapähkinäuute",
       "subtitle1": "Regu-age®",
       "subtitle2": "Replexium®",
       "subtitle3": "Betaine",
       "description": [
-        "Noitapähkinä & Peptidit – Tasainen ihonsävy ja säteilevä hehku. Tämä tehokas koostumus puhdistaa ihoa, tasoittaa pinnan epätasaisuuksia ja luo yhtenäisen, nuorekkaan hehkun. Se sisältää runsaasti noitapähkinäuutetta, joka tunnetaan sen voimakkaista supistavista ja rauhoittavista ominaisuuksista, sekä proteiineja vahvistavia peptidejä, joilla on kiinteyttävä ja ikääntymistä ehkäisevä vaikutus.",
-        "Anti-Aging Care -sarjaan kuuluva Noitapähkinä & Peptidit on täydellinen ratkaisu ihon puhdistamiseen ja heleyttämiseen. Sen valikoidut peptidit vahvistavat ihon kiinteyttä ja elastisuutta, tehden siitä erinomaisen valinnan ikääntymistä ehkäiseviin hoitoihin."
+        "Taikapähkinä & Peptidit – Tasainen ihonsävy ja säteilevä hehku. Tämä tehokas koostumus puhdistaa ihoa, tasoittaa pinnan epätasaisuuksia ja luo yhtenäisen, nuorekkaan hehkun. Se sisältää runsaasti taikapähkinäuutetta, joka tunnetaan sen voimakkaista supistavista ja rauhoittavista ominaisuuksista, sekä proteiineja vahvistavia peptidejä, joilla on kiinteyttävä ja ikääntymistä ehkäisevä vaikutus.",
+        "Anti-Aging Care -linjaan kuuluva Taikapähkinä & Peptidit on täydellinen ratkaisu ihon puhdistamiseen ja heleyttämiseen. Sen valikoidut peptidit vahvistavat ihon kiinteyttä ja elastisuutta, tehden siitä erinomaisen valinnan ikääntymistä ehkäiseviin hoitoihin."
       ],
       "text": [
-        "Tunnettu tehokkaana supistavana aineena, joka sopii kaikille ihotyypeille. Auttaa vähentämään kutinaa ja punoitusta, luoden tasaisen ja säteilevän ihon sävyn. Tämä ikääntymistä ehkäisevä koostumus sisältää korkean pitoisuuden noitapähkinäuutetta, joka tarjoaa voimakkaan rauhoittavan vaikutuksen ja täydentää ainutlaatuista peptidikompleksia."
+        "Tunnettu tehokkaana supistavana aineena, joka sopii kaikille ihotyypeille. Auttaa vähentämään kutinaa ja punoitusta, luoden tasaisen ja säteilevän ihon sävyn. Tämä ikääntymistä ehkäisevä koostumus sisältää korkean pitoisuuden taikapähkinäuutetta, joka tarjoaa voimakkaan rauhoittavan vaikutuksen ja täydentää ainutlaatuista peptidikompleksia."
       ],
       "text1": [
         "Tämä patentoitu peptidien ja proteiinien yhdistelmä tarjoaa nopean ja tehokkaan anti-aging-vaikutuksen. Puhdistetut soija- ja riisipeptidit sekä bioteknologisesti tuotettu hiivaproteiini auttavat parantamaan ihon sävyä ja heleyttä."
@@ -63,15 +63,15 @@
     },
     { "slug": "peptide-complex",
       "name": "Peptide Complex",
-      "label": "Antaa iholle nuorekasta elinvoimaa ja joustavuutta",
+      "label": "Elvyttävä vaikutus kiinteyttää ja uudistaa ihoa",
       "title": "Pääasialliset aktiiviset ainesosat",
       "subtitle": "Replexium™",
       "subtitle1": "Juveleven™",
       "subtitle2": "Pentavitin®",
       "subtitle3": "Regu-age®",
       "description": [
-        "Peptidikompleksi – Ihoa kiinteyttävä ja elvyttävä vaikutus. Anti-Aging Care -hoitosarjaan kuuluva Peptidikompleksi on suunniteltu erityisesti ikääntyvälle iholle, joka on menettänyt kimmoisuuttaan. Tehokas peptidiyhdiste auttaa palauttamaan ihon kiinteyden ja nuorekkuuden.",
-        "Tehokas peptidiseos. Tutkimukset osoittavat, että peptidit ovat ihon proteiinien – kuten kollageenin, elastiinin ja keratiinin – rakennuspalikoita, jotka muodostavat kiinteän, joustavan ja sileän ihon perustan. Kun iho menettää näitä elintärkeitä proteiineja, seurauksena voi olla veltostunut ja kimmoisuutensa menettänyt iho. Tämä ainutlaatuinen peptidikoostumus auttaa palauttamaan kiinteyden ja rakenteen, tukien ihon luonnollista uudistumista."
+        "Peptidikompleksi – Ihoa kiinteyttävä ja elvyttävä vaikutus. Anti-Aging Care -hoitolinjaan kuuluva Peptidikompleksi on suunniteltu erityisesti ikääntyvälle iholle, joka on menettänyt kimmoisuuttaan. Tehokas yhdistelmä peptideitä auttaa palauttamaan ihon kiinteyden ja nuorekkuuden.",
+        "Tehokas yhdistelmä peptideitä. Tutkimukset osoittavat, että peptidit ovat ihon proteiinien – kuten kollageenin, elastiinin ja keratiinin – rakennuspalikoita, jotka muodostavat kiinteän, joustavan ja sileän ihon perustan. Kun iho menettää näitä elintärkeitä proteiineja, seurauksena voi olla veltostunut ja kimmoisuutensa menettänyt iho. Tämä ainutlaatuinen peptidikoostumus auttaa palauttamaan kiinteyden ja rakenteen, tukien ihon luonnollista uudistumista."
       ],
       "text": [
         "Tämä patentoitu peptidien ja proteiinien yhdistelmä tarjoaa nopean ja tehokkaan anti-aging-vaikutuksen. Sisältää puhdistettuja soija- ja riisipeptidejä sekä bioteknologisesti tuotettua hiivaproteiinia, jotka parantavat ihon sävyä ja hehkua."
@@ -88,3 +88,4 @@
     }
   ]
 }
+

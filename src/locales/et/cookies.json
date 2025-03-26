@@ -1,0 +1,25 @@
+{
+  "message": "Jetpeel kasutab nii enda kui ka kolmandate osapoolte küpsiseid. Küpsiseid kasutatakse kasutajakogemuse parandamiseks meie veebisaidil ja külastajate eelistuste (nt keele) meeldejätmiseks. Samuti kasutatakse küpsiseid veebiliikluse analüüsimiseks ja reklaamide sihtimiseks meie ja kolmandate osapoolte veebilehtedel. Palume teie nõusolekut selliste küpsiste kasutamiseks, välja arvatud need, mis on vajalikud meie veebisaidi toimimiseks. Klõpsates allpool nuppu 'Seaded', saate valida, milliseid küpsiseid soovite lubada. Klõpsates 'Nõustu kõigi küpsistega', annate nõusoleku kõikidele Jetpeeli ja kolmandate osapoolte küpsistele.",
+  "accept_all": "Nõustu kõigiga",
+  "reject_all": "Keeldu kõigist",
+  "settings_title": "Küpsiste seaded",
+  "description": "Jetpeel kasutab nii enda kui ka kolmandate osapoolte küpsiseid. Küpsiseid kasutatakse kasutajakogemuse parandamiseks meie veebisaidil ja külastajate eelistuste (nt keele) meeldejätmiseks. Samuti kasutatakse küpsiseid veebiliikluse analüüsimiseks ja reklaamide sihtimiseks meie ja kolmandate osapoolte veebilehtedel. Palume teie nõusolekut küpsiste kasutamiseks, välja arvatud need, mis on tehniliselt vajalikud veebisaidi toimimiseks. ",
+  "show_more": "Näita rohkem",
+  "show_less": "Näita vähem",
+  "functionality": "Olulised",
+  "functionality_description_short": "Mäletab sinu eelistusi. Salvestab teabe selle kohta, kas kasutaja on küpsistega nõustunud. Ei salvesta isikuandmeid.",
+  "functionality_description": "Need küpsised on vajalikud veebisaidi põhiliste funktsioonide toimimiseks, nagu vormide salvestamine või keele-eelistuste säilitamine. Neid ei saa keelata.",
+  "analytics": "Analüütika",
+  "analytics_description_short": "Salvestab kasutaja nõusoleku analüütikaküpsiste kasutamiseks.",
+  "analytics_description": "Aitab meil saidi toimimist parandada, kogudes anonüümset teavet. Aitab mõista, kuidas külastajad saidiga suhtlevad. Need küpsised võivad koguda andmeid külastuste arvu, põrkemäära ja liiklusallikate kohta.",
+  "ads": "Reklaamiküpsised",
+  "ads_description_short": "Salvestab kasutaja nõusoleku reklaamiküpsiste kasutamiseks.",
+  "ads_description": "Kasutatakse sihitud reklaamide ja turunduskampaaniate kuvamiseks. Need küpsised jälgivad kasutajaid erinevatel veebisaitidel ja koguvad andmeid isikupärastatud reklaamide näitamiseks.",
+  "personalization": "Jõudlus",
+  "personalization_description_short": "Salvestavad kasutaja poolt valitud selged eelistused ja automaatselt kogutud kaudsed andmed.",
+  "personalization_description": "Küpsised, mis salvestavad kasutaja eelistused ja seaded, et kohandada sisu, kasutajaliidest või reklaami vastavalt kasutajale. Neid kasutatakse sisu isikupärastamiseks, sihitud reklaamiks ja funktsionaalseteks seadistusteks.",
+  "cancel": "Tagasi",
+  "save_settings": "Salvesta seaded",
+  "change_cookie_preferences": "Halda nõusolekut"
+}
+

@@ -24,7 +24,7 @@ const Header = ({ title, subtitle, text1, text2}) => {
             <Button link="/contacts"
                     label={t('header.contact')} />
             </div>
-
+        
           <div className="header__image-container">
            <img src={bigProductImg} alt="product collection" className="big__product-img" />
 
