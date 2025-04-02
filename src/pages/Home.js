@@ -65,7 +65,7 @@ const Home = () => {
         <section className="video section">
           <div className="container">
             <h2 className="title-2">
-              <span className="accent">JetPeel - </span>
+              <span className="accent"></span>
               {t('video.title')}
             </h2>
             <figure className="technology__video-container">

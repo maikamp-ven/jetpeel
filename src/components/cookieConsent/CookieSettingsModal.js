@@ -5,7 +5,6 @@ import "./style.css";
 const CookieSettingsModal = ({ preferences = {}, onSave, onClose }) => {
   const { t } = useTranslation("cookies");
 
-  // Локальное состояние: обязательная категория functionality всегда true
   const [localPrefs, setLocalPrefs] = useState({
     functionality: true,
     analytics: preferences.analytics ?? false,
@@ -13,7 +12,7 @@ const CookieSettingsModal = ({ preferences = {}, onSave, onClose }) => {
     personalization: preferences.personalization ?? false
   });
 
-  // Состояние для аккордеонов (дополнительной информации)
+  
   const [expanded, setExpanded] = useState({
     functionality: false,
     analytics: false,
@@ -24,7 +23,7 @@ const CookieSettingsModal = ({ preferences = {}, onSave, onClose }) => {
   // Синхронизация с пропсами
   useEffect(() => {
     setLocalPrefs({
-      functionality: true, // обязательные куки – всегда true
+      functionality: true,
       analytics: preferences.analytics ?? false,
       ads: preferences.ads ?? false,
       personalization: preferences.personalization ?? false
@@ -32,7 +31,6 @@ const CookieSettingsModal = ({ preferences = {}, onSave, onClose }) => {
   }, [preferences]);
 
   const handleChange = (key) => {
-    // Нельзя изменять обязательную категорию
     if (key === 'functionality') return;
     setLocalPrefs(prev => ({
       ...prev,
@@ -58,7 +56,6 @@ const CookieSettingsModal = ({ preferences = {}, onSave, onClose }) => {
         <p className="cookie-modal-subtitle">{t("description")}</p>
 
         <div className="cookie-options">
-          {/* Functionality (Essential) – обязательные, всегда включены */}
           <div className="cookie-option">
             <label>
               <input type="checkbox" checked={true} disabled />

@@ -19,7 +19,7 @@
 }
 
 .serum__product-text {
-  width: 49%;
+  width: 50%;
 }
 
 .serum__product-ingredients {
@@ -50,6 +50,10 @@
   line-height: 1.5;
 }
 
+.serum__product-list li {
+  margin-bottom: 0.5rem;
+}
+
 @media (max-width: 920px) {
   .serum__product-wrapper {
     flex-direction: column;
@@ -57,7 +61,6 @@
   }
 
   .serum__product-text {
-    padding: 1em;
     width: 100%;
   }
 

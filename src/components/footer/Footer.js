@@ -56,7 +56,7 @@ const Footer = () => {
         <div className="container">
           <div className="footer__grid">
             <div className="footer__logo">
-              <img style={{ content: 'var(--logo)' }} alt="IPB Finland Logo" className="footer__logo-img" />
+              <a href="https://ipb.fi/" target="_blank" rel="noopener noreferrer"><img style={{ content: 'var(--logo)' }} alt="IPB Finland Logo" className="footer__logo-img" /></a>
               <div className="footer__logo-title">
                 <p>{t('footer.description')}</p>
               </div>

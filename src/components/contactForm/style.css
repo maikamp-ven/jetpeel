@@ -30,14 +30,15 @@
   border-radius: 1rem;
   font-size: 1.4rem;
   padding-left: 1.4rem;
-  box-shadow: inset 0.2rem 0.2rem 0.5rem #c0beba, inset -0.2rem -0.2rem 0.5rem #d4d0d0;
+  box-shadow: inset 0.2rem 0.2rem 0.5rem #c0beba,
+    inset -0.2rem -0.2rem 0.5rem #d4d0d0;
   background: none;
   font-family: inherit;
-  color: var(--text-color)
+  color: var(--text-color);
 }
 
 .info {
-  width: 100%;;
+  width: 100%;
   margin-bottom: 20px;
   min-height: 140px;
   background-color: var(--bg-color);
@@ -46,7 +47,8 @@
   font-size: 1.4rem;
   padding-top: 1rem;
   padding-left: 1.4rem;
-  box-shadow: inset 0.2rem 0.2rem 0.5rem #c0beba, inset -0.2rem -0.2rem 0.5rem #d4d0d0;
+  box-shadow: inset 0.2rem 0.2rem 0.5rem #c0beba,
+    inset -0.2rem -0.2rem 0.5rem #d4d0d0;
   color: var(--text-color);
 }
 
@@ -78,21 +80,22 @@ label {
   margin-bottom: 20px;
 }
 
-input[type="checkbox" i] {
+input[type='checkbox' i] {
   background-color: var(--bg-color);
   width: 2rem;
   height: 2rem;
   cursor: pointer;
   appearance: none;
-  box-sizing: border-box; 
+  box-sizing: border-box;
   padding: initial;
   margin: 0 1rem 0 0;
   border: 1px solid var(--bg-color);
   border-radius: 0.5rem;
-  box-shadow: inset 0.2rem 0.2rem 0.5rem #c0beba, inset -0.2rem -0.2rem 0.5rem #d4d0d0;
+  box-shadow: inset 0.2rem 0.2rem 0.5rem #c0beba,
+    inset -0.2rem -0.2rem 0.5rem #d4d0d0;
 }
 
-input[type="checkbox" i]:checked {
+input[type='checkbox' i]:checked {
   background-image: var(--checkmark);
   background-size: contain;
 }
@@ -111,19 +114,21 @@ input[type="checkbox" i]:checked {
 }
 
 .btn__submit:active {
-  box-shadow: inset .2rem .2rem 1rem #c8d0e7, inset -.2rem -.2rem 1rem  #fff;
+  box-shadow: inset 0.2rem 0.2rem 1rem #c8d0e7, inset -0.2rem -0.2rem 1rem #fff;
 }
 
-
 @media (max-width: 768px) {
-  body { overflow-x: hidden; }
-
-  .custom__form {
-    padding: 1rem;
+  body {
+    overflow-x: hidden;
   }
 
-  .form__title{
+  .form__title {
     font-size: 2rem;
+  }
+
+  .subtitle,
+  label {
+    font-size: 16px;
   }
 
   .btn__submit {

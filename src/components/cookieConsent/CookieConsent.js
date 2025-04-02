@@ -20,7 +20,7 @@ const loadGAScript = () => {
     ad_storage: 'denied',
     analytics_storage: 'denied',
     personalization_storage: 'denied',
-    functionality_storage: 'granted', // обязательные для работы сайта
+    functionality_storage: 'granted', 
     wait_for_update: 500
   });
 };

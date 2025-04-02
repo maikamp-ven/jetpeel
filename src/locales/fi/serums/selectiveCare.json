@@ -112,7 +112,7 @@
           "Selective Care – Scalp & Hair on rikastettu antioksidanttipitoisella B-vitamiinien yhdistelmällä, mukaan lukien:",
           "✔ Niasiiniamidi (B3-vitamiini) – Edistää hiuspohjan hyvinvointia.",
           "✔ Pantenoli (B5-provitamiini) – Rauhoittaa ja vahvistaa hiuspohjaa.",
-          "Biotiini (B7-vitamiini) – Tunnettu sen hiuksia vahvistavasta ja elvyttävästä vaikutuksesta."
+          "✔ Biotiini (B7-vitamiini) – Tunnettu sen hiuksia vahvistavasta ja elvyttävästä vaikutuksesta."
         ]
     },
     {
@@ -140,7 +140,9 @@
         ],
         "text3": [
           "Tämä antioksidanttinen ja antibakteerinen ainesosa tunnetaan sen rauhoittavasta ja kosteuttavasta vaikutuksesta. Aloe vera auttaa pehmentämään ja rauhoittamaan ihoa välittömästi, samalla kun se tarjoaa suojaa ulkoisia ärsykkeitä vastaan."
-        ]
+        ],
+        "text4": [
+          "Tämä pitkävaikutteinen uute, joka tunnetaan rauhoittavasta vaikutuksestaan, on merkittävä ainesosa Selective care – Soothing -seerumissa. Aloe Vera on tunnettu antioksidanttinen pehmentävä aine, joka välittömästi rauhoittaa ja pehmentää ihoa tarjoten samalla mikrobien vastaisia hyötyjä."]
     },
     {
       "slug": "lightening",

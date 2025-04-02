@@ -19,14 +19,12 @@ import imgSection5 from '../img/jetPeel-products/jetProToGo_cover.png';
 import imgSection6 from '../img/jetPeel-products/jetPeel-ToGo.png';
 import imgSection7 from '../img/jetPeel-products/5-LED-Colors-Tips.png';
 
-// Сопоставление изображений с продуктами
 const productImages = {
   jetPro: { img: jetProImage, headerImg: jetProHeader },
   jetProDuo: { img: jetProDuoImage, headerImg: jetProDuoHeader },
   jetProToGo: { img: jetProToGoImage, headerImg: jetProToGoHeader },
 };
 
-// Сопоставление изображений секций
 const sectionImages = {
   jetPro: [imgSection1, imgSection2],
   jetProDuo: [imgSection3, imgSection4],
