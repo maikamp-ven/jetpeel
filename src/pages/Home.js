@@ -160,7 +160,7 @@ const Home = () => {
             <div className="advantages__card-wrapper">
               <div className="advantages__card">
                 <h2 className="title-2 advantages__title">
-                  <span className="accent">JetPeel - </span>
+                  <span className="accent"></span>
                   {t('advantages.title')}
                 </h2>
                 <p className="advantages__subtitle">

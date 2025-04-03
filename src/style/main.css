@@ -1,13 +1,6 @@
 @import './reset.css';
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 @import url(./../fonts/gambetta/css/gambetta.css);
-/*
-  font-family: "Raleway Thin", serif;
-*/
-
-/* * {
-    border: 1px solid red;
-} */
 
 :root {
   --coral: #f19991;
@@ -19,7 +12,6 @@
   --gray: #a29e9e;
   --white: #ebeaec;
   --purple: #5a5d80;
-  --purple-light: #39042b;
   --accent: #cfa3a3;
   --checkmark: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' width='16' height='16' fill='%23ff7f50' stroke='%23ffffff' stroke-width='10'%3E%3Cpath d='M504.1 75.8L294.4 294.4c-9.998 9.997-26.207 9.997-36.204 0l-79.2-79.2c-9.997-9.997-9.997-26.207 0-36.204s26.207-9.997 36.204 0l58.8 58.8L467.9 39.6c9.998-9.997 26.207-9.997 36.204 0 9.998 9.997 9.998 26.207 0 36.204z'/%3E%3C/svg%3E");
 
